@@ -1,0 +1,37 @@
+svg path:hover {
+    fill: blue;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+;
+
+@media (max-width: 768px) {
+    svg {
+        width: 100%;
+        height: auto;
+    }
+
+    svg path {
+        stroke-width: 0.3;
+    }
+
+    svg circle {
+        r: 3;
+    }
+}
+
+@media (max-width: 480px) {
+    svg {
+        width: 100%;
+        height: auto;
+    }
+
+    svg path {
+        stroke-width: 0.2;
+    }
+
+    svg circle {
+        r: 2;
+    }
+}
