@@ -1,16 +1,16 @@
 import React from 'react';
 import AppBar from '@mui/material/AppBar';
-import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
+import { Container } from '@mui/system';
 
 export default function NavigationBar() {
     return (
         <AppBar position="sticky">
-            <Toolbar>
-                <Typography variant="h6" component="div">
+            <Container sx={{ paddingBottom: 1, paddingTop: 1 }}>
+                <Typography variant="h6">
                     My Sticky AppBar
                 </Typography>
-            </Toolbar>
+            </Container>
         </AppBar>
     );
 }

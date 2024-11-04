@@ -1,5 +1,5 @@
 svg path:hover {
-    fill: blue;
+    fill: #ffaf10;
     transition: 0.6s;
     cursor: pointer;
 }
@@ -14,10 +14,7 @@ svg path:hover {
 
     svg path {
         stroke-width: 0.3;
-    }
 
-    svg circle {
-        r: 3;
     }
 }
 
@@ -29,9 +26,5 @@ svg path:hover {
 
     svg path {
         stroke-width: 0.2;
-    }
-
-    svg circle {
-        r: 2;
     }
 }

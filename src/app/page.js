@@ -1,8 +1,5 @@
-import { Card, Container, Grid2 } from "@mui/material";
-import WebsiteLayout from "./layout/websiteLayout";
-import List from '@mui/material/List';
-import PlaceIcon from '@mui/icons-material/Place';
-import ListItemComponent from "./components/listItemComponent";
+import { Card, Grid2, List, ListItem, Typography } from "@mui/material";
+
 import InteractiveMap from "./components/mapsComponet";
 
 export const metadata = {
@@ -12,55 +9,78 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <WebsiteLayout>
-      <Container>
-        <Grid2 container spacing={2}>
-          <Grid2
-            size={{ md: 3 }}
-            sx={{
-              display: { xs: 'none', md: 'block' },
-              backgroundColor: "white",
-              maxHeight: "100vh", // Set a maximum height for the scrollable area
-              overflowY: "auto" // Enable vertical scrolling
-            }}>
-            <List>
-              <ListItemComponent icon={PlaceIcon} primaryText="Kinshasa" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Bas-Uele" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Equateur" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Haut-Katanga" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Haut-Lomami" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Haut-Uele" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Ituri" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kasaï" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kasaï-Central" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kasaï-Oriental" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kongo-Central" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kwango" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Kwilu" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Lomami" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Lualaba" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Mai-Ndombe" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Maniema" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Mongala" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Nord-Kivu" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Nord-Ubangi" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Sankuru" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Sud-Kivu" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Sud-Ubangi" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Tanganyika" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Tshopo" />
-              <ListItemComponent icon={PlaceIcon} primaryText="Tshuapa" />
-            </List>
-          </Grid2>
-          <Grid2 size={{ md: 9, xs: 12 }}>
-            <Card sx={{ maxWidth: "100%", maxHeight: "200px" }}>
-            </Card>
-            <Grid2 >
-              <InteractiveMap />
-            </Grid2>
-          </Grid2>
+    <>
+      <Grid2 container
+        justifyContent={"space-between"}
+        paddingTop={3}
+        paddingBottom={1}>
+        <Grid2>
+          <Typography
+            variant="body2"
+            fontWeight={"bold"}
+          >Province Name</Typography>
+          <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">00243</Typography>
         </Grid2>
-      </Container>
-    </WebsiteLayout>
+        <Grid2>
+          <Typography variant="body2">Location</Typography>
+        </Grid2>
+      </Grid2>
+      <Card elevation={0}>
+        <Grid2 container justifyContent="center">
+          <InteractiveMap />
+        </Grid2>
+      </Card>
+
+      <Grid2 marginTop={2} marginBottom={1}>
+        <Typography
+          variant="body2"
+          fontWeight={"bold"}
+        >Province Name</Typography>
+        <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">00243</Typography>
+      </Grid2>
+
+      <Grid2>
+        <Typography variant="body2">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing</Typography>
+      </Grid2>
+      <Grid2 marginTop={2}>
+        <Typography
+          variant="h6"
+          fontWeight={"bold"}
+        >Town & Cities</Typography>
+      </Grid2>
+      <Grid2 container justifyContent={"space-between"} marginBottom={4}>
+        <Grid2>
+          <List sx={{ marginLeft: 0, paddingLeft: 0 }}>
+            {[...Array(5)].map((_, index) => (
+              <ListItem key={index} sx={{ paddingLeft: 0 }}>
+                <Grid2 >
+                  <Typography
+                    variant="body2"
+                    fontWeight={"bold"}
+                  >Province Name</Typography>
+                  <Typography variant="subtitle2" color="#555555">00243</Typography>
+                </Grid2>
+              </ListItem>
+            ))}
+          </List>
+        </Grid2>
+        <Grid2>
+          <List sx={{ marginLeft: 0 }}>
+            {[...Array(5)].map((_, index) => (
+              <ListItem key={index}>
+                <Grid2 >
+                  <Typography
+                    variant="body2"
+                    fontWeight={"bold"}
+                  >Province Name</Typography>
+                  <Typography variant="subtitle2" color="#555555">00243</Typography>
+                </Grid2>
+              </ListItem>
+            ))}
+          </List>
+        </Grid2>
+      </Grid2>
+    </>
   );
 }
