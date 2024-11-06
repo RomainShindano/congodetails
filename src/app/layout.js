@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
       <html lang="en">
         <body className={`${geistSans.variable} ${geistMono.variable}`}>
           <NavigationBar />
-          <Container>
+          <Container sx={{ paddingTop: 5 }}>
             <Grid2 container spacing={2}>
               <Grid2
                 size={{ md: 3 }}
