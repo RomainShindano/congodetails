@@ -2,7 +2,6 @@
 import localFont from "next/font/local";
 import { Container, Grid2 } from "@mui/material";
 import List from '@mui/material/List';
-import PlaceIcon from '@mui/icons-material/Place';
 import ListItemComponent from "./components/listItemComponent";
 import "./globals.css";
 import NavigationBar from "./components/appbar";

@@ -4,7 +4,7 @@
             "id": "001",
             "name": "Kinshasa",
             "capital": "Kinshasa",
-            "maps": "./assets/Pronvices/CDKN.svg",
+            "maps": "/assets/Pronvices/CDKN.svg",
             "coordinates": {
                 "latitude": -4.4419,
                 "longitude": 15.2663
@@ -303,9 +303,9 @@
         },
         {
             "id": "002",
-            "name": "Kongo Central",
+            "name": "Kongo-Central",
             "capital": "Matadi",
-            "maps": "./assets/Pronvices/CDKC.svg",
+            "maps": "/assets/Pronvices/CDKC.svg",
             "coordinates": {
                 "latitude": -5.8140,
                 "longitude": 13.4506
@@ -504,7 +504,7 @@
             "id": "003",
             "name": "Kwango",
             "capital": "Kenge",
-            "maps": "./assets/Pronvices/CDKG.svg",
+            "maps": "/assets/Pronvices/CDKG.svg",
             "coordinates": {
                 "latitude": -4.8353,
                 "longitude": 16.8760
@@ -535,7 +535,7 @@
             "id": "004",
             "name": "Sud-Kivu",
             "capital": "Bukavu",
-            "maps": "./assets/Pronvices/CDSK.svg",
+            "maps": "/assets/Pronvices/CDSK.svg",
             "coordinates": {
                 "latitude": -2.5153,
                 "longitude": 28.8454
@@ -695,7 +695,7 @@
             "id": "005",
             "name": "Haut-Katanga",
             "capital": "Lubumbashi",
-            "maps": "./assets/Pronvices/CDHK.svg",
+            "maps": "/assets/Pronvices/CDHK.svg",
             "coordinates": {
                 "latitude": -11.6874,
                 "longitude": 27.4794
@@ -885,7 +885,7 @@
             "id": "006",
             "name": "Haut-Lomami",
             "capital": "Kamina",
-            "maps": "./assets/Pronvices/CDHL.svg",
+            "maps": "/assets/Pronvices/CDHL.svg",
             "coordinates": {
                 "latitude": -8.7386,
                 "longitude": 24.9904
@@ -919,7 +919,7 @@
             "id": "007",
             "name": "Haut-Uele",
             "capital": "Isiro",
-            "maps": "./assets/Pronvices/CDHU.svg",
+            "maps": "/assets/Pronvices/CDHU.svg",
             "coordinates": {
                 "latitude": 2.7731,
                 "longitude": 27.6160
@@ -953,7 +953,7 @@
             "id": "008",
             "name": "Ituri",
             "capital": "Bunia",
-            "maps": "./assets/Pronvices/CDIT.svg",
+            "maps": "/assets/Pronvices/CDIT.svg",
             "coordinates": {
                 "latitude": 1.5591,
                 "longitude": 30.2520
@@ -985,9 +985,9 @@
         },
         {
             "id": "009",
-            "name": "Kasaï",
+            "name": "Kasai",
             "capital": "Tshikapa",
-            "maps": "./assets/Pronvices/CDKS.svg",
+            "maps": "/assets/Pronvices/CDKS.svg",
             "coordinates": {
                 "latitude": -6.4167,
                 "longitude": 20.7990
@@ -1019,9 +1019,9 @@
         },
         {
             "id": "010",
-            "name": "Kasaï-Central",
+            "name": "Kasai-Central",
             "capital": "Kananga",
-            "maps": "./assets/Pronvices/CDKC.svg",
+            "maps": "/assets/Pronvices/CDKC.svg",
             "coordinates": {
                 "latitude": -5.8962,
                 "longitude": 22.4166
@@ -1053,9 +1053,9 @@
         },
         {
             "id": "011",
-            "name": "Kasaï-Oriental",
+            "name": "Kasai-Oriental",
             "capital": "Mbuji-Mayi",
-            "maps": "./assets/Pronvices/CDKE.svg",
+            "maps": "/assets/Pronvices/CDKE.svg",
             "coordinates": {
                 "latitude": -6.1500,
                 "longitude": 23.6000
@@ -1089,7 +1089,7 @@
             "id": "012",
             "name": "Kwilu",
             "capital": "Kikwit",
-            "maps": "./assets/Pronvices/CDKL.svg",
+            "maps": "/assets/Pronvices/CDKL.svg",
             "coordinates": {
                 "latitude": -5.0400,
                 "longitude": 18.8160
@@ -1123,7 +1123,7 @@
             "id": "013",
             "name": "Lomami",
             "capital": "Kabinda",
-            "maps": "./assets/Pronvices/CDLO.svg",
+            "maps": "/assets/Pronvices/CDLO.svg",
             "coordinates": {
                 "latitude": -6.1333,
                 "longitude": 24.4833
@@ -1157,7 +1157,7 @@
             "id": "014",
             "name": "Mai-Ndombe",
             "capital": "Inongo",
-            "maps": "./assets/Pronvices/CDMN.svg",
+            "maps": "/assets/Pronvices/CDMN.svg",
             "coordinates": {
                 "latitude": -1.9475,
                 "longitude": 18.2881
@@ -1191,7 +1191,7 @@
             "id": "015",
             "name": "Maniema",
             "capital": "Kindu",
-            "maps": "./assets/Pronvices/CDMA.svg",
+            "maps": "/assets/Pronvices/CDMA.svg",
             "coordinates": {
                 "latitude": -2.9630,
                 "longitude": 25.9090
@@ -1225,7 +1225,7 @@
             "id": "016",
             "name": "Mongala",
             "capital": "Lisala",
-            "maps": "./assets/Pronvices/CDMO.svg",
+            "maps": "/assets/Pronvices/CDMO.svg",
             "coordinates": {
                 "latitude": 2.1400,
                 "longitude": 21.5167
@@ -1259,6 +1259,7 @@
             "id": "017",
             "name": "Nord-Kivu",
             "capital": "Goma",
+            "maps": "/assets/Pronvices/CDNK.svg",
             "coordinates": {
                 "latitude": -1.6585,
                 "longitude": 29.2200
@@ -1292,7 +1293,7 @@
             "id": "018",
             "name": "Nord-Ubangi",
             "capital": "Gbadolite",
-            "maps": "./assets/Pronvices/CDNU.svg",
+            "maps": "/assets/Pronvices/CDNU.svg",
             "coordinates": {
                 "latitude": 4.2833,
                 "longitude": 21.0167
@@ -1326,7 +1327,7 @@
             "id": "019",
             "name": "Sankuru",
             "capital": "Lusambo",
-            "maps": "./assets/Pronvices/CDSA.svg",
+            "maps": "/assets/Pronvices/CDSA.svg",
             "coordinates": {
                 "latitude": -4.8167,
                 "longitude": 23.4500
@@ -1360,7 +1361,7 @@
             "id": "020",
             "name": "Sud-Ubangi",
             "capital": "Gemena",
-            "maps": "./assets/Pronvices/CDSU.svg",
+            "maps": "/assets/Pronvices/CDSU.svg",
             "coordinates": {
                 "latitude": 3.2560,
                 "longitude": 19.7720
@@ -1394,7 +1395,7 @@
             "id": "021",
             "name": "Tanganyika",
             "capital": "Kalemie",
-            "maps": "./assets/Pronvices/CDTA.svg",
+            "maps": "/assets/Pronvices/CDTA.svg",
             "coordinates": {
                 "latitude": -5.9475,
                 "longitude": 29.1947
@@ -1428,7 +1429,7 @@
             "id": "022",
             "name": "Tshopo",
             "capital": "Kisangani",
-            "maps": "./assets/Pronvices/CDTO.svg",
+            "maps": "/assets/Pronvices/CDTO.svg",
             "coordinates": {
                 "latitude": 0.5153,
                 "longitude": 25.1900
@@ -1462,7 +1463,7 @@
             "id": "023",
             "name": "Tshuapa",
             "capital": "Boende",
-            "maps": "./assets/Pronvices/CDTU.svg",
+            "maps": "/assets/Pronvices/CDTU.svg",
             "coordinates": {
                 "latitude": -0.2167,
                 "longitude": 20.8667
@@ -1496,7 +1497,7 @@
             "id": "024",
             "name": "Equateur",
             "capital": "Mbandaka",
-            "maps": "./assets/Pronvices/CDEQ.svg",
+            "maps": "/assets/Pronvices/CDEQ.svg",
             "coordinates": {
                 "latitude": 0.0486,
                 "longitude": 18.2603
@@ -1530,7 +1531,7 @@
             "id": "025",
             "name": "Lualaba",
             "capital": "Kolwezi",
-            "maps": "./assets/Pronvices/CDLU.svg",
+            "maps": "/assets/Pronvices/CDLU.svg",
             "coordinates": {
                 "latitude": -10.7167,
                 "longitude": 25.4721
@@ -1564,7 +1565,7 @@
             "id": "026",
             "name": "Bas-Uele",
             "capital": "Buta",
-            "maps": "./assets/Pronvices/CDBU.svg",
+            "maps": "/assets/Pronvices/CDBU.svg",
             "coordinates": {
                 "latitude": 2.7850,
                 "longitude": 24.7300
