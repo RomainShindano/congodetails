@@ -38,7 +38,7 @@ export default function NavigationBar() {
                             </IconButton>
                         </Grid2>
                         <Link href="/" sx={{ color: "white" }}>
-                            <Typography variant="h6">
+                            <Typography variant="h6" padding={"5px"}>
                                 Home
                             </Typography>
                         </Link>
@@ -57,17 +57,21 @@ export default function NavigationBar() {
                     >
                         <Menu />
                     </IconButton>
-                    <Link href="/" sx={{ display: 'block', marginTop: 1 }}>
+                    {/* <Link href="/" sx={{ display: 'block', marginTop: 1 }}>
                         Home
-                    </Link>
+                    </Link> */}
 
                     <List>
                         {provinces.map((province, index) => (
-                            <ListItemComponent
-                                key={province}
-                                provinceIndex={index}
+                            <Grid2 key={province}
                                 onClick={() => handleProvinceClick(province)}
-                            />
+                            >
+                                <ListItemComponent
+                                    key={province}
+                                    provinceIndex={index}
+                                    onClick={() => handleProvinceClick(province)}
+                                />
+                            </Grid2>
                         ))}
                     </List>
                 </Container>

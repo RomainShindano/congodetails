@@ -41,7 +41,9 @@ export default function RootLayout({ children }) {
                   display: { xs: 'none', md: 'block' },
                   backgroundColor: "white",
                   maxHeight: "100vh",
-                  overflowY: "auto"
+                  overflowY: "auto",
+                  paddingTop: 3,
+                  paddingBottom: 3,
                 }}>
                 <List>
                   {provinces.map((province, index) => (

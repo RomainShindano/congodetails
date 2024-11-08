@@ -35,7 +35,7 @@ export default function ProvinceDetail() {
     return (
         <>
             <div>
-                <Grid2 container justifyContent={"space-between"} paddingTop={3} paddingBottom={1}>
+                <Grid2 container justifyContent={"space-between"} paddingTop={5} paddingBottom={1}>
                     <Grid2>
                         <Typography variant="body2" fontWeight={"bold"}>{provinceData.name}</Typography>
                         <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">{provinceData.postal_code}</Typography>
@@ -48,7 +48,7 @@ export default function ProvinceDetail() {
                     <Grid2 container justifyContent="center" sx={{ height: 500 }}>
                         <img
                             src={provinceData.maps}
-                            style={{ height: 400, marginTop: 40 }}
+                            style={{ height: 250, marginTop: 100, }}
                             alt={`${provinceData.name} Map`}
                         />
                     </Grid2>
