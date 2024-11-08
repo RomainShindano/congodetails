@@ -58,6 +58,7 @@ export default function RootLayout({ children }) {
               <Grid2 size={{ md: 9, xs: 12 }}
                 sx={{
                   maxHeight: "100vh",
+                  paddingTop: 2,
                   overflowY: "scroll",
                   "&::-webkit-scrollbar": {
                     width: "0px"
