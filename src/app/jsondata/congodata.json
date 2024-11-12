@@ -9,219 +9,1365 @@
                 "latitude": -4.4419,
                 "longitude": 15.2663
             },
-            "postal_code": "001",
+            "postal_code": "10",
             "towns": [
                 {
                     "name": "Kinshasa",
-                    "postal_code": "00101",
+                    "postal_code": "10",
                     "communes": [
                         {
                             "name": "Barumbu",
-                            "postal_code": "0010101",
+                            "postal_code": "1021",
                             "coordinates": {
                                 "latitude": -4.3299,
                                 "longitude": 15.3126
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BITSHAKU-TSHAKU",
+                                    "postal_code": "1021010"
+                                },
+                                {
+                                    "name": "CAMP PILOTE MBAKI",
+                                    "postal_code": "1021020"
+                                },
+                                {
+                                    "name": "CAMP NDOLO",
+                                    "postal_code": "1021030"
+                                },
+                                {
+                                    "name": "FUNA I",
+                                    "postal_code": "1021040"
+                                },
+                                {
+                                    "name": "FUNA II",
+                                    "postal_code": "1021050"
+                                },
+                                {
+                                    "name": "KAPINGA BAPO",
+                                    "postal_code": "1021060"
+                                },
+                                {
+                                    "name": "KASAI",
+                                    "postal_code": "1021070"
+                                },
+                                {
+                                    "name": "LIBULU",
+                                    "postal_code": "1021081"
+                                },
+                                {
+                                    "name": "MOZINDO",
+                                    "postal_code": "1021090"
+                                },
+                                {
+                                    "name": "NDOLO",
+                                    "postal_code": "1021101"
+                                },
+                                {
+                                    "name": "TSHIMANGA",
+                                    "postal_code": "1021110"
+                                }
+                            ]
                         },
                         {
                             "name": "Bumbu",
-                            "postal_code": "0010102",
+                            "postal_code": "1015",
                             "coordinates": {
                                 "latitude": -4.3848,
                                 "longitude": 15.2832
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "CAMP LIEUTENANT MBAKI",
+                                    "postal_code": "1015010"
+                                },
+                                {
+                                    "name": "DIPIYA",
+                                    "postal_code": "1015020"
+                                },
+                                {
+                                    "name": "KASAI",
+                                    "postal_code": "1015030"
+                                },
+                                {
+                                    "name": "KWANGO",
+                                    "postal_code": "1015040"
+                                },
+                                {
+                                    "name": "LOKORO",
+                                    "postal_code": "1015050"
+                                },
+                                {
+                                    "name": "LUKENI",
+                                    "postal_code": "1015060"
+                                },
+                                {
+                                    "name": "MAI-NDOMBE",
+                                    "postal_code": "1015070"
+                                },
+                                {
+                                    "name": "MATADI",
+                                    "postal_code": "1015080"
+                                },
+                                {
+                                    "name": "MBANDAKA",
+                                    "postal_code": "1015090"
+                                },
+                                {
+                                    "name": "MFIMI",
+                                    "postal_code": "1015100"
+                                },
+                                {
+                                    "name": "MONGALA",
+                                    "postal_code": "1015110"
+                                },
+                                {
+                                    "name": "NTOMBA",
+                                    "postal_code": "1015120"
+                                },
+                                {
+                                    "name": "UBANGI",
+                                    "postal_code": "1015130"
+                                }
+                            ]
                         },
                         {
                             "name": "Gombe",
-                            "postal_code": "0010103",
+                            "postal_code": "1003",
                             "coordinates": {
                                 "latitude": -4.3166,
                                 "longitude": 15.3119
                             },
                             "neighborhoods": [
                                 {
-                                    "name": "Socimat",
-                                    "postal_code": "001010301",
-                                    "coordinates": {
-                                        "latitude": -4.3160,
-                                        "longitude": 15.3120
-                                    }
+                                    "name": "2EME REGION NAVALE",
+                                    "postal_code": "1003010"
                                 },
                                 {
-                                    "name": "Kintambo Magasin",
-                                    "postal_code": "001010302",
-                                    "coordinates": {
-                                        "latitude": -4.3170,
-                                        "longitude": 15.3130
-                                    }
+                                    "name": "BATETELA",
+                                    "postal_code": "1003020"
                                 },
                                 {
-                                    "name": "Grand Hôtel",
-                                    "postal_code": "001010303",
-                                    "coordinates": {
-                                        "latitude": -4.3180,
-                                        "longitude": 15.3140
-                                    }
+                                    "name": "CLINIQUE",
+                                    "postal_code": "1003030"
                                 },
                                 {
-                                    "name": "Échangeur",
-                                    "postal_code": "001010304",
-                                    "coordinates": {
-                                        "latitude": -4.3190,
-                                        "longitude": 15.3150
-                                    }
+                                    "name": "COMMERCE",
+                                    "postal_code": "1003040"
+                                },
+                                {
+                                    "name": "CROIX ROUGE",
+                                    "postal_code": "1003050"
+                                },
+                                {
+                                    "name": "FLEUVE",
+                                    "postal_code": "1003060"
+                                },
+                                {
+                                    "name": "GARE",
+                                    "postal_code": "1003071"
+                                },
+                                {
+                                    "name": "GOLF",
+                                    "postal_code": "1003080"
+                                },
+                                {
+                                    "name": "HAUT COMMANDEMENT",
+                                    "postal_code": "1003091"
+                                },
+                                {
+                                    "name": "LEMERA",
+                                    "postal_code": "1003101"
+                                },
+                                {
+                                    "name": "REVOLUTION",
+                                    "postal_code": "1003110"
+                                },
+                                {
+                                    "name": "HAUT COMMANDEMENT",
+                                    "postal_code": "1003091"
                                 }
                             ]
                         },
                         {
                             "name": "Kalamu",
-                            "postal_code": "0010104",
+                            "postal_code": "1022",
                             "coordinates": {
                                 "latitude": -4.3958,
                                 "longitude": 15.3091
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "IMMO-CONGO",
+                                    "postal_code": "1022010"
+                                },
+                                {
+                                    "name": "KAUKA I",
+                                    "postal_code": "1022020"
+                                },
+                                {
+                                    "name": "KAUKA II",
+                                    "postal_code": "1022030"
+                                },
+                                {
+                                    "name": "KAUKA III",
+                                    "postal_code": "1022040"
+                                },
+                                {
+                                    "name": "KIMBANGU I",
+                                    "postal_code": "1022050"
+                                },
+                                {
+                                    "name": "KIMBANGU II",
+                                    "postal_code": "1022060"
+                                },
+                                {
+                                    "name": "KIMBANGU III",
+                                    "postal_code": "1022070"
+                                },
+                                {
+                                    "name": "MATONGE I",
+                                    "postal_code": "1022080"
+                                },
+                                {
+                                    "name": "MATONGE II",
+                                    "postal_code": "1022091"
+                                },
+                                {
+                                    "name": "MATONGE III",
+                                    "postal_code": "1022100"
+                                },
+                                {
+                                    "name": "PINZI",
+                                    "postal_code": "1022110"
+                                },
+                                {
+                                    "name": "YOLO-NORD I",
+                                    "postal_code": "1022120"
+                                },
+                                {
+                                    "name": "YOLO-NORD II",
+                                    "postal_code": "1022130"
+                                },
+                                {
+                                    "name": "YOLO-NORD III",
+                                    "postal_code": "1022140"
+                                },
+                                {
+                                    "name": "YOLO-SUD I",
+                                    "postal_code": "1022150"
+                                },
+                                {
+                                    "name": "YOLO-SUD II",
+                                    "postal_code": "1022160"
+                                },
+                                {
+                                    "name": "YOLO-SUD III",
+                                    "postal_code": "1022170"
+                                },
+                                {
+                                    "name": "YOLO-SUD IV",
+                                    "postal_code": "1022180"
+                                }
+                            ]
                         },
                         {
                             "name": "Kasa-Vubu",
-                            "postal_code": "0010105",
+                            "postal_code": "1024",
                             "coordinates": {
                                 "latitude": -4.3601,
                                 "longitude": 15.2983
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "ANCIENS COMBATANTS",
+                                    "postal_code": "1024010"
+                                },
+                                {
+                                    "name": "ASSOSA",
+                                    "postal_code": "1024021"
+                                },
+                                {
+                                    "name": "KATANGA SHABA",
+                                    "postal_code": "1024030"
+                                },
+                                {
+                                    "name": "LODJA",
+                                    "postal_code": "1024040"
+                                },
+                                {
+                                    "name": "LUBUMBASHI",
+                                    "postal_code": "1024051"
+                                },
+                                {
+                                    "name": "O N L",
+                                    "postal_code": "1024060"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1024070"
+                                }
+                            ]
                         },
                         {
                             "name": "Kimbanseke",
-                            "postal_code": "0010106",
+                            "postal_code": "1008",
                             "coordinates": {
                                 "latitude": -4.3850,
                                 "longitude": 15.4110
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BAHUMBU",
+                                    "postal_code": "1008010"
+                                },
+                                {
+                                    "name": "BAMBOMA",
+                                    "postal_code": "1008020"
+                                },
+                                {
+                                    "name": "BATUMONA",
+                                    "postal_code": "1008030"
+                                },
+                                {
+                                    "name": "BIKUKU",
+                                    "postal_code": "1008040"
+                                },
+                                {
+                                    "name": "BIYELA",
+                                    "postal_code": "1008050"
+                                },
+                                {
+                                    "name": "BOMA",
+                                    "postal_code": "1008060"
+                                },
+                                {
+                                    "name": "DISASI",
+                                    "postal_code": "1008070"
+                                },
+                                {
+                                    "name": "ESANGA",
+                                    "postal_code": "1008080"
+                                },
+                                {
+                                    "name": "KABILA",
+                                    "postal_code": "1008090"
+                                },
+                                {
+                                    "name": "KAKUDJI",
+                                    "postal_code": "1008100"
+                                },
+                                {
+                                    "name": "KAMBA MULUMBA",
+                                    "postal_code": "1008110"
+                                },
+                                {
+                                    "name": "KAMBOKO",
+                                    "postal_code": "1008120"
+                                },
+                                {
+                                    "name": "KASA-VUBU",
+                                    "postal_code": "1008130"
+                                },
+                                {
+                                    "name": "KAYOLO",
+                                    "postal_code": "1008140"
+                                },
+                                {
+                                    "name": "KIKIMI",
+                                    "postal_code": "1008150"
+                                },
+                                {
+                                    "name": "KIMBUNDI",
+                                    "postal_code": "1008160"
+                                },
+                                {
+                                    "name": "KINGASANI",
+                                    "postal_code": "1008170"
+                                },
+                                {
+                                    "name": "KISANTU",
+                                    "postal_code": "1008180"
+                                },
+                                {
+                                    "name": "KUTU",
+                                    "postal_code": "1008190"
+                                },
+                                {
+                                    "name": "LUEBO",
+                                    "postal_code": "1008200"
+                                },
+                                {
+                                    "name": "MABINDA",
+                                    "postal_code": "1008210"
+                                },
+                                {
+                                    "name": "MALONDA",
+                                    "postal_code": "1008220"
+                                },
+                                {
+                                    "name": "MARECHAL  17 MAI",
+                                    "postal_code": "1008230"
+                                },
+                                {
+                                    "name": "MONGANA",
+                                    "postal_code": "1008240"
+                                },
+                                {
+                                    "name": "MAVIOKELE",
+                                    "postal_code": "1008250"
+                                },
+                                {
+                                    "name": "MAYENGELE",
+                                    "postal_code": "1008260"
+                                },
+                                {
+                                    "name": "MBEMBA FUNDU",
+                                    "postal_code": "1008270"
+                                },
+                                {
+                                    "name": "MBWALA",
+                                    "postal_code": "1008280"
+                                },
+                                {
+                                    "name": "MFUMU NKETO",
+                                    "postal_code": "1008290"
+                                },
+                                {
+                                    "name": "MIKONDO",
+                                    "postal_code": "1008300"
+                                },
+                                {
+                                    "name": "MOKALI",
+                                    "postal_code": "1008310"
+                                },
+                                {
+                                    "name": "MULIE",
+                                    "postal_code": "1008320"
+                                },
+                                {
+                                    "name": "MUNKANKA",
+                                    "postal_code": "1008330"
+                                },
+                                {
+                                    "name": "NGAMA YAMA",
+                                    "postal_code": "1008340"
+                                },
+                                {
+                                    "name": "NGAMAZITA",
+                                    "postal_code": "1008350"
+                                },
+                                {
+                                    "name": "NGAMPANI",
+                                    "postal_code": "1008360"
+                                },
+                                {
+                                    "name": "NGANDU",
+                                    "postal_code": "1008370"
+                                },
+                                {
+                                    "name": "NGIESI",
+                                    "postal_code": "1008380"
+                                },
+                                {
+                                    "name": "NSANGA",
+                                    "postal_code": "1008390"
+                                },
+                                {
+                                    "name": "NZUMBWA",
+                                    "postal_code": "1008400"
+                                },
+                                {
+                                    "name": "PANDA–NZILA",
+                                    "postal_code": "1008410"
+                                },
+                                {
+                                    "name": "PIERRE MFOKOM",
+                                    "postal_code": "1008420"
+                                },
+                                {
+                                    "name": "REVOLUTION",
+                                    "postal_code": "1008430"
+                                },
+                                {
+                                    "name": "SAKOMBI",
+                                    "postal_code": "1008440"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1008450"
+                                },
+                                {
+                                    "name": "WAYA–WAYA",
+                                    "postal_code": "1008460"
+                                }
+                            ]
                         },
                         {
                             "name": "Kinshasa",
-                            "postal_code": "0010107",
+                            "postal_code": "1020",
                             "coordinates": {
                                 "latitude": -4.3250,
                                 "longitude": 15.3222
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "AKETI",
+                                    "postal_code": "1020010"
+                                },
+                                {
+                                    "name": "BOYOMA",
+                                    "postal_code": "1020020"
+                                },
+                                {
+                                    "name": "DJALO",
+                                    "postal_code": "1020030"
+                                },
+                                {
+                                    "name": "MADIMBA",
+                                    "postal_code": "1020040"
+                                },
+                                {
+                                    "name": "MONGALA",
+                                    "postal_code": "1020050"
+                                },
+                                {
+                                    "name": "NGBAKA",
+                                    "postal_code": "1020061"
+                                },
+                                {
+                                    "name": "PENDE",
+                                    "postal_code": "1020070"
+                                }
+                            ]
                         },
                         {
                             "name": "Kintambo",
-                            "postal_code": "0010108",
+                            "postal_code": "1017",
                             "coordinates": {
                                 "latitude": -4.3317,
                                 "longitude": 15.2663
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "ITIMBIRI",
+                                    "postal_code": "1017010"
+                                },
+                                {
+                                    "name": "KILIMANI",
+                                    "postal_code": "1017021"
+                                },
+                                {
+                                    "name": "LISALA I",
+                                    "postal_code": "1017030"
+                                },
+                                {
+                                    "name": "LISALA II",
+                                    "postal_code": "1017040"
+                                },
+                                {
+                                    "name": "LUBUDI LUKA",
+                                    "postal_code": "1017050"
+                                },
+                                {
+                                    "name": "LUBUDI NGANDU",
+                                    "postal_code": "1017060"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1017070"
+                                },
+                                {
+                                    "name": "TSHINKELA",
+                                    "postal_code": "1017080"
+                                },
+                                {
+                                    "name": "WENZE",
+                                    "postal_code": "1017090"
+                                }
+                            ]
                         },
                         {
                             "name": "Kisenso",
-                            "postal_code": "0010109",
+                            "postal_code": "1011",
                             "coordinates": {
                                 "latitude": -4.3920,
                                 "longitude": 15.4000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "17 MAI",
+                                    "postal_code": "1011010"
+                                },
+                                {
+                                    "name": "AMBA",
+                                    "postal_code": "1011020"
+                                },
+                                {
+                                    "name": "BIKANGA",
+                                    "postal_code": "1011030"
+                                },
+                                {
+                                    "name": "DINGI-DINGI",
+                                    "postal_code": "1011040"
+                                },
+                                {
+                                    "name": "DE LA PAIX",
+                                    "postal_code": "1011050"
+                                },
+                                {
+                                    "name": "KITOMESA",
+                                    "postal_code": "1011060"
+                                },
+                                {
+                                    "name": "KISENSO GARE",
+                                    "postal_code": "1011070"
+                                },
+                                {
+                                    "name": "KABILA",
+                                    "postal_code": "1011080"
+                                },
+                                {
+                                    "name": "LIBERATION",
+                                    "postal_code": "1011090"
+                                },
+                                {
+                                    "name": "KUMBU",
+                                    "postal_code": "1011100"
+                                },
+                                {
+                                    "name": "MBUKU",
+                                    "postal_code": "1011110"
+                                },
+                                {
+                                    "name": "MISSION",
+                                    "postal_code": "1011120"
+                                },
+                                {
+                                    "name": "MUJINGA",
+                                    "postal_code": "1011130"
+                                },
+                                {
+                                    "name": "NGOMBA",
+                                    "postal_code": "1011140"
+                                },
+                                {
+                                    "name": "NSOLA",
+                                    "postal_code": "1011150"
+                                },
+                                {
+                                    "name": "REGIDESO",
+                                    "postal_code": "1011161"
+                                },
+                                {
+                                    "name": "REVOLUTION",
+                                    "postal_code": "1011170"
+                                }
+                            ]
                         },
                         {
                             "name": "Lemba",
-                            "postal_code": "0010110",
+                            "postal_code": "1012",
                             "coordinates": {
                                 "latitude": -4.3925,
                                 "longitude": 15.3300
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "CAMP KABILA",
+                                    "postal_code": "1012010"
+                                },
+                                {
+                                    "name": "CAMP OSS",
+                                    "postal_code": "1012020"
+                                },
+                                {
+                                    "name": "COMMERCIAL",
+                                    "postal_code": "1012030"
+                                },
+                                {
+                                    "name": "ECHANGEUR",
+                                    "postal_code": "1012040"
+                                },
+                                {
+                                    "name": "ECOLE",
+                                    "postal_code": "1012050"
+                                },
+                                {
+                                    "name": "FOIRE",
+                                    "postal_code": "1012060"
+                                },
+                                {
+                                    "name": "GOMBELE",
+                                    "postal_code": "1012070"
+                                },
+                                {
+                                    "name": "KIMI RIGHINI",
+                                    "postal_code": "1012080"
+                                },
+                                {
+                                    "name": "KIMPWANZA",
+                                    "postal_code": "1012090"
+                                },
+                                {
+                                    "name": "LIVULU",
+                                    "postal_code": "1012100"
+                                },
+                                {
+                                    "name": "MADRANDELE",
+                                    "postal_code": "1012111"
+                                },
+                                {
+                                    "name": "MASANO",
+                                    "postal_code": "1012120"
+                                },
+                                {
+                                    "name": "MBANZA LEMBA",
+                                    "postal_code": "1012131"
+                                },
+                                {
+                                    "name": "MOLO",
+                                    "postal_code": "1012140"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1012150"
+                                }
+                            ]
                         },
                         {
                             "name": "Limete",
-                            "postal_code": "0010111",
+                            "postal_code": "1004",
                             "coordinates": {
                                 "latitude": -4.3700,
                                 "longitude": 15.3500
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "AGRICOLE",
+                                    "postal_code": "1004010"
+                                },
+                                {
+                                    "name": "INDUSTRIEL",
+                                    "postal_code": "1004020"
+                                },
+                                {
+                                    "name": "KINGABWA",
+                                    "postal_code": "1004030"
+                                },
+                                {
+                                    "name": "MATEBA",
+                                    "postal_code": "1004040"
+                                },
+                                {
+                                    "name": "MASIALA",
+                                    "postal_code": "1004050"
+                                },
+                                {
+                                    "name": "MAYULU",
+                                    "postal_code": "1004060"
+                                },
+                                {
+                                    "name": "MBAMBU",
+                                    "postal_code": "1004070"
+                                },
+                                {
+                                    "name": "MFUMU MVULA",
+                                    "postal_code": "1004080"
+                                },
+                                {
+                                    "name": "MOMBELE",
+                                    "postal_code": "1004090"
+                                },
+                                {
+                                    "name": "MOSOSO",
+                                    "postal_code": "1004100"
+                                },
+                                {
+                                    "name": "NDANU",
+                                    "postal_code": "1004110"
+                                },
+                                {
+                                    "name": "NZADI",
+                                    "postal_code": "1004120"
+                                },
+                                {
+                                    "name": "RESIDENTIEL",
+                                    "postal_code": "1004131"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1004140"
+                                }
+                            ]
                         },
                         {
                             "name": "Lingwala",
-                            "postal_code": "0010112",
+                            "postal_code": "1019",
                             "coordinates": {
                                 "latitude": -4.3290,
                                 "longitude": 15.3000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "30 JUIN",
+                                    "postal_code": "1019010"
+                                },
+                                {
+                                    "name": "CAMP LUFUNGULA",
+                                    "postal_code": "1019020"
+                                },
+                                {
+                                    "name": "CNECI",
+                                    "postal_code": "1019030"
+                                },
+                                {
+                                    "name": "LA VOIX DU PEUPLE",
+                                    "postal_code": "1019040"
+                                },
+                                {
+                                    "name": "LOKOLE",
+                                    "postal_code": "1019050"
+                                },
+                                {
+                                    "name": "NGUNDA LOKOMBE",
+                                    "postal_code": "1019061"
+                                },
+                                {
+                                    "name": "PAKADJUMA",
+                                    "postal_code": "1019070"
+                                },
+                                {
+                                    "name": "SINGA MOPEPE",
+                                    "postal_code": "1019080"
+                                },
+                                {
+                                    "name": "WENZE LUFUNGULA",
+                                    "postal_code": "1019090"
+                                }
+                            ]
                         },
                         {
                             "name": "Makala",
-                            "postal_code": "0010113",
+                            "postal_code": "1014",
                             "coordinates": {
                                 "latitude": -4.3900,
                                 "longitude": 15.2800
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BAHUMBU",
+                                    "postal_code": "1014010"
+                                },
+                                {
+                                    "name": "BAGATA",
+                                    "postal_code": "1014020"
+                                },
+                                {
+                                    "name": "BOLIMA",
+                                    "postal_code": "1014030"
+                                },
+                                {
+                                    "name": "KABILA",
+                                    "postal_code": "1014040"
+                                },
+                                {
+                                    "name": "KISANTU",
+                                    "postal_code": "1014050"
+                                },
+                                {
+                                    "name": "KWANGO",
+                                    "postal_code": "1014060"
+                                },
+                                {
+                                    "name": "LEMBA-VILLAGE",
+                                    "postal_code": "1014070"
+                                },
+                                {
+                                    "name": "MABULU I",
+                                    "postal_code": "1014080"
+                                },
+                                {
+                                    "name": "MABULU II",
+                                    "postal_code": "1014090"
+                                },
+                                {
+                                    "name": "MALOLA",
+                                    "postal_code": "1014100"
+                                },
+                                {
+                                    "name": "MAWANGA",
+                                    "postal_code": "1014110"
+                                },
+                                {
+                                    "name": "MFIDI",
+                                    "postal_code": "1014120"
+                                },
+                                {
+                                    "name": "MIKASI",
+                                    "postal_code": "1014130"
+                                },
+                                {
+                                    "name": "SALONGO",
+                                    "postal_code": "1014140"
+                                },
+                                {
+                                    "name": "SELO",
+                                    "postal_code": "1014150"
+                                },
+                                {
+                                    "name": "TAMPA",
+                                    "postal_code": "1014160"
+                                },
+                                {
+                                    "name": "VELE",
+                                    "postal_code": "1014170"
+                                },
+                                {
+                                    "name": "WAMBA",
+                                    "postal_code": "1014180"
+                                }
+                            ]
                         },
                         {
                             "name": "Maluku",
-                            "postal_code": "0010114",
+                            "postal_code": "1007",
                             "coordinates": {
                                 "latitude": -4.3167,
                                 "longitude": 15.6000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "DUMI",
+                                    "postal_code": "1007010"
+                                },
+                                {
+                                    "name": "CAMP MONAKO",
+                                    "postal_code": "1007021"
+                                },
+                                {
+                                    "name": "KIKIMI",
+                                    "postal_code": "1007030"
+                                },
+                                {
+                                    "name": "KIMPOKO",
+                                    "postal_code": "1007040"
+                                },
+                                {
+                                    "name": "KINGAKATI",
+                                    "postal_code": "1007050"
+                                },
+                                {
+                                    "name": "KINGUNU",
+                                    "postal_code": "1007060"
+                                },
+                                {
+                                    "name": "KINZONO",
+                                    "postal_code": "1007070"
+                                },
+                                {
+                                    "name": "MAYI-NDOMBE",
+                                    "postal_code": "1007080"
+                                },
+                                {
+                                    "name": "MALUKU",
+                                    "postal_code": "1007090"
+                                },
+                                {
+                                    "name": "MANGENGENGE",
+                                    "postal_code": "1007100"
+                                },
+                                {
+                                    "name": "MBAKANA",
+                                    "postal_code": "1007110"
+                                },
+                                {
+                                    "name": "MENKAO",
+                                    "postal_code": "1007120"
+                                },
+                                {
+                                    "name": "MONAKO",
+                                    "postal_code": "1007130"
+                                },
+                                {
+                                    "name": "MONGATA",
+                                    "postal_code": "1007140"
+                                },
+                                {
+                                    "name": "MWE",
+                                    "postal_code": "1007150"
+                                },
+                                {
+                                    "name": "NGANA",
+                                    "postal_code": "1007160"
+                                },
+                                {
+                                    "name": "NGUMA",
+                                    "postal_code": "1007170"
+                                },
+                                {
+                                    "name": "RU",
+                                    "postal_code": "1007180"
+                                },
+                                {
+                                    "name": "YOSSO",
+                                    "postal_code": "1007190"
+                                },
+                                {
+                                    "name": "YUO",
+                                    "postal_code": "1007200"
+                                }
+                            ]
                         },
                         {
                             "name": "Masina",
-                            "postal_code": "0010115",
+                            "postal_code": "1005",
                             "coordinates": {
                                 "latitude": -4.3833,
                                 "longitude": 15.4000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "ABATTOIRE",
+                                    "postal_code": "1005010"
+                                },
+                                {
+                                    "name": "BOBA",
+                                    "postal_code": "1005020"
+                                },
+                                {
+                                    "name": "CONGO",
+                                    "postal_code": "1005030"
+                                },
+                                {
+                                    "name": "EFOLOKO",
+                                    "postal_code": "1005040"
+                                },
+                                {
+                                    "name": "IMBALI",
+                                    "postal_code": "1005050"
+                                },
+                                {
+                                    "name": "KASAI",
+                                    "postal_code": "1005060"
+                                },
+                                {
+                                    "name": "KIMBANGU",
+                                    "postal_code": "1005070"
+                                },
+                                {
+                                    "name": "KIVU",
+                                    "postal_code": "1005080"
+                                },
+                                {
+                                    "name": "LOKARI",
+                                    "postal_code": "1005090"
+                                },
+                                {
+                                    "name": "LUBAMBA",
+                                    "postal_code": "1005100"
+                                },
+                                {
+                                    "name": "MAFUTA-KIZOLA",
+                                    "postal_code": "1005110"
+                                },
+                                {
+                                    "name": "MADIANGU",
+                                    "postal_code": "1005120"
+                                },
+                                {
+                                    "name": "MAPELA",
+                                    "postal_code": "1005130"
+                                },
+                                {
+                                    "name": "MATADI",
+                                    "postal_code": "1005140"
+                                },
+                                {
+                                    "name": "MFUMU-NSUKA",
+                                    "postal_code": "1005150"
+                                },
+                                {
+                                    "name": "NZUZI WA MBOMBO",
+                                    "postal_code": "1005160"
+                                },
+                                {
+                                    "name": "PELENDE",
+                                    "postal_code": "1005170"
+                                },
+                                {
+                                    "name": "SANS-FIL",
+                                    "postal_code": "1005180"
+                                },
+                                {
+                                    "name": "TELEVISION",
+                                    "postal_code": "1005190"
+                                },
+                                {
+                                    "name": "TSHANGU",
+                                    "postal_code": "1005200"
+                                },
+                                {
+                                    "name": "TSHWENGE",
+                                    "postal_code": "1005210"
+                                }
+                            ]
                         },
                         {
                             "name": "Matete",
-                            "postal_code": "0010116",
+                            "postal_code": "1010",
                             "coordinates": {
                                 "latitude": -4.3833,
                                 "longitude": 15.3500
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "DONDO",
+                                    "postal_code": "1010010"
+                                },
+                                {
+                                    "name": "LOEKA",
+                                    "postal_code": "1010020"
+                                },
+                                {
+                                    "name": "LUBEFU",
+                                    "postal_code": "1010030"
+                                },
+                                {
+                                    "name": "LUKUNGA",
+                                    "postal_code": "1010040"
+                                },
+                                {
+                                    "name": "LUMUMBA",
+                                    "postal_code": "1010050"
+                                },
+                                {
+                                    "name": "LUNIONZO",
+                                    "postal_code": "1010060"
+                                },
+                                {
+                                    "name": "MALEMBA",
+                                    "postal_code": "1010070"
+                                },
+                                {
+                                    "name": "MAZIBA",
+                                    "postal_code": "1010080"
+                                },
+                                {
+                                    "name": "MBAMB IPOKU",
+                                    "postal_code": "1010091"
+                                },
+                                {
+                                    "name": "SANKURU",
+                                    "postal_code": "1010100"
+                                },
+                                {
+                                    "name": "SUMBUKA",
+                                    "postal_code": "1010110"
+                                },
+                                {
+                                    "name": "TOTAKA",
+                                    "postal_code": "1010120"
+                                },
+                                {
+                                    "name": "VIVI",
+                                    "postal_code": "1010130"
+                                }
+                            ]
                         },
                         {
                             "name": "Mont Ngafula",
-                            "postal_code": "0010117",
+                            "postal_code": "1001",
                             "coordinates": {
                                 "latitude": -4.4500,
                                 "longitude": 15.2500
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "CAMP SINGA BOYENGE",
+                                    "postal_code": "1001010"
+                                },
+                                {
+                                    "name": "CPA MUSHIE",
+                                    "postal_code": "1001020"
+                                },
+                                {
+                                    "name": "KIMBWALA",
+                                    "postal_code": "1001030"
+                                },
+                                {
+                                    "name": "KIMBONDO",
+                                    "postal_code": "1001040"
+                                },
+                                {
+                                    "name": "KIMWENZA",
+                                    "postal_code": "1001050"
+                                },
+                                {
+                                    "name": "KINDELE",
+                                    "postal_code": "1001060"
+                                },
+                                {
+                                    "name": "MAMAYEMO",
+                                    "postal_code": "1001070"
+                                },
+                                {
+                                    "name": "MAMA MOBUTU",
+                                    "postal_code": "1001080"
+                                },
+                                {
+                                    "name": "MASANGA MBILA",
+                                    "postal_code": "1001090"
+                                },
+                                {
+                                    "name": "MASUMU",
+                                    "postal_code": "1001100"
+                                },
+                                {
+                                    "name": "MATADI KIBALA",
+                                    "postal_code": "1001110"
+                                },
+                                {
+                                    "name": "MATADI MAYO",
+                                    "postal_code": "1001120"
+                                },
+                                {
+                                    "name": "MAZAMBA",
+                                    "postal_code": "1001130"
+                                },
+                                {
+                                    "name": "MITENDI",
+                                    "postal_code": "1001140"
+                                },
+                                {
+                                    "name": "MUSANGU",
+                                    "postal_code": "1001150"
+                                },
+                                {
+                                    "name": "MBUKI",
+                                    "postal_code": "1001160"
+                                },
+                                {
+                                    "name": "N’DJILI KILAMBU",
+                                    "postal_code": "1001170"
+                                },
+                                {
+                                    "name": "NGANSELE",
+                                    "postal_code": "1001180"
+                                },
+                                {
+                                    "name": "NGOMBE LUTENDELE",
+                                    "postal_code": "1001190"
+                                },
+                                {
+                                    "name": "PLATEAU",
+                                    "postal_code": "1001200"
+                                },
+                                {
+                                    "name": "VUNDAMANENGA",
+                                    "postal_code": "1001210"
+                                }
+                            ]
                         },
                         {
                             "name": "Ndjili",
-                            "postal_code": "0010118",
+                            "postal_code": "1009",
                             "coordinates": {
                                 "latitude": -4.3833,
                                 "longitude": 15.4167
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BANDUNDU",
+                                    "postal_code": "1009010"
+                                },
+                                {
+                                    "name": "BILOMBE",
+                                    "postal_code": "1009020"
+                                },
+                                {
+                                    "name": "EQUATEUR",
+                                    "postal_code": "1009030"
+                                },
+                                {
+                                    "name": "GOMA",
+                                    "postal_code": "1009040"
+                                },
+                                {
+                                    "name": "INGA",
+                                    "postal_code": "1009050"
+                                },
+                                {
+                                    "name": "KASAI",
+                                    "postal_code": "1009060"
+                                },
+                                {
+                                    "name": "KASAI ORIENTAL",
+                                    "postal_code": "1009071"
+                                },
+                                {
+                                    "name": "KATANGA",
+                                    "postal_code": "1009080"
+                                },
+                                {
+                                    "name": "KIVU",
+                                    "postal_code": "1009090"
+                                },
+                                {
+                                    "name": "MAKASI",
+                                    "postal_code": "1009100"
+                                },
+                                {
+                                    "name": "MONGALA",
+                                    "postal_code": "1009110"
+                                },
+                                {
+                                    "name": "TSHUAPA",
+                                    "postal_code": "1009120"
+                                },
+                                {
+                                    "name": "UBANGI",
+                                    "postal_code": "1009130"
+                                }
+                            ]
                         },
                         {
                             "name": "Ngaba",
-                            "postal_code": "0010119",
+                            "postal_code": "1013",
                             "coordinates": {
                                 "latitude": -4.3833,
                                 "longitude": 15.3167
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BAOBAB",
+                                    "postal_code": "1013011"
+                                },
+                                {
+                                    "name": "BULAMBEMBA",
+                                    "postal_code": "1013020"
+                                },
+                                {
+                                    "name": "LUYI",
+                                    "postal_code": "1013030"
+                                },
+                                {
+                                    "name": "MATEBA",
+                                    "postal_code": "1013040"
+                                },
+                                {
+                                    "name": "MPILA",
+                                    "postal_code": "1013050"
+                                },
+                                {
+                                    "name": "MUKULUA",
+                                    "postal_code": "1013060"
+                                }
+                            ]
                         },
                         {
                             "name": "Ngaliema",
-                            "postal_code": "0010120",
+                            "postal_code": "1002",
                             "coordinates": {
                                 "latitude": -4.3500,
                                 "longitude": 15.2500
@@ -229,7 +1375,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Binza Météo",
-                                    "postal_code": "001012001",
+                                    "postal_code": "10012001",
                                     "coordinates": {
                                         "latitude": -4.3510,
                                         "longitude": 15.2510
@@ -237,7 +1383,7 @@
                                 },
                                 {
                                     "name": "Binza Ozone",
-                                    "postal_code": "001012002",
+                                    "postal_code": "10012002",
                                     "coordinates": {
                                         "latitude": -4.3520,
                                         "longitude": 15.2520
@@ -245,7 +1391,7 @@
                                 },
                                 {
                                     "name": "Kinsuka",
-                                    "postal_code": "001012003",
+                                    "postal_code": "10012003",
                                     "coordinates": {
                                         "latitude": -4.3530,
                                         "longitude": 15.2530
@@ -253,49 +1399,417 @@
                                 },
                                 {
                                     "name": "Mont Ngaliema",
-                                    "postal_code": "001012004",
+                                    "postal_code": "10012004",
                                     "coordinates": {
                                         "latitude": -4.3540,
                                         "longitude": 15.2540
                                     }
+                                },
+                                {
+                                    "name": "ANCIENS-COMBATANTS",
+                                    "postal_code": "1002010"
+                                },
+                                {
+                                    "name": "BANGU",
+                                    "postal_code": "1002020"
+                                },
+                                {
+                                    "name": "BASOKO",
+                                    "postal_code": "1002030"
+                                },
+                                {
+                                    "name": "Binza Pigeon",
+                                    "postal_code": "1002040"
+                                },
+                                {
+                                    "name": "Bumba",
+                                    "postal_code": "1002050"
+                                },
+                                {
+                                    "name": "Camp Badiadingi",
+                                    "postal_code": "1002060"
+                                },
+                                {
+                                    "name": "Camp Colonel Ebeya",
+                                    "postal_code": "1002070"
+                                },
+                                {
+                                    "name": "Camp Loano",
+                                    "postal_code": "1002080"
+                                },
+                                {
+                                    "name": "Camp Mobile Basoko",
+                                    "postal_code": "1002090"
+                                },
+                                {
+                                    "name": "Camp Oua",
+                                    "postal_code": "1002100"
+                                },
+                                {
+                                    "name": "Camp Tshatshi",
+                                    "postal_code": "1002110"
+                                },
+                                {
+                                    "name": "Congo",
+                                    "postal_code": "1002120"
+                                },
+                                {
+                                    "name": "Djelo Binza",
+                                    "postal_code": "1002130"
+                                },
+                                {
+                                    "name": "Joli Parc",
+                                    "postal_code": "1002141"
+                                },
+                                {
+                                    "name": "Kimpe",
+                                    "postal_code": "1002150"
+                                },
+                                {
+                                    "name": "Kinkenda",
+                                    "postal_code": "1002160"
+                                },
+                                {
+                                    "name": "Kinsuka Pecheurs",
+                                    "postal_code": "1002170"
+                                },
+                                {
+                                    "name": "Lonzo",
+                                    "postal_code": "1002180"
+                                },
+                                {
+                                    "name": "Lubudi",
+                                    "postal_code": "1002190"
+                                },
+                                {
+                                    "name": "Lukunga",
+                                    "postal_code": "1002200"
+                                },
+                                {
+                                    "name": "Mama Yemo",
+                                    "postal_code": "1002210"
+                                },
+                                {
+                                    "name": "Mamenga",
+                                    "postal_code": "1002220"
+                                },
+                                {
+                                    "name": "Mfinga",
+                                    "postal_code": "1002230"
+                                },
+                                {
+                                    "name": "Munganga",
+                                    "postal_code": "1002240"
+                                },
+                                {
+                                    "name": "Museyi",
+                                    "postal_code": "1002250"
+                                },
+                                {
+                                    "name": "Ngomba Kikusa",
+                                    "postal_code": "1002260"
+                                },
+                                {
+                                    "name": "Punda",
+                                    "postal_code": "1002270"
                                 }
                             ]
                         },
                         {
                             "name": "Ngiri-Ngiri",
-                            "postal_code": "0010121",
+                            "postal_code": "1023",
                             "coordinates": {
                                 "latitude": -4.3500,
                                 "longitude": 15.3000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "24 NOVEMBRE",
+                                    "postal_code": "1023010"
+                                },
+                                {
+                                    "name": "ASSOSSA",
+                                    "postal_code": "1023021"
+                                },
+                                {
+                                    "name": "CARTHOUMS",
+                                    "postal_code": "1023030"
+                                },
+                                {
+                                    "name": "DIANGENDA",
+                                    "postal_code": "1023040"
+                                },
+                                {
+                                    "name": "DIOMI",
+                                    "postal_code": "1023050"
+                                },
+                                {
+                                    "name": "ELENGESA",
+                                    "postal_code": "1023060"
+                                },
+                                {
+                                    "name": "PETIT-PETIT",
+                                    "postal_code": "1023070"
+                                },
+                                {
+                                    "name": "SAIO",
+                                    "postal_code": "1023080"
+                                }
+                            ]
                         },
                         {
                             "name": "Nsele",
-                            "postal_code": "0010122",
+                            "postal_code": "1006",
                             "coordinates": {
                                 "latitude": -4.3167,
                                 "longitude": 15.6000
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BIBWA",
+                                    "postal_code": "1006010"
+                                },
+                                {
+                                    "name": "BUMA",
+                                    "postal_code": "1006020"
+                                },
+                                {
+                                    "name": "CAMP BADARA",
+                                    "postal_code": "1006030"
+                                },
+                                {
+                                    "name": "CAMP CETA",
+                                    "postal_code": "1006040"
+                                },
+                                {
+                                    "name": "CAMP KIBOMANGO",
+                                    "postal_code": "1006050"
+                                },
+                                {
+                                    "name": "CAMP MIKONDO",
+                                    "postal_code": "1006060"
+                                },
+                                {
+                                    "name": "DINGI-DINGI",
+                                    "postal_code": "1006070"
+                                },
+                                {
+                                    "name": "DOMAINE",
+                                    "postal_code": "1006080"
+                                },
+                                {
+                                    "name": "FLEUVE",
+                                    "postal_code": "1006090"
+                                },
+                                {
+                                    "name": "KIKIMI",
+                                    "postal_code": "1006100"
+                                },
+                                {
+                                    "name": "KINDOBO",
+                                    "postal_code": "1006110"
+                                },
+                                {
+                                    "name": "KINKOLE BAHUMBU",
+                                    "postal_code": "1006120"
+                                },
+                                {
+                                    "name": "KINKOLE MIKALA I",
+                                    "postal_code": "1006131"
+                                },
+                                {
+                                    "name": "KINKOLE MIKALA II",
+                                    "postal_code": "1006140"
+                                },
+                                {
+                                    "name": "KINKOLE PECHEURS",
+                                    "postal_code": "1006151"
+                                },
+                                {
+                                    "name": "MANGENGENGE",
+                                    "postal_code": "1006160"
+                                },
+                                {
+                                    "name": "MIBO",
+                                    "postal_code": "1006170"
+                                },
+                                {
+                                    "name": "MIKONDO",
+                                    "postal_code": "1006180"
+                                },
+                                {
+                                    "name": "MIKONGA I",
+                                    "postal_code": "1006190"
+                                },
+                                {
+                                    "name": "MIKONGA II",
+                                    "postal_code": "1006200"
+                                },
+                                {
+                                    "name": "MPASA I",
+                                    "postal_code": "1006210"
+                                },
+                                {
+                                    "name": "MPASA II",
+                                    "postal_code": "1006220"
+                                },
+                                {
+                                    "name": "MPASA MABA",
+                                    "postal_code": "1006230"
+                                },
+                                {
+                                    "name": "MUNKE",
+                                    "postal_code": "1006240"
+                                },
+                                {
+                                    "name": "MUNZIAMI",
+                                    "postal_code": "1006250"
+                                },
+                                {
+                                    "name": "NGANZI",
+                                    "postal_code": "1006260"
+                                },
+                                {
+                                    "name": "NGAPANA",
+                                    "postal_code": "1006270"
+                                },
+                                {
+                                    "name": "NGINGA",
+                                    "postal_code": "1006280"
+                                },
+                                {
+                                    "name": "SICOTRA LOKALI",
+                                    "postal_code": "1006290"
+                                },
+                                {
+                                    "name": "TALANGAY",
+                                    "postal_code": "1006300"
+                                }
+                            ]
                         },
                         {
                             "name": "Selembao",
-                            "postal_code": "0010123",
+                            "postal_code": "1016",
                             "coordinates": {
                                 "latitude": -4.4000,
                                 "longitude": 15.2667
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BADIADINGI",
+                                    "postal_code": "1016010"
+                                },
+                                {
+                                    "name": "CITE-VERTE",
+                                    "postal_code": "1016020"
+                                },
+                                {
+                                    "name": "HERADY",
+                                    "postal_code": "1016030"
+                                },
+                                {
+                                    "name": "INGA",
+                                    "postal_code": "1016040"
+                                },
+                                {
+                                    "name": "KALUNGA",
+                                    "postal_code": "1016050"
+                                },
+                                {
+                                    "name": "KONDE",
+                                    "postal_code": "1016060"
+                                },
+                                {
+                                    "name": "LIBERATION",
+                                    "postal_code": "1016070"
+                                },
+                                {
+                                    "name": "LUBUDI",
+                                    "postal_code": "1016080"
+                                },
+                                {
+                                    "name": "MADIATA",
+                                    "postal_code": "1016090"
+                                },
+                                {
+                                    "name": "MBALA",
+                                    "postal_code": "1016100"
+                                },
+                                {
+                                    "name": "MOLENDE",
+                                    "postal_code": "1016110"
+                                },
+                                {
+                                    "name": "MPULULU MBAMBU",
+                                    "postal_code": "1016120"
+                                },
+                                {
+                                    "name": "MWNA NTUNU",
+                                    "postal_code": "1016130"
+                                },
+                                {
+                                    "name": "NDOBE",
+                                    "postal_code": "1016140"
+                                },
+                                {
+                                    "name": "NGAFANI",
+                                    "postal_code": "1016150"
+                                },
+                                {
+                                    "name": "NKOMBE",
+                                    "postal_code": "1016160"
+                                },
+                                {
+                                    "name": "NKINGU",
+                                    "postal_code": "1016170"
+                                },
+                                {
+                                    "name": "NKULU",
+                                    "postal_code": "1016180"
+                                }
+                            ]
                         },
                         {
                             "name": "Bandalungwa",
-                            "postal_code": "0010124",
+                            "postal_code": "1018",
                             "coordinates": {
                                 "latitude": -4.3500,
                                 "longitude": 15.2833
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "ADOULA",
+                                    "postal_code": "1018011"
+                                },
+                                {
+                                    "name": "BISENGO",
+                                    "postal_code": "1018020"
+                                },
+                                {
+                                    "name": "CAMP KOKOLO",
+                                    "postal_code": "1018030"
+                                },
+                                {
+                                    "name": "KASA-VUBU",
+                                    "postal_code": "1018040"
+                                },
+                                {
+                                    "name": "LINGWALA",
+                                    "postal_code": "1018050"
+                                },
+                                {
+                                    "name": "LUBUDI",
+                                    "postal_code": "1018060"
+                                },
+                                {
+                                    "name": "LUMUMBA",
+                                    "postal_code": "1018070"
+                                },
+                                {
+                                    "name": "MAKELELE",
+                                    "postal_code": "1018080"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -310,15 +1824,15 @@
                 "latitude": -5.8140,
                 "longitude": 13.4506
             },
-            "postal_code": "002",
+            "postal_code": "20",
             "towns": [
                 {
                     "name": "Matadi",
-                    "postal_code": "00201",
+                    "postal_code": "2001",
                     "communes": [
                         {
                             "name": "Matadi",
-                            "postal_code": "0020101",
+                            "postal_code": "200101",
                             "coordinates": {
                                 "latitude": -5.8167,
                                 "longitude": 13.4500
@@ -327,7 +1841,7 @@
                         },
                         {
                             "name": "Mvuzi",
-                            "postal_code": "0020102",
+                            "postal_code": "200102",
                             "coordinates": {
                                 "latitude": -5.8160,
                                 "longitude": 13.4505
@@ -335,7 +1849,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Lemba",
-                                    "postal_code": "002010201",
+                                    "postal_code": "20010201",
                                     "coordinates": {
                                         "latitude": -5.8161,
                                         "longitude": 13.4506
@@ -343,7 +1857,7 @@
                                 },
                                 {
                                     "name": "Kimpese",
-                                    "postal_code": "002010202",
+                                    "postal_code": "20010202",
                                     "coordinates": {
                                         "latitude": -5.8162,
                                         "longitude": 13.4507
@@ -351,7 +1865,7 @@
                                 },
                                 {
                                     "name": "Soyo",
-                                    "postal_code": "002010203",
+                                    "postal_code": "20010203",
                                     "coordinates": {
                                         "latitude": -5.8163,
                                         "longitude": 13.4508
@@ -361,7 +1875,7 @@
                         },
                         {
                             "name": "Nzanza",
-                            "postal_code": "0020103",
+                            "postal_code": "200103",
                             "coordinates": {
                                 "latitude": -5.8150,
                                 "longitude": 13.4510
@@ -369,7 +1883,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Nkamuna",
-                                    "postal_code": "002010301",
+                                    "postal_code": "20010301",
                                     "coordinates": {
                                         "latitude": -5.8151,
                                         "longitude": 13.4511
@@ -377,7 +1891,7 @@
                                 },
                                 {
                                     "name": "Kasangulu",
-                                    "postal_code": "002010302",
+                                    "postal_code": "20010302",
                                     "coordinates": {
                                         "latitude": -5.8152,
                                         "longitude": 13.4512
@@ -385,7 +1899,7 @@
                                 },
                                 {
                                     "name": "Mamboma",
-                                    "postal_code": "002010303",
+                                    "postal_code": "20010303",
                                     "coordinates": {
                                         "latitude": -5.8153,
                                         "longitude": 13.4513
@@ -397,11 +1911,11 @@
                 },
                 {
                     "name": "Boma",
-                    "postal_code": "00202",
+                    "postal_code": "2002",
                     "communes": [
                         {
                             "name": "Kabondo",
-                            "postal_code": "0020201",
+                            "postal_code": "200201",
                             "coordinates": {
                                 "latitude": -5.8500,
                                 "longitude": 13.0500
@@ -410,7 +1924,7 @@
                         },
                         {
                             "name": "Kalamu",
-                            "postal_code": "0020202",
+                            "postal_code": "200202",
                             "coordinates": {
                                 "latitude": -5.8505,
                                 "longitude": 13.0505
@@ -418,7 +1932,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Nzadi",
-                                    "postal_code": "002020201",
+                                    "postal_code": "20020201",
                                     "coordinates": {
                                         "latitude": -5.8506,
                                         "longitude": 13.0506
@@ -426,7 +1940,7 @@
                                 },
                                 {
                                     "name": "Mbanza-Lemba",
-                                    "postal_code": "002020202",
+                                    "postal_code": "20020202",
                                     "coordinates": {
                                         "latitude": -5.8507,
                                         "longitude": 13.0507
@@ -434,7 +1948,7 @@
                                 },
                                 {
                                     "name": "Mpemba",
-                                    "postal_code": "002020203",
+                                    "postal_code": "20020203",
                                     "coordinates": {
                                         "latitude": -5.8508,
                                         "longitude": 13.0508
@@ -444,7 +1958,7 @@
                         },
                         {
                             "name": "Mouyondzi",
-                            "postal_code": "0020203",
+                            "postal_code": "200203",
                             "coordinates": {
                                 "latitude": -5.8510,
                                 "longitude": 13.0510
@@ -453,7 +1967,7 @@
                         },
                         {
                             "name": "Tshimpi",
-                            "postal_code": "0020204",
+                            "postal_code": "200204",
                             "coordinates": {
                                 "latitude": -5.8515,
                                 "longitude": 13.0515
@@ -464,11 +1978,11 @@
                 },
                 {
                     "name": "Muanda",
-                    "postal_code": "00203",
+                    "postal_code": "2003",
                     "communes": [
                         {
                             "name": "Muanda Centre",
-                            "postal_code": "0020301",
+                            "postal_code": "200301",
                             "coordinates": {
                                 "latitude": -5.9333,
                                 "longitude": 12.3500
@@ -477,7 +1991,7 @@
                         },
                         {
                             "name": "Banana",
-                            "postal_code": "0020302",
+                            "postal_code": "200302",
                             "coordinates": {
                                 "latitude": -6.0167,
                                 "longitude": 12.4000
@@ -488,13 +2002,13 @@
                 },
                 {
                     "name": "Songololo",
-                    "postal_code": "00204",
+                    "postal_code": "2004",
                     "communes": [],
                     "neighborhoods": []
                 },
                 {
                     "name": "Kasangulu",
-                    "postal_code": "00205",
+                    "postal_code": "2005",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -509,23 +2023,23 @@
                 "latitude": -4.8353,
                 "longitude": 16.8760
             },
-            "postal_code": "003",
+            "postal_code": "31",
             "towns": [
                 {
                     "name": "Kenge",
-                    "postal_code": "00301",
+                    "postal_code": "3101",
                     "communes": [],
                     "neighborhoods": []
                 },
                 {
                     "name": "Popokabaka",
-                    "postal_code": "00302",
+                    "postal_code": "3102",
                     "communes": [],
                     "neighborhoods": []
                 },
                 {
                     "name": "Kasongo-Lunda",
-                    "postal_code": "00303",
+                    "postal_code": "3103",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -540,15 +2054,15 @@
                 "latitude": -2.5153,
                 "longitude": 28.8454
             },
-            "postal_code": "004",
+            "postal_code": "62",
             "towns": [
                 {
                     "name": "Bukavu",
-                    "postal_code": "00401",
+                    "postal_code": "6201",
                     "communes": [
                         {
                             "name": "Kadutu",
-                            "postal_code": "0040101",
+                            "postal_code": "620101",
                             "coordinates": {
                                 "latitude": -2.5150,
                                 "longitude": 28.8500
@@ -556,7 +2070,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Cimpunda",
-                                    "postal_code": "004010101",
+                                    "postal_code": "62010101",
                                     "coordinates": {
                                         "latitude": -2.5151,
                                         "longitude": 28.8501
@@ -564,7 +2078,7 @@
                                 },
                                 {
                                     "name": "Nyakaliba",
-                                    "postal_code": "004010102",
+                                    "postal_code": "62010102",
                                     "coordinates": {
                                         "latitude": -2.5152,
                                         "longitude": 28.8502
@@ -572,7 +2086,7 @@
                                 },
                                 {
                                     "name": "Kasha",
-                                    "postal_code": "004010103",
+                                    "postal_code": "62010103",
                                     "coordinates": {
                                         "latitude": -2.5153,
                                         "longitude": 28.8503
@@ -582,7 +2096,7 @@
                         },
                         {
                             "name": "Ibanda",
-                            "postal_code": "0040102",
+                            "postal_code": "620102",
                             "coordinates": {
                                 "latitude": -2.5160,
                                 "longitude": 28.8510
@@ -590,7 +2104,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Nyawera",
-                                    "postal_code": "004010201",
+                                    "postal_code": "62010201",
                                     "coordinates": {
                                         "latitude": -2.5161,
                                         "longitude": 28.8511
@@ -598,7 +2112,7 @@
                                 },
                                 {
                                     "name": "Panzi",
-                                    "postal_code": "004010202",
+                                    "postal_code": "62010202",
                                     "coordinates": {
                                         "latitude": -2.5162,
                                         "longitude": 28.8512
@@ -606,7 +2120,7 @@
                                 },
                                 {
                                     "name": "Ndendere",
-                                    "postal_code": "004010203",
+                                    "postal_code": "62010203",
                                     "coordinates": {
                                         "latitude": -2.5163,
                                         "longitude": 28.8513
@@ -616,7 +2130,7 @@
                         },
                         {
                             "name": "Bagira",
-                            "postal_code": "0040103",
+                            "postal_code": "620103",
                             "coordinates": {
                                 "latitude": -2.5170,
                                 "longitude": 28.8520
@@ -627,11 +2141,11 @@
                 },
                 {
                     "name": "Uvira",
-                    "postal_code": "00402",
+                    "postal_code": "6202",
                     "communes": [
                         {
                             "name": "Kilimani",
-                            "postal_code": "0040201",
+                            "postal_code": "620201",
                             "coordinates": {
                                 "latitude": -3.4000,
                                 "longitude": 29.1375
@@ -639,7 +2153,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Kalundu",
-                                    "postal_code": "004020101",
+                                    "postal_code": "62020101",
                                     "coordinates": {
                                         "latitude": -3.4001,
                                         "longitude": 29.1376
@@ -647,7 +2161,7 @@
                                 },
                                 {
                                     "name": "Kasenga",
-                                    "postal_code": "004020102",
+                                    "postal_code": "62020102",
                                     "coordinates": {
                                         "latitude": -3.4002,
                                         "longitude": 29.1377
@@ -655,7 +2169,7 @@
                                 },
                                 {
                                     "name": "Kamanyola",
-                                    "postal_code": "004020103",
+                                    "postal_code": "62020103",
                                     "coordinates": {
                                         "latitude": -3.4003,
                                         "longitude": 29.1378
@@ -665,7 +2179,7 @@
                         },
                         {
                             "name": "Kavimvira",
-                            "postal_code": "0040202",
+                            "postal_code": "620202",
                             "coordinates": {
                                 "latitude": -3.4005,
                                 "longitude": 29.1380
@@ -674,7 +2188,7 @@
                         },
                         {
                             "name": "Songo",
-                            "postal_code": "0040203",
+                            "postal_code": "620203",
                             "coordinates": {
                                 "latitude": -3.4010,
                                 "longitude": 29.1385
@@ -685,7 +2199,7 @@
                 },
                 {
                     "name": "Fizi",
-                    "postal_code": "00403",
+                    "postal_code": "6203",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -700,125 +2214,253 @@
                 "latitude": -11.6874,
                 "longitude": 27.4794
             },
-            "postal_code": "005",
+            "postal_code": "71",
             "towns": [
                 {
                     "name": "Lubumbashi",
-                    "postal_code": "00501",
+                    "postal_code": "7110",
                     "communes": [
                         {
                             "name": "Kamalondo",
-                            "postal_code": "0050101",
+                            "postal_code": "71102",
                             "coordinates": {
                                 "latitude": -11.6600,
                                 "longitude": 27.4800
                             },
                             "neighborhoods": [
                                 {
-                                    "name": "Katuba",
-                                    "postal_code": "005010101",
-                                    "coordinates": {
-                                        "latitude": -11.6601,
-                                        "longitude": 27.4801
-                                    }
+                                    "name": "KITUMAINI",
+                                    "postal_code": "7110201"
                                 },
                                 {
-                                    "name": "Lubudi",
-                                    "postal_code": "005010102",
-                                    "coordinates": {
-                                        "latitude": -11.6602,
-                                        "longitude": 27.4802
-                                    }
-                                },
-                                {
-                                    "name": "Golf",
-                                    "postal_code": "005010103",
-                                    "coordinates": {
-                                        "latitude": -11.6603,
-                                        "longitude": 27.4803
-                                    }
+                                    "name": "NGANJA",
+                                    "postal_code": "7110202"
                                 }
                             ]
                         },
                         {
                             "name": "Katuba",
-                            "postal_code": "0050102",
+                            "postal_code": "71104",
                             "coordinates": {
                                 "latitude": -11.6610,
                                 "longitude": 27.4810
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BUKAMA",
+                                    "postal_code": "7110400"
+                                },
+                                {
+                                    "name": "KAPONDA-NORD",
+                                    "postal_code": "7110402"
+                                },
+                                {
+                                    "name": "KAPONDA-SUD",
+                                    "postal_code": "7110403"
+                                },
+                                {
+                                    "name": "KISALE",
+                                    "postal_code": "7110404"
+                                },
+                                {
+                                    "name": "LUFIRA",
+                                    "postal_code": "7110405"
+                                },
+                                {
+                                    "name": "MUSUMBA",
+                                    "postal_code": "7110406"
+                                },
+                                {
+                                    "name": "MWANAKATANGA",
+                                    "postal_code": "7110407"
+                                },
+                                {
+                                    "name": "NSELE",
+                                    "postal_code": "7110408"
+                                },
+                                {
+                                    "name": "UPEMBA",
+                                    "postal_code": "7110409"
+                                }
+                            ]
                         },
                         {
                             "name": "Kenya",
-                            "postal_code": "0050103",
+                            "postal_code": "71106",
                             "coordinates": {
                                 "latitude": -11.6620,
                                 "longitude": 27.4820
                             },
                             "neighborhoods": [
                                 {
-                                    "name": "Ruashi",
-                                    "postal_code": "005010301",
-                                    "coordinates": {
-                                        "latitude": -11.6621,
-                                        "longitude": 27.4821
-                                    }
+                                    "name": "LUALABA",
+                                    "postal_code": "7110600"
                                 },
                                 {
-                                    "name": "Katanga",
-                                    "postal_code": "005010302",
-                                    "coordinates": {
-                                        "latitude": -11.6622,
-                                        "longitude": 27.4822
-                                    }
+                                    "name": "LUAPULUA",
+                                    "postal_code": "7110602"
                                 },
                                 {
-                                    "name": "Tabacongo",
-                                    "postal_code": "005010303",
-                                    "coordinates": {
-                                        "latitude": -11.6623,
-                                        "longitude": 27.4823
-                                    }
+                                    "name": "LUVUA",
+                                    "postal_code": "7110603"
                                 }
                             ]
                         },
                         {
                             "name": "Rwashi",
-                            "postal_code": "0050104",
+                            "postal_code": "710104",
                             "coordinates": {
                                 "latitude": -11.6630,
                                 "longitude": 27.4830
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BENDERA",
+                                    "postal_code": "7110700"
+                                },
+                                {
+                                    "name": "CONGO",
+                                    "postal_code": "7110702"
+                                },
+                                {
+                                    "name": "KULUKULUKU",
+                                    "postal_code": "7110703"
+                                },
+                                {
+                                    "name": "KAWAMA",
+                                    "postal_code": "7110704"
+                                },
+                                {
+                                    "name": "LUAANO",
+                                    "postal_code": "7110705"
+                                }
+                            ]
                         },
                         {
                             "name": "Annexe",
-                            "postal_code": "0050105",
+                            "postal_code": "71101",
                             "coordinates": {
                                 "latitude": -11.6640,
                                 "longitude": 27.4840
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "KALEBUKA",
+                                    "postal_code": "7110100"
+                                },
+                                {
+                                    "name": "KAPAPA",
+                                    "postal_code": "7110102"
+                                },
+                                {
+                                    "name": "KASUNGAMI",
+                                    "postal_code": "7110103"
+                                },
+                                {
+                                    "name": "KIMBEMBE",
+                                    "postal_code": "7110104"
+                                },
+                                {
+                                    "name": "KISANGA",
+                                    "postal_code": "7110105"
+                                },
+                                {
+                                    "name": "LUWOWOSHI",
+                                    "postal_code": "7110106"
+                                },
+                                {
+                                    "name": "MUNUA",
+                                    "postal_code": "7110107"
+                                },
+                                {
+                                    "name": "NAVIUNDU",
+                                    "postal_code": "7110108"
+                                }
+                            ]
                         },
                         {
                             "name": "Kampemba",
-                            "postal_code": "0050106",
+                            "postal_code": "71103",
                             "coordinates": {
                                 "latitude": -11.6650,
                                 "longitude": 27.4850
                             },
-                            "neighborhoods": []
+                            "neighborhoods": [
+                                {
+                                    "name": "BEL AIR I",
+                                    "postal_code": "7110300"
+                                },
+                                {
+                                    "name": "BEL AIR II",
+                                    "postal_code": "7110302"
+                                },
+                                {
+                                    "name": "BONGONGA",
+                                    "postal_code": "7110303"
+                                },
+                                {
+                                    "name": "INDUSTRIEL",
+                                    "postal_code": "7110304"
+                                },
+                                {
+                                    "name": "KAFUBU",
+                                    "postal_code": "7110305"
+                                },
+                                {
+                                    "name": "KAMPEMBA",
+                                    "postal_code": "7110306"
+                                },
+                                {
+                                    "name": "KIGOMA",
+                                    "postal_code": "7110307"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lubumbashi",
+                            "postal_code": "71105",
+                            "coordinates": {
+                            },
+                            "neighborhoods": [
+                                {
+                                    "name": "MAKUTANO",
+                                    "postal_code": "7110501"
+                                },
+                                {
+                                    "name": "GAMBELA",
+                                    "postal_code": "7110502"
+                                },
+                                {
+                                    "name": "KALUBWE",
+                                    "postal_code": "7110503"
+                                },
+                                {
+                                    "name": "KIWELE",
+                                    "postal_code": "7110504"
+                                },
+                                {
+                                    "name": "LIDO-GOLF",
+                                    "postal_code": "7110505"
+                                },
+                                {
+                                    "name": "LUMUMBA",
+                                    "postal_code": "7110506"
+                                },
+                                {
+                                    "name": "MAMPALA",
+                                    "postal_code": "7110507"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "name": "Likasi",
-                    "postal_code": "00502",
+                    "postal_code": "7102",
                     "communes": [
                         {
                             "name": "Panda",
-                            "postal_code": "0050201",
+                            "postal_code": "710201",
                             "coordinates": {
                                 "latitude": -10.9833,
                                 "longitude": 26.7333
@@ -826,7 +2468,7 @@
                             "neighborhoods": [
                                 {
                                     "name": "Shituru",
-                                    "postal_code": "005020101",
+                                    "postal_code": "71020101",
                                     "coordinates": {
                                         "latitude": -10.9834,
                                         "longitude": 26.7334
@@ -834,7 +2476,7 @@
                                 },
                                 {
                                     "name": "Kibushi",
-                                    "postal_code": "005020102",
+                                    "postal_code": "71020102",
                                     "coordinates": {
                                         "latitude": -10.9835,
                                         "longitude": 26.7335
@@ -842,7 +2484,7 @@
                                 },
                                 {
                                     "name": "Manika",
-                                    "postal_code": "005020103",
+                                    "postal_code": "71020103",
                                     "coordinates": {
                                         "latitude": -10.9836,
                                         "longitude": 26.7336
@@ -852,7 +2494,7 @@
                         },
                         {
                             "name": "Shituru",
-                            "postal_code": "0050202",
+                            "postal_code": "710202",
                             "coordinates": {
                                 "latitude": -10.9840,
                                 "longitude": 26.7340
@@ -861,7 +2503,7 @@
                         },
                         {
                             "name": "Likasi",
-                            "postal_code": "0050203",
+                            "postal_code": "710203",
                             "coordinates": {
                                 "latitude": -10.9850,
                                 "longitude": 26.7350
@@ -870,7 +2512,7 @@
                         },
                         {
                             "name": "Kasenyi",
-                            "postal_code": "0050204",
+                            "postal_code": "710204",
                             "coordinates": {
                                 "latitude": -10.9860,
                                 "longitude": 26.7360
@@ -879,6 +2521,9 @@
                         }
                     ]
                 }
+            ],
+            "Territories":[
+                
             ]
         },
         {
@@ -890,15 +2535,15 @@
                 "latitude": -8.7386,
                 "longitude": 24.9904
             },
-            "postal_code": "006",
+            "postal_code": "73",
             "towns": [
                 {
                     "name": "Kamina",
-                    "postal_code": "00601",
+                    "postal_code": "7301",
                     "communes": [
                         {
                             "name": "Kamina",
-                            "postal_code": "0060101",
+                            "postal_code": "730101",
                             "coordinates": {
                                 "latitude": -8.7380,
                                 "longitude": 24.9910
@@ -909,7 +2554,7 @@
                 },
                 {
                     "name": "Bukama",
-                    "postal_code": "00602",
+                    "postal_code": "7302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -924,15 +2569,15 @@
                 "latitude": 2.7731,
                 "longitude": 27.6160
             },
-            "postal_code": "007",
+            "postal_code": "53",
             "towns": [
                 {
                     "name": "Isiro",
-                    "postal_code": "00701",
+                    "postal_code": "5301",
                     "communes": [
                         {
                             "name": "Isiro",
-                            "postal_code": "0070101",
+                            "postal_code": "530101",
                             "coordinates": {
                                 "latitude": 2.7730,
                                 "longitude": 27.6170
@@ -943,7 +2588,7 @@
                 },
                 {
                     "name": "Watsa",
-                    "postal_code": "00702",
+                    "postal_code": "5302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -958,15 +2603,15 @@
                 "latitude": 1.5591,
                 "longitude": 30.2520
             },
-            "postal_code": "008",
+            "postal_code": "54",
             "towns": [
                 {
                     "name": "Bunia",
-                    "postal_code": "00801",
+                    "postal_code": "5401",
                     "communes": [
                         {
                             "name": "Bunia",
-                            "postal_code": "0080101",
+                            "postal_code": "540101",
                             "coordinates": {
                                 "latitude": 1.5590,
                                 "longitude": 30.2530
@@ -977,7 +2622,7 @@
                 },
                 {
                     "name": "Aru",
-                    "postal_code": "00802",
+                    "postal_code": "5402",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -992,15 +2637,15 @@
                 "latitude": -6.4167,
                 "longitude": 20.7990
             },
-            "postal_code": "009",
+            "postal_code": "92",
             "towns": [
                 {
                     "name": "Tshikapa",
-                    "postal_code": "00901",
+                    "postal_code": "9201",
                     "communes": [
                         {
                             "name": "Tshikapa",
-                            "postal_code": "0090101",
+                            "postal_code": "920101",
                             "coordinates": {
                                 "latitude": -6.4160,
                                 "longitude": 20.8000
@@ -1011,7 +2656,7 @@
                 },
                 {
                     "name": "Dekese",
-                    "postal_code": "00902",
+                    "postal_code": "9202",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1026,15 +2671,15 @@
                 "latitude": -5.8962,
                 "longitude": 22.4166
             },
-            "postal_code": "010",
+            "postal_code": "91",
             "towns": [
                 {
                     "name": "Kananga",
-                    "postal_code": "01001",
+                    "postal_code": "9101",
                     "communes": [
                         {
                             "name": "Kananga",
-                            "postal_code": "0100101",
+                            "postal_code": "910101",
                             "coordinates": {
                                 "latitude": -5.8960,
                                 "longitude": 22.4170
@@ -1045,7 +2690,7 @@
                 },
                 {
                     "name": "Demba",
-                    "postal_code": "01002",
+                    "postal_code": "9102",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1060,15 +2705,15 @@
                 "latitude": -6.1500,
                 "longitude": 23.6000
             },
-            "postal_code": "011",
+            "postal_code": "82",
             "towns": [
                 {
                     "name": "Mbuji-Mayi",
-                    "postal_code": "01101",
+                    "postal_code": "8201",
                     "communes": [
                         {
                             "name": "Mbuji-Mayi",
-                            "postal_code": "0110101",
+                            "postal_code": "820101",
                             "coordinates": {
                                 "latitude": -6.1500,
                                 "longitude": 23.6010
@@ -1079,7 +2724,7 @@
                 },
                 {
                     "name": "Lusambo",
-                    "postal_code": "01102",
+                    "postal_code": "8202",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1094,15 +2739,15 @@
                 "latitude": -5.0400,
                 "longitude": 18.8160
             },
-            "postal_code": "012",
+            "postal_code": "32",
             "towns": [
                 {
                     "name": "Kikwit",
-                    "postal_code": "01201",
+                    "postal_code": "3201",
                     "communes": [
                         {
                             "name": "Kikwit",
-                            "postal_code": "0120101",
+                            "postal_code": "320101",
                             "coordinates": {
                                 "latitude": -5.0400,
                                 "longitude": 18.8170
@@ -1113,7 +2758,7 @@
                 },
                 {
                     "name": "Idiofa",
-                    "postal_code": "01202",
+                    "postal_code": "3202",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1128,15 +2773,15 @@
                 "latitude": -6.1333,
                 "longitude": 24.4833
             },
-            "postal_code": "013",
+            "postal_code": "81",
             "towns": [
                 {
                     "name": "Kabinda",
-                    "postal_code": "01301",
+                    "postal_code": "8101",
                     "communes": [
                         {
                             "name": "Kabinda",
-                            "postal_code": "0130101",
+                            "postal_code": "810101",
                             "coordinates": {
                                 "latitude": -6.1330,
                                 "longitude": 24.4840
@@ -1147,7 +2792,7 @@
                 },
                 {
                     "name": "Mwene-Ditu",
-                    "postal_code": "01302",
+                    "postal_code": "8102",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1162,15 +2807,15 @@
                 "latitude": -1.9475,
                 "longitude": 18.2881
             },
-            "postal_code": "014",
+            "postal_code": "33",
             "towns": [
                 {
                     "name": "Inongo",
-                    "postal_code": "01401",
+                    "postal_code": "3301",
                     "communes": [
                         {
                             "name": "Inongo",
-                            "postal_code": "0140101",
+                            "postal_code": "330101",
                             "coordinates": {
                                 "latitude": -1.9470,
                                 "longitude": 18.2890
@@ -1181,7 +2826,7 @@
                 },
                 {
                     "name": "Kiri",
-                    "postal_code": "01402",
+                    "postal_code": "3302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1196,15 +2841,15 @@
                 "latitude": -2.9630,
                 "longitude": 25.9090
             },
-            "postal_code": "015",
+            "postal_code": "63",
             "towns": [
                 {
                     "name": "Kindu",
-                    "postal_code": "01501",
+                    "postal_code": "6301",
                     "communes": [
                         {
                             "name": "Kindu",
-                            "postal_code": "0150101",
+                            "postal_code": "630101",
                             "coordinates": {
                                 "latitude": -2.9630,
                                 "longitude": 25.9100
@@ -1215,7 +2860,7 @@
                 },
                 {
                     "name": "Kibombo",
-                    "postal_code": "01502",
+                    "postal_code": "6302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1230,15 +2875,15 @@
                 "latitude": 2.1400,
                 "longitude": 21.5167
             },
-            "postal_code": "016",
+            "postal_code": "44",
             "towns": [
                 {
                     "name": "Lisala",
-                    "postal_code": "01601",
+                    "postal_code": "4401",
                     "communes": [
                         {
                             "name": "Lisala",
-                            "postal_code": "0160101",
+                            "postal_code": "440101",
                             "coordinates": {
                                 "latitude": 2.1400,
                                 "longitude": 21.5170
@@ -1249,7 +2894,7 @@
                 },
                 {
                     "name": "Bumba",
-                    "postal_code": "01602",
+                    "postal_code": "4402",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1264,15 +2909,15 @@
                 "latitude": -1.6585,
                 "longitude": 29.2200
             },
-            "postal_code": "017",
+            "postal_code": "61",
             "towns": [
                 {
                     "name": "Goma",
-                    "postal_code": "01701",
+                    "postal_code": "6101",
                     "communes": [
                         {
                             "name": "Goma",
-                            "postal_code": "0170101",
+                            "postal_code": "610101",
                             "coordinates": {
                                 "latitude": -1.6580,
                                 "longitude": 29.2210
@@ -1283,7 +2928,7 @@
                 },
                 {
                     "name": "Beni",
-                    "postal_code": "01702",
+                    "postal_code": "6102",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1298,15 +2943,15 @@
                 "latitude": 4.2833,
                 "longitude": 21.0167
             },
-            "postal_code": "018",
+            "postal_code": "43",
             "towns": [
                 {
                     "name": "Gbadolite",
-                    "postal_code": "01801",
+                    "postal_code": "4301",
                     "communes": [
                         {
                             "name": "Gbadolite",
-                            "postal_code": "0180101",
+                            "postal_code": "430101",
                             "coordinates": {
                                 "latitude": 4.2830,
                                 "longitude": 21.0170
@@ -1317,7 +2962,7 @@
                 },
                 {
                     "name": "Businga",
-                    "postal_code": "01802",
+                    "postal_code": "4302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1332,15 +2977,15 @@
                 "latitude": -4.8167,
                 "longitude": 23.4500
             },
-            "postal_code": "019",
+            "postal_code": "83",
             "towns": [
                 {
                     "name": "Lusambo",
-                    "postal_code": "01901",
+                    "postal_code": "8301",
                     "communes": [
                         {
                             "name": "Lusambo",
-                            "postal_code": "0190101",
+                            "postal_code": "830101",
                             "coordinates": {
                                 "latitude": -4.8160,
                                 "longitude": 23.4510
@@ -1351,7 +2996,7 @@
                 },
                 {
                     "name": "Lodja",
-                    "postal_code": "01902",
+                    "postal_code": "8302",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1366,15 +3011,15 @@
                 "latitude": 3.2560,
                 "longitude": 19.7720
             },
-            "postal_code": "020",
+            "postal_code": "42",
             "towns": [
                 {
                     "name": "Gemena",
-                    "postal_code": "02001",
+                    "postal_code": "4201",
                     "communes": [
                         {
                             "name": "Gemena",
-                            "postal_code": "0200101",
+                            "postal_code": "420101",
                             "coordinates": {
                                 "latitude": 3.2560,
                                 "longitude": 19.7730
@@ -1385,7 +3030,7 @@
                 },
                 {
                     "name": "Zongo",
-                    "postal_code": "02002",
+                    "postal_code": "4202",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1400,15 +3045,15 @@
                 "latitude": -5.9475,
                 "longitude": 29.1947
             },
-            "postal_code": "021",
+            "postal_code": "74",
             "towns": [
                 {
                     "name": "Kalemie",
-                    "postal_code": "02101",
+                    "postal_code": "7401",
                     "communes": [
                         {
                             "name": "Kalemie",
-                            "postal_code": "0210101",
+                            "postal_code": "740101",
                             "coordinates": {
                                 "latitude": -5.9470,
                                 "longitude": 29.1950
@@ -1419,7 +3064,7 @@
                 },
                 {
                     "name": "Moba",
-                    "postal_code": "02102",
+                    "postal_code": "7402",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1434,15 +3079,15 @@
                 "latitude": 0.5153,
                 "longitude": 25.1900
             },
-            "postal_code": "022",
+            "postal_code": "51",
             "towns": [
                 {
                     "name": "Kisangani",
-                    "postal_code": "02201",
+                    "postal_code": "5101",
                     "communes": [
                         {
                             "name": "Kisangani",
-                            "postal_code": "0220101",
+                            "postal_code": "510101",
                             "coordinates": {
                                 "latitude": 0.5150,
                                 "longitude": 25.1910
@@ -1453,7 +3098,7 @@
                 },
                 {
                     "name": "Yahisuli",
-                    "postal_code": "02202",
+                    "postal_code": "5102",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1468,15 +3113,15 @@
                 "latitude": -0.2167,
                 "longitude": 20.8667
             },
-            "postal_code": "023",
+            "postal_code": "45",
             "towns": [
                 {
                     "name": "Boende",
-                    "postal_code": "02301",
+                    "postal_code": "4501",
                     "communes": [
                         {
                             "name": "Boende",
-                            "postal_code": "0230101",
+                            "postal_code": "450101",
                             "coordinates": {
                                 "latitude": -0.2160,
                                 "longitude": 20.8670
@@ -1487,7 +3132,7 @@
                 },
                 {
                     "name": "Bokungu",
-                    "postal_code": "02302",
+                    "postal_code": "4502",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1502,15 +3147,15 @@
                 "latitude": 0.0486,
                 "longitude": 18.2603
             },
-            "postal_code": "024",
+            "postal_code": "41",
             "towns": [
                 {
                     "name": "Mbandaka",
-                    "postal_code": "02401",
+                    "postal_code": "4101",
                     "communes": [
                         {
                             "name": "Mbandaka",
-                            "postal_code": "0240101",
+                            "postal_code": "410101",
                             "coordinates": {
                                 "latitude": 0.0485,
                                 "longitude": 18.2604
@@ -1521,7 +3166,7 @@
                 },
                 {
                     "name": "Basankusu",
-                    "postal_code": "02402",
+                    "postal_code": "4102",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1536,15 +3181,15 @@
                 "latitude": -10.7167,
                 "longitude": 25.4721
             },
-            "postal_code": "025",
+            "postal_code": "72",
             "towns": [
                 {
                     "name": "Kolwezi",
-                    "postal_code": "02501",
+                    "postal_code": "7201",
                     "communes": [
                         {
                             "name": "Kolwezi",
-                            "postal_code": "0250101",
+                            "postal_code": "720101",
                             "coordinates": {
                                 "latitude": -10.7160,
                                 "longitude": 25.4730
@@ -1555,7 +3200,7 @@
                 },
                 {
                     "name": "Mutshatsha",
-                    "postal_code": "02502",
+                    "postal_code": "7202",
                     "communes": [],
                     "neighborhoods": []
                 }
@@ -1570,15 +3215,15 @@
                 "latitude": 2.7850,
                 "longitude": 24.7300
             },
-            "postal_code": "026",
+            "postal_code": "52",
             "towns": [
                 {
                     "name": "Buta",
-                    "postal_code": "02601",
+                    "postal_code": "5201",
                     "communes": [
                         {
                             "name": "Buta",
-                            "postal_code": "0260101",
+                            "postal_code": "520101",
                             "coordinates": {
                                 "latitude": 2.7850,
                                 "longitude": 24.7310
@@ -1589,7 +3234,7 @@
                 },
                 {
                     "name": "Aketi",
-                    "postal_code": "02602",
+                    "postal_code": "5202",
                     "communes": [],
                     "neighborhoods": []
                 }
