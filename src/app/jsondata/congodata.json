@@ -1811,6 +1811,16 @@
                                 }
                             ]
                         }
+                    ],
+                    "territories": [
+                        {
+                            "name": "Nsele",
+                            "postal_code": "1006",
+                            "coordinates": {
+                                "latitude": -4.3167,
+                                "longitude": 15.6000
+                            }
+                        }
                     ]
                 }
             ]
@@ -2012,6 +2022,16 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Lukula",
+                    "postal_code": "2006",
+                    "coordinates": {
+                        "latitude": -5.5000,
+                        "longitude": 13.0000
+                    }
+                }
             ]
         },
         {
@@ -2042,6 +2062,16 @@
                     "postal_code": "3103",
                     "communes": [],
                     "neighborhoods": []
+                }
+            ],
+            "territories": [
+                {
+                    "name": "Feshi",
+                    "postal_code": "3104",
+                    "coordinates": {
+                        "latitude": -5.0000,
+                        "longitude": 17.0000
+                    }
                 }
             ]
         },
@@ -2202,6 +2232,16 @@
                     "postal_code": "6203",
                     "communes": [],
                     "neighborhoods": []
+                }
+            ],
+            "territories": [
+                {
+                    "name": "Mwenga",
+                    "postal_code": "6204",
+                    "coordinates": {
+                        "latitude": -3.0000,
+                        "longitude": 28.0000
+                    }
                 }
             ]
         },
@@ -2522,8 +2562,15 @@
                     ]
                 }
             ],
-            "Territories":[
-                
+            "territories": [
+                {
+                    "name": "Sakania",
+                    "postal_code": "7103",
+                    "coordinates": {
+                        "latitude": -12.0000,
+                        "longitude": 28.0000
+                    }
+                }
             ]
         },
         {
@@ -2557,6 +2604,16 @@
                     "postal_code": "7302",
                     "communes": [],
                     "neighborhoods": []
+                }
+            ],
+            "territories": [
+                {
+                    "name": "Kabongo",
+                    "postal_code": "7303",
+                    "coordinates": {
+                        "latitude": -9.0000,
+                        "longitude": 25.0000
+                    }
                 }
             ]
         },
@@ -2592,6 +2649,16 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Dungu",
+                    "postal_code": "5303",
+                    "coordinates": {
+                        "latitude": 3.0000,
+                        "longitude": 28.0000
+                    }
+                }
             ]
         },
         {
@@ -2626,43 +2693,20 @@
                     "communes": [],
                     "neighborhoods": []
                 }
-            ]
-        },
-        {
-            "id": "009",
-            "name": "Kasai",
-            "capital": "Tshikapa",
-            "maps": "/assets/Pronvices/CDKS.svg",
-            "coordinates": {
-                "latitude": -6.4167,
-                "longitude": 20.7990
-            },
-            "postal_code": "92",
-            "towns": [
+            ],
+            "territories": [
                 {
-                    "name": "Tshikapa",
-                    "postal_code": "9201",
-                    "communes": [
-                        {
-                            "name": "Tshikapa",
-                            "postal_code": "920101",
-                            "coordinates": {
-                                "latitude": -6.4160,
-                                "longitude": 20.8000
-                            },
-                            "neighborhoods": []
-                        }
-                    ]
-                },
-                {
-                    "name": "Dekese",
-                    "postal_code": "9202",
-                    "communes": [],
-                    "neighborhoods": []
+                    "name": "Djugu",
+                    "postal_code": "5403",
+                    "coordinates": {
+                        "latitude": 2.0000,
+                        "longitude": 30.0000
+                    }
                 }
             ]
         },
         {
+            
             "id": "010",
             "name": "Kasai-Central",
             "capital": "Kananga",
