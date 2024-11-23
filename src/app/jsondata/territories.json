@@ -2,7 +2,6 @@
     "Bas-Uele": [
         {
             "name": "Aketi",
-            "type": "Territoire",
             "tribu": [
                 "Zande",
                 "Benza",
@@ -12,7 +11,6 @@
         },
         {
             "name": "Ango",
-            "type": "Territoire",
             "tribu": [
                 "Zande",
                 "Barambo"
@@ -20,7 +18,6 @@
         },
         {
             "name": "Bambesa",
-            "type": "Territoire",
             "tribu": [
                 "Nzakara",
                 "Zande",
@@ -30,7 +27,6 @@
         },
         {
             "name": "Bondo",
-            "type": "Territoire",
             "tribu": [
                 "Zande",
                 "Ngandi",
@@ -40,7 +36,6 @@
         },
         {
             "name": "Buta",
-            "type": "Territoire",
             "tribu": [
                 "Boa",
                 "Zande",
@@ -54,7 +49,6 @@
         },
         {
             "name": "Poko",
-            "type": "Territoire",
             "tribu": [
                 "Zande",
                 "Rambo",
@@ -67,7 +61,6 @@
     "Ituri": [
         {
             "name": "Aru",
-            "type": "Territoire",
             "tribu": [
                 "Lugbara",
                 "Kakwa",
@@ -77,7 +70,6 @@
         },
         {
             "name": "Djugu",
-            "type": "Territoire",
             "tribu": [
                 "Lendu",
                 "Hema",
@@ -89,7 +81,6 @@
         },
         {
             "name": "Irumu",
-            "type": "Territoire",
             "tribu": [
                 "Bira",
                 "Hema",
@@ -101,7 +92,6 @@
         },
         {
             "name": "Mahagi",
-            "type": "Territoire",
             "tribu": [
                 "Alur",
                 "Ukebu",
@@ -110,7 +100,6 @@
         },
         {
             "name": "Mambasa",
-            "type": "Territoire",
             "tribu": [
                 "Bambutl",
                 "Babila",
@@ -125,7 +114,6 @@
     "Tshopo": [
         {
             "name": "Bafwasende",
-            "type": "Territoire",
             "tribu": [
                 "Bali",
                 "Kumu",
@@ -135,7 +123,6 @@
         },
         {
             "name": "Banalia",
-            "type": "Territoire",
             "tribu": [
                 "Manga",
                 "Ngelema",
@@ -146,7 +133,6 @@
         },
         {
             "name": "Basoko",
-            "type": "Territoire",
             "tribu": [
                 "Bango",
                 "Mongelema",
@@ -156,19 +142,16 @@
         },
         {
             "name": "Isangi",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Opala",
-            "type": "Territoire",
             "tribu": [
                 "Mbole"
             ]
         },
         {
             "name": "Ubundu",
-            "type": "Territoire",
             "tribu": [
                 "Lengola",
                 "Kumu",
@@ -180,7 +163,6 @@
         },
         {
             "name": "Yahuma",
-            "type": "Territoire",
             "tribu": [
                 "Ngando",
                 "Mbesa"
@@ -190,7 +172,6 @@
     "Kwilu": [
         {
             "name": "Bagata",
-            "type": "Territoire",
             "tribu": [
                 "Yanzi",
                 "Mbala",
@@ -203,7 +184,6 @@
         },
         {
             "name": "Bulungu",
-            "type": "Territoire",
             "tribu": [
                 "Mbala",
                 "Yanzi",
@@ -216,7 +196,6 @@
         },
         {
             "name": "Gungu",
-            "type": "Territoire",
             "tribu": [
                 "Pende",
                 "Bunda",
@@ -229,7 +208,6 @@
         },
         {
             "name": "Idiofa",
-            "type": "Territoire",
             "tribu": [
                 "Bunda",
                 "Dinga",
@@ -241,7 +219,6 @@
         },
         {
             "name": "Masi-Manimba",
-            "type": "Territoire",
             "tribu": [
                 "Mbala",
                 "Ngongo",
@@ -256,7 +233,6 @@
     "Équateur": [
         {
             "name": "Basankusu",
-            "type": "Territoire",
             "tribu": [
                 "Mongo",
                 "Ngombe",
@@ -265,7 +241,6 @@
         },
         {
             "name": "Bikoro",
-            "type": "Territoire",
             "tribu": [
                 "Ntomba",
                 "Ekonda",
@@ -275,7 +250,6 @@
         },
         {
             "name": "Bolomba",
-            "type": "Territoire",
             "tribu": [
                 "Ngombe",
                 "Mongo",
@@ -286,7 +260,6 @@
         },
         {
             "name": "Bomongo",
-            "type": "Territoire",
             "tribu": [
                 "Dzamba",
                 "Lobala",
@@ -296,7 +269,6 @@
         },
         {
             "name": "Ingende",
-            "type": "Territoire",
             "tribu": [
                 "Batswua",
                 "Balumbe",
@@ -307,7 +279,6 @@
         },
         {
             "name": "Makanza",
-            "type": "Territoire",
             "tribu": [
                 "Mabale",
                 "Balobo",
@@ -330,7 +301,6 @@
     "Tshuapa": [
         {
             "name": "Befale",
-            "type": "Territoire",
             "tribu": [
                 "Nsong'ekelese",
                 "Lonola",
@@ -343,12 +313,10 @@
         },
         {
             "name": "Boende",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Bokungu",
-            "type": "Territoire",
             "tribu": [
                 "Bosaka",
                 "Ngombe"
@@ -356,7 +324,6 @@
         },
         {
             "name": "Djolu",
-            "type": "Territoire",
             "tribu": [
                 "Mongando",
                 "Nsongo",
@@ -369,7 +336,6 @@
         },
         {
             "name": "Ikela",
-            "type": "Territoire",
             "tribu": [
                 "Topoke",
                 "Boyela",
@@ -380,7 +346,6 @@
         },
         {
             "name": "Monkoto",
-            "type": "Territoire",
             "tribu": [
                 "Mongo",
                 "Batwa"
@@ -390,12 +355,10 @@
     "Mai-Ndombe": [
         {
             "name": "Bolobo",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Inongo",
-            "type": "Territoire",
             "tribu": [
                 "Bolia",
                 "Basengele",
@@ -407,12 +370,10 @@
         },
         {
             "name": "Kiri",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kutu",
-            "type": "Territoire",
             "tribu": [
                 "Sakata",
                 "Waria",
@@ -423,7 +384,6 @@
         },
         {
             "name": "Kwamouth",
-            "type": "Territoire",
             "tribu": [
                 "Teke-sud",
                 "Bateke-sud",
@@ -433,12 +393,10 @@
         },
         {
             "name": "Lukolela",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Mushie",
-            "type": "Territoire",
             "tribu": [
                 "Boma",
                 "Nunu",
@@ -447,7 +405,6 @@
         },
         {
             "name": "Yumbi",
-            "type": "Territoire",
             "tribu": [
                 "Tiene/Tende",
                 "Nunu"
@@ -457,7 +414,6 @@
     "Mongala": [
         {
             "name": "Bongandanga",
-            "type": "Territoire",
             "tribu": [
                 "Mongo",
                 "Ngombe"
@@ -465,14 +421,12 @@
         },
         {
             "name": "Bumba",
-            "type": "Territoire",
             "tribu": [
                 "Budja"
             ]
         },
         {
             "name": "Lisala",
-            "type": "Territoire",
             "tribu": [
                 "Ngombe",
                 "Doko",
@@ -485,7 +439,6 @@
     "Nord-Ubangi": [
         {
             "name": "Bosobolo",
-            "type": "Territoire",
             "tribu": [
                 "Mono",
                 "Gobu",
@@ -502,7 +455,6 @@
         },
         {
             "name": "Businga",
-            "type": "Territoire",
             "tribu": [
                 "Ngaka",
                 "Mbanza",
@@ -513,7 +465,6 @@
         },
         {
             "name": "Mobayi-Mbongo",
-            "type": "Territoire",
             "tribu": [
                 "Ngandi",
                 "Banda"
@@ -521,14 +472,12 @@
         },
         {
             "name": "Yakoma",
-            "type": "Territoire",
             "tribu": null
         }
     ],
     "Sud-Ubangi": [
         {
             "name": "Budjala",
-            "type": "Territoire",
             "tribu": [
                 "Ngwandi Ngili",
                 "Mbanza",
@@ -538,7 +487,6 @@
         },
         {
             "name": "Gemena",
-            "type": "Territoire",
             "tribu": [
                 "Mbansa",
                 "Ngbaka"
@@ -546,7 +494,6 @@
         },
         {
             "name": "Kungu",
-            "type": "Territoire",
             "tribu": [
                 "Bomboma",
                 "Lingonda",
@@ -563,7 +510,6 @@
         },
         {
             "name": "Libenge",
-            "type": "Territoire",
             "tribu": [
                 "Mbanza",
                 "Ngbaka",
@@ -574,7 +520,6 @@
         },
         {
             "name": "Zongo",
-            "type": "Territoire",
             "tribu": [
                 "Ngbandi",
                 "Ngombe"
@@ -582,7 +527,6 @@
         },
         {
             "name": "Zongo II",
-            "type": "Territoire",
             "tribu": [
                 "Ngbandi",
                 "Ngombe"
@@ -592,17 +536,14 @@
     "Haut-Lomami": [
         {
             "name": "Bukama",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kabongo",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kamina",
-            "type": "Territoire",
             "tribu": [
                 "Luba",
                 "Tshokwe",
@@ -611,7 +552,6 @@
         },
         {
             "name": "Kaniama",
-            "type": "Territoire",
             "tribu": [
                 "Mutombo Mukulu",
                 "Kasai",
@@ -621,7 +561,6 @@
         },
         {
             "name": "Malemba-Nkulu",
-            "type": "Territoire",
             "tribu": [
                 "Luba",
                 "Zela"
@@ -631,7 +570,6 @@
     "Kasaï": [
         {
             "name": "Dekese",
-            "type": "Territoire",
             "tribu": [
                 "Ndengese",
                 "Inkolombe",
@@ -641,17 +579,14 @@
         },
         {
             "name": "Ilebo",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kamonia",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Luebo",
-            "type": "Territoire",
             "tribu": [
                 "Lulua",
                 "Kuba",
@@ -663,7 +598,6 @@
         },
         {
             "name": "Mweka",
-            "type": "Territoire",
             "tribu": [
                 "Kete",
                 "Bangende",
@@ -690,7 +624,6 @@
     "Kasaï-Central": [
         {
             "name": "Demba",
-            "type": "Territoire",
             "tribu": [
                 "Lula",
                 "Songe",
@@ -701,7 +634,6 @@
         },
         {
             "name": "Dibaya",
-            "type": "Territoire",
             "tribu": [
                 "Kete",
                 "Lulua"
@@ -709,7 +641,6 @@
         },
         {
             "name": "Dimbelenge",
-            "type": "Territoire",
             "tribu": [
                 "Luntu",
                 "Bindi",
@@ -719,7 +650,6 @@
         },
         {
             "name": "Kazumba",
-            "type": "Territoire",
             "tribu": [
                 "Lulua",
                 "Bindi"
@@ -727,7 +657,6 @@
         },
         {
             "name": "Luiza",
-            "type": "Territoire",
             "tribu": [
                 "Kete",
                 "Basalampasu",
@@ -739,7 +668,6 @@
     "Lualaba": [
         {
             "name": "Dilolo",
-            "type": "Territoire",
             "tribu": [
                 "Tshokwe",
                 "Lunda",
@@ -750,12 +678,10 @@
         },
         {
             "name": "Kapanga",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Lubudi",
-            "type": "Territoire",
             "tribu": [
                 "Bayeke",
                 "Basanga",
@@ -766,7 +692,6 @@
         },
         {
             "name": "Mutshatsha",
-            "type": "Territoire",
             "tribu": [
                 "Ndembo",
                 "Kaonde",
@@ -775,7 +700,6 @@
         },
         {
             "name": "Sandoa",
-            "type": "Territoire",
             "tribu": [
                 "Tshokwe",
                 "Lunda"
@@ -785,28 +709,24 @@
     "Kasaï-Oriental": [
         {
             "name": "Kabeya-Kamwanga",
-            "type": "Territoire",
             "tribu": [
                 "Luba"
             ]
         },
         {
             "name": "Katanda",
-            "type": "Territoire",
             "tribu": [
                 "Luba"
             ]
         },
         {
             "name": "Lupatapata",
-            "type": "Territoire",
             "tribu": [
                 "Luba"
             ]
         },
         {
             "name": "Miabi",
-            "type": "Territoire",
             "tribu": [
                 "Bakwa Dishio",
                 "Bena Mulenga",
@@ -817,7 +737,6 @@
         },
         {
             "name": "Tshilenge",
-            "type": "Territoire",
             "tribu": [
                 "Bakwa Kalonji"
             ]
@@ -826,7 +745,6 @@
     "Lomami": [
         {
             "name": "Kabinda",
-            "type": "Territoire",
             "tribu": [
                 "Songe",
                 "Belande",
@@ -837,12 +755,10 @@
         },
         {
             "name": "Kamiji",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Lubao",
-            "type": "Territoire",
             "tribu": [
                 "Songe",
                 "Lusu Tetela"
@@ -850,12 +766,10 @@
         },
         {
             "name": "Luilu",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Ngandajika",
-            "type": "Territoire",
             "tribu": [
                 "Bakwa-Mulumba",
                 "Tshiyamba",
@@ -868,7 +782,6 @@
     "Kwango": [
         {
             "name": "Feshi",
-            "type": "Territoire",
             "tribu": [
                 "Sonde",
                 "Suku",
@@ -880,7 +793,6 @@
         },
         {
             "name": "Kahemba",
-            "type": "Territoire",
             "tribu": [
                 "Lunda",
                 "Tshokwe",
@@ -892,7 +804,6 @@
         },
         {
             "name": "Kasongo-Lunda",
-            "type": "Territoire",
             "tribu": [
                 "Yaka",
                 "Suku",
@@ -902,7 +813,6 @@
         },
         {
             "name": "Kenge",
-            "type": "Territoire",
             "tribu": [
                 "Yaka",
                 "Mbala"
@@ -910,7 +820,6 @@
         },
         {
             "name": "Popokabaka",
-            "type": "Territoire",
             "tribu": [
                 "Yaka",
                 "Mbata"
@@ -920,7 +829,6 @@
     "Haut-Uele": [
         {
             "name": "Dungu",
-            "type": "Territoire",
             "tribu": [
                 "Pazande",
                 "Baka",
@@ -929,7 +837,6 @@
         },
         {
             "name": "Faradje",
-            "type": "Territoire",
             "tribu": [
                 "Logo",
                 "Dongo",
@@ -939,7 +846,6 @@
         },
         {
             "name": "Niangara",
-            "type": "Territoire",
             "tribu": [
                 "Mangbetu",
                 "Azande",
@@ -950,7 +856,6 @@
         },
         {
             "name": "Rungu",
-            "type": "Territoire",
             "tribu": [
                 "Yogo",
                 "Ngbetu"
@@ -958,7 +863,6 @@
         },
         {
             "name": "Wamba",
-            "type": "Territoire",
             "tribu": [
                 "Babudu",
                 "Babyeru",
@@ -967,7 +871,6 @@
         },
         {
             "name": "Watsa",
-            "type": "Territoire",
             "tribu": [
                 "Manvu",
                 "Mayanga",
@@ -982,7 +885,6 @@
     "Sud-Kivu": [
         {
             "name": "Fizi",
-            "type": "Territoire",
             "tribu": [
                 "Bembe",
                 "Babuyu",
@@ -992,14 +894,12 @@
         },
         {
             "name": "Idjwi",
-            "type": "Territoire",
             "tribu": [
                 "Bahavu"
             ]
         },
         {
             "name": "Kabare",
-            "type": "Territoire",
             "tribu": [
                 "Shi",
                 "Batembo"
@@ -1007,7 +907,6 @@
         },
         {
             "name": "Kalehe",
-            "type": "Territoire",
             "tribu": [
                 "Havu",
                 "Tembo",
@@ -1021,19 +920,16 @@
         },
         {
             "name": "Mwenga",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Shabunda",
-            "type": "Territoire",
             "tribu": [
                 "Rega"
             ]
         },
         {
             "name": "Uvira",
-            "type": "Territoire",
             "tribu": [
                 "Bavira",
                 "Bafuliru",
@@ -1044,12 +940,10 @@
     "Tanganyika": [
         {
             "name": "Kabalo",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kalemie",
-            "type": "Territoire",
             "tribu": [
                 "Tumbwe",
                 "Holoholo",
@@ -1063,7 +957,6 @@
         },
         {
             "name": "Kongolo",
-            "type": "Territoire",
             "tribu": [
                 "Hemba",
                 "Songe",
@@ -1074,14 +967,12 @@
         },
         {
             "name": "Manono",
-            "type": "Territoire",
             "tribu": [
                 "Baluba"
             ]
         },
         {
             "name": "Moba",
-            "type": "Territoire",
             "tribu": [
                 "Batabwa",
                 "Luba",
@@ -1097,7 +988,6 @@
         },
         {
             "name": "Nyunzu",
-            "type": "Territoire",
             "tribu": [
                 "Kalanga",
                 "Luba",
@@ -1110,7 +1000,6 @@
     "Maniema": [
         {
             "name": "Kabambare",
-            "type": "Territoire",
             "tribu": [
                 "Bangubangu",
                 "Salamabila",
@@ -1123,7 +1012,6 @@
         },
         {
             "name": "Kailo",
-            "type": "Territoire",
             "tribu": [
                 "Basongola",
                 "Bangengele",
@@ -1134,7 +1022,6 @@
         },
         {
             "name": "Kasongo",
-            "type": "Territoire",
             "tribu": [
                 "Wazimba",
                 "Wazura",
@@ -1151,28 +1038,24 @@
         },
         {
             "name": "Kibombo",
-            "type": "Territoire",
             "tribu": [
                 "Kusu"
             ]
         },
         {
             "name": "Lubutu",
-            "type": "Territoire",
             "tribu": [
                 "Kumu"
             ]
         },
         {
             "name": "Pangi",
-            "type": "Territoire",
             "tribu": [
                 "Rega"
             ]
         },
         {
             "name": "Punia",
-            "type": "Territoire",
             "tribu": [
                 "Komo",
                 "Songola",
@@ -1185,17 +1068,14 @@
     "Haut-Katanga": [
         {
             "name": "Kambove",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kasenga",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Kipushi",
-            "type": "Territoire",
             "tribu": [
                 "Lamba",
                 "Aushi",
@@ -1205,7 +1085,6 @@
         },
         {
             "name": "Mitwaba",
-            "type": "Territoire",
             "tribu": [
                 "Zela",
                 "Lomotwa",
@@ -1214,7 +1093,6 @@
         },
         {
             "name": "Pweto",
-            "type": "Territoire",
             "tribu": [
                 "Bashila",
                 "Babwile",
@@ -1224,7 +1102,6 @@
         },
         {
             "name": "Sakania",
-            "type": "Territoire",
             "tribu": [
                 "Balamba",
                 "Baushi",
@@ -1235,19 +1112,16 @@
     "Sankuru": [
         {
             "name": "Katako-Kombe",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Lodja",
-            "type": "Territoire",
             "tribu": [
                 "Otetela"
             ]
         },
         {
             "name": "Lomela",
-            "type": "Territoire",
             "tribu": [
                 "Bakela",
                 "Batetela",
@@ -1258,7 +1132,6 @@
         },
         {
             "name": "Lubefu",
-            "type": "Territoire",
             "tribu": [
                 "Batetela",
                 "Songe"
@@ -1266,7 +1139,6 @@
         },
         {
             "name": "Lusambo",
-            "type": "Territoire",
             "tribu": [
                 "Basonge",
                 "Bakuba",
@@ -1282,14 +1154,12 @@
     "Nord-Kivu": [
         {
             "name": "Lubero",
-            "type": "Territoire",
             "tribu": [
                 "Nande"
             ]
         },
         {
             "name": "Masisi",
-            "type": "Territoire",
             "tribu": [
                 "Bahutu",
                 "Batutsi",
@@ -1301,7 +1171,6 @@
         },
         {
             "name": "Nyiragongo",
-            "type": "Territoire",
             "tribu": [
                 "Hutu",
                 "Hunde/Kumu",
@@ -1311,12 +1180,10 @@
         },
         {
             "name": "Oicha",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Rutshuru",
-            "type": "Territoire",
             "tribu": [
                 "Hutu",
                 "Nande",
@@ -1328,7 +1195,6 @@
         },
         {
             "name": "Walikale",
-            "type": "Territoire",
             "tribu": [
                 "Nyanga",
                 "Kusu",
@@ -1344,7 +1210,6 @@
     "Kongo-Central": [
         {
             "name": "Kasangulu",
-            "type": "Territoire",
             "tribu": [
                 "Lemfus",
                 "Humbus",
@@ -1356,7 +1221,6 @@
         },
         {
             "name": "Kimvula",
-            "type": "Territoire",
             "tribu": [
                 "Mbeku",
                 "Nkanu",
@@ -1365,7 +1229,6 @@
         },
         {
             "name": "Lukula",
-            "type": "Territoire",
             "tribu": [
                 "Bayombe",
                 "Mukongo",
@@ -1374,19 +1237,16 @@
         },
         {
             "name": "Luozi",
-            "type": "Territoire",
             "tribu": [
                 "Manyanga"
             ]
         },
         {
             "name": "Madimba",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Mbanza-Ngungu",
-            "type": "Territoire",
             "tribu": [
                 "Bakongo",
                 "Oyo",
@@ -1395,12 +1255,10 @@
         },
         {
             "name": "Moanda",
-            "type": "Territoire",
             "tribu": null
         },
         {
             "name": "Seke-Banza",
-            "type": "Territoire",
             "tribu": [
                 "Bamboma",
                 "Vungu",
@@ -1410,7 +1268,6 @@
         },
         {
             "name": "Songololo",
-            "type": "Territoire",
             "tribu": [
                 "Bamboma",
                 "Manianga",
@@ -1420,7 +1277,6 @@
         },
         {
             "name": "Tshela",
-            "type": "Territoire",
             "tribu": [
                 "Yombe"
             ]

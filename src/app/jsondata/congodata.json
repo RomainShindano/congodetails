@@ -2080,6 +2080,61 @@
             "name": "Sud-Kivu",
             "capital": "Bukavu",
             "maps": "/assets/Pronvices/CDSK.svg",
+            "territories": [
+                {
+                    "name": "Fizi",
+                    "tribu": [
+                        "Bembe",
+                        "Babuyu",
+                        "Babwari",
+                        "Bazoba"
+                    ]
+                },
+                {
+                    "name": "Idjwi",
+                    "tribu": [
+                        "Bahavu"
+                    ]
+                },
+                {
+                    "name": "Kabare",
+                    "tribu": [
+                        "Shi",
+                        "Batembo"
+                    ]
+                },
+                {
+                    "name": "Kalehe",
+                    "tribu": [
+                        "Havu",
+                        "Tembo",
+                        "Hunde",
+                        "Hutu",
+                        "Tutsi",
+                        "Shi",
+                        "Nyanga",
+                        "Rega"
+                    ]
+                },
+                {
+                    "name": "Mwenga",
+                    "tribu": null
+                },
+                {
+                    "name": "Shabunda",
+                    "tribu": [
+                        "Rega"
+                    ]
+                },
+                {
+                    "name": "Uvira",
+                    "tribu": [
+                        "Bavira",
+                        "Bafuliru",
+                        "Barundi"
+                    ]
+                }
+            ],
             "coordinates": {
                 "latitude": -2.5153,
                 "longitude": 28.8454
@@ -2232,16 +2287,6 @@
                     "postal_code": "6203",
                     "communes": [],
                     "neighborhoods": []
-                }
-            ],
-            "territories": [
-                {
-                    "name": "Mwenga",
-                    "postal_code": "6204",
-                    "coordinates": {
-                        "latitude": -3.0000,
-                        "longitude": 28.0000
-                    }
                 }
             ]
         },
@@ -2459,8 +2504,7 @@
                         {
                             "name": "Lubumbashi",
                             "postal_code": "71105",
-                            "coordinates": {
-                            },
+                            "coordinates": {},
                             "neighborhoods": [
                                 {
                                     "name": "MAKUTANO",
@@ -2706,7 +2750,6 @@
             ]
         },
         {
-            
             "id": "010",
             "name": "Kasai-Central",
             "capital": "Kananga",
