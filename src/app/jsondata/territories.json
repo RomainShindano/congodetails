@@ -1,1529 +1,1573 @@
-[
-    {
-        "id": 1,
-        "name": "Aketi",
-        "type": "Territoire",
-        "tribu": [
-            "Zande",
-            "Benza",
-            "Bati",
-            "Kolongwandi"
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Ango",
-        "type": "Territoire",
-        "tribu": [
-            "Zande",
-            "Barambo"
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Aru",
-        "type": "Territoire",
-        "tribu": [
-            "Lugbara",
-            "Kakwa",
-            "Kaliko-Omi",
-            "Ndo"
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Bafwasende",
-        "type": "Territoire",
-        "tribu": [
-            "Bali",
-            "Kumu",
-            "Rumbi",
-            "Mbuti"
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Bagata",
-        "type": "Territoire",
-        "tribu": [
-            "Yanzi",
-            "Mbala",
-            "Teke",
-            "Boma",
-            "Hungani",
-            "Nzadi",
-            "Ngole"
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Bambesa",
-        "type": "Territoire",
-        "tribu": [
-            "Nzakara",
-            "Zande",
-            "Kere",
-            "Kango"
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Banalia",
-        "type": "Territoire",
-        "tribu": [
-            "Manga",
-            "Ngelema",
-            "Boa",
-            "Popoyi",
-            "Baboro"
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Basankusu",
-        "type": "Territoire",
-        "tribu": [
-            "Mongo",
-            "Ngombe",
-            "Ngando"
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Basoko",
-        "type": "Territoire",
-        "tribu": [
-            "Bango",
-            "Mongelema",
-            "Soo",
-            "Ngelema"
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Befale",
-        "type": "Territoire",
-        "tribu": [
-            "Nsong'ekelese",
-            "Lonola",
-            "Mongando",
-            "Elinga",
-            "Bolifa",
-            "Loma",
-            "Nsongo-Mboyo"
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Bikoro",
-        "type": "Territoire",
-        "tribu": [
-            "Ntomba",
-            "Ekonda",
-            "Ngele a Ntambo",
-            "Pygmées"
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Boende",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 13,
-        "name": "Bokungu",
-        "type": "Territoire",
-        "tribu": [
-            "Bosaka",
-            "Ngombe"
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Bolobo",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 15,
-        "name": "Bolomba",
-        "type": "Territoire",
-        "tribu": [
-            "Ngombe",
-            "Mongo",
-            "Ekelu",
-            "Baenga",
-            "Balume"
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Bomongo",
-        "type": "Territoire",
-        "tribu": [
-            "Dzamba",
-            "Lobala",
-            "Baloi",
-            "Mabinza"
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Bondo",
-        "type": "Territoire",
-        "tribu": [
-            "Zande",
-            "Ngandi",
-            "Babenge",
-            "Nzakara"
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Bongandanga",
-        "type": "Territoire",
-        "tribu": [
-            "Mongo",
-            "Ngombe"
-        ]
-    },
-    {
-        "id": 19,
-        "name": "Bosobolo",
-        "type": "Territoire",
-        "tribu": [
-            "Mono",
-            "Gobu",
-            "Togbo",
-            "Langbase",
-            "Gbanziri",
-            "Yakpa",
-            "Kwala",
-            "Fulu",
-            "Mbanza",
-            "Ngbaka",
-            "Ngombe"
-        ]
-    },
-    {
-        "id": 20,
-        "name": "Budjala",
-        "type": "Territoire",
-        "tribu": [
-            "Ngwandi Ngili",
-            "Mbanza",
-            "Ngombe",
-            "Nkunda"
-        ]
-    },
-    {
-        "id": 21,
-        "name": "Bukama",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 22,
-        "name": "Bulungu",
-        "type": "Territoire",
-        "tribu": [
-            "Mbala",
-            "Yanzi",
-            "Ngongo",
-            "Tshamba",
-            "Bunda",
-            "Hungana",
-            "Mputu"
-        ]
-    },
-    {
-        "id": 23,
-        "name": "Bumba",
-        "type": "Territoire",
-        "tribu": [
-            "Budja"
-        ]
-    },
-    {
-        "id": 24,
-        "name": "Businga",
-        "type": "Territoire",
-        "tribu": [
-            "Ngaka",
-            "Mbanza",
-            "Ngbandi",
-            "Ngombe",
-            "Pakibete"
-        ]
-    },
-    {
-        "id": 25,
-        "name": "Buta",
-        "type": "Territoire",
-        "tribu": [
-            "Boa",
-            "Zande",
-            "Babenza",
-            "Basoko",
-            "Bangelema",
-            "Lokole",
-            "Wagenia",
-            "Bakango"
-        ]
-    },
-    {
-        "id": 26,
-        "name": "Dekese",
-        "type": "Territoire",
-        "tribu": [
-            "Ndengese",
-            "Inkolombe",
-            "Isolu",
-            "Yaelima"
-        ]
-    },
-    {
-        "id": 27,
-        "name": "Demba",
-        "type": "Territoire",
-        "tribu": [
-            "Lula",
-            "Songe",
-            "Tetela",
-            "Bambu",
-            "Bakua Luntu"
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Dibaya",
-        "type": "Territoire",
-        "tribu": [
-            "Kete",
-            "Lulua"
-        ]
-    },
-    {
-        "id": 29,
-        "name": "Dilolo",
-        "type": "Territoire",
-        "tribu": [
-            "Tshokwe",
-            "Lunda",
-            "Ndembo",
-            "Minungu",
-            "Luvale"
-        ]
-    },
-    {
-        "id": 30,
-        "name": "Dimbelenge",
-        "type": "Territoire",
-        "tribu": [
-            "Luntu",
-            "Bindi",
-            "Beyankusu",
-            "Songe"
-        ]
-    },
-    {
-        "id": 31,
-        "name": "Djolu",
-        "type": "Territoire",
-        "tribu": [
-            "Mongando",
-            "Nsongo",
-            "Yomongo",
-            "Yankata",
-            "Yansola",
-            "Mimbesa",
-            "Boonde"
-        ]
-    },
-    {
-        "id": 32,
-        "name": "Djugu",
-        "type": "Territoire",
-        "tribu": [
-            "Lendu",
-            "Hema",
-            "Mambisa",
-            "Ndo",
-            "Nyali",
-            "Mbuti"
-        ]
-    },
-    {
-        "id": 33,
-        "name": "Dungu",
-        "type": "Territoire",
-        "tribu": [
-            "Pazande",
-            "Baka",
-            "Madi"
-        ]
-    },
-    {
-        "id": 34,
-        "name": "Faradje",
-        "type": "Territoire",
-        "tribu": [
-            "Logo",
-            "Dongo",
-            "Kakwa",
-            "Mondo"
-        ]
-    },
-    {
-        "id": 35,
-        "name": "Feshi",
-        "type": "Territoire",
-        "tribu": [
-            "Sonde",
-            "Suku",
-            "Tshokwe",
-            "Kweso",
-            "Pende",
-            "Luwa"
-        ]
-    },
-    {
-        "id": 36,
-        "name": "Fizi",
-        "type": "Territoire",
-        "tribu": [
-            "Bembe",
-            "Babuyu",
-            "Babwari",
-            "Bazoba"
-        ]
-    },
-    {
-        "id": 37,
-        "name": "Gemena",
-        "type": "Territoire",
-        "tribu": [
-            "Mbansa",
-            "Ngbaka"
-        ]
-    },
-    {
-        "id": 38,
-        "name": "Gungu",
-        "type": "Territoire",
-        "tribu": [
-            "Pende",
-            "Bunda",
-            "Kwese",
-            "Mbala",
-            "Wongo",
-            "Lunda",
-            "Pindji"
-        ]
-    },
-    {
-        "id": 39,
-        "name": "Idiofa",
-        "type": "Territoire",
-        "tribu": [
-            "Bunda",
-            "Dinga",
-            "Lele",
-            "Ngoli",
-            "Pende",
-            "Wongo"
-        ]
-    },
-    {
-        "id": 40,
-        "name": "Idjwi",
-        "type": "Territoire",
-        "tribu": [
-            "Bahavu"
-        ]
-    },
-    {
-        "id": 41,
-        "name": "Ikela",
-        "type": "Territoire",
-        "tribu": [
-            "Topoke",
-            "Boyela",
-            "Koka",
-            "Bangando",
-            "Watsi"
-        ]
-    },
-    {
-        "id": 42,
-        "name": "Ilebo",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 43,
-        "name": "Ingende",
-        "type": "Territoire",
-        "tribu": [
-            "Batswua",
-            "Balumbe",
-            "Bilangi",
-            "Basamalia",
-            "Kundo"
-        ]
-    },
-    {
-        "id": 44,
-        "name": "Inongo",
-        "type": "Territoire",
-        "tribu": [
-            "Bolia",
-            "Basengele",
-            "Ntomba Nzele",
-            "Ekonda",
-            "Nunu",
-            "Iyemba"
-        ]
-    },
-    {
-        "id": 45,
-        "name": "Irumu",
-        "type": "Territoire",
-        "tribu": [
-            "Bira",
-            "Hema",
-            "Lendu Bindi",
-            "Nyali",
-            "Lese",
-            "Pygmees"
-        ]
-    },
-    {
-        "id": 46,
-        "name": "Isangi",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 47,
-        "name": "Kabalo",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 48,
-        "name": "Kabambare",
-        "type": "Territoire",
-        "tribu": [
-            "Bangubangu",
-            "Salamabila",
-            "Bahombo",
-            "Bahemba",
-            "Lulindi",
-            "Babuyu",
-            "Batwa"
-        ]
-    },
-    {
-        "id": 49,
-        "name": "Kabare",
-        "type": "Territoire",
-        "tribu": [
-            "Shi",
-            "Batembo"
-        ]
-    },
-    {
-        "id": 50,
-        "name": "Kabeya-Kamwanga",
-        "type": "Territoire",
-        "tribu": [
-            "Luba"
-        ]
-    },
-    {
-        "id": 51,
-        "name": "Kabinda",
-        "type": "Territoire",
-        "tribu": [
-            "Songe",
-            "Belande",
-            "Ben'Eki",
-            "Baluba Lubangule",
-            "Bena Budia"
-        ]
-    },
-    {
-        "id": 52,
-        "name": "Kabongo",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 53,
-        "name": "Kahemba",
-        "type": "Territoire",
-        "tribu": [
-            "Lunda",
-            "Tshokwe",
-            "Shinjis",
-            "Minungu",
-            "Pende",
-            "Yaka"
-        ]
-    },
-    {
-        "id": 54,
-        "name": "Kailo",
-        "type": "Territoire",
-        "tribu": [
-            "Basongola",
-            "Bangengele",
-            "Balanga",
-            "Wagenya",
-            "Wazalia"
-        ]
-    },
-    {
-        "id": 55,
-        "name": "Kalehe",
-        "type": "Territoire",
-        "tribu": [
-            "Havu",
-            "Tembo",
-            "Hunde",
-            "Hutu",
-            "Tutsi",
-            "Shi",
-            "Nyanga",
-            "Rega"
-        ]
-    },
-    {
-        "id": 56,
-        "name": "Kalemie",
-        "type": "Territoire",
-        "tribu": [
-            "Tumbwe",
-            "Holoholo",
-            "Buyu",
-            "Luba",
-            "Tabwa",
-            "Bembe",
-            "Fulero",
-            "Shi"
-        ]
-    },
-    {
-        "id": 57,
-        "name": "Kambove",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 58,
-        "name": "Kamiji",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 59,
-        "name": "Kamina",
-        "type": "Territoire",
-        "tribu": [
-            "Luba",
-            "Tshokwe",
-            "Dembo"
-        ]
-    },
-    {
-        "id": 60,
-        "name": "Kamonia",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 61,
-        "name": "Kaniama",
-        "type": "Territoire",
-        "tribu": [
-            "Mutombo Mukulu",
-            "Kasai",
-            "Kabongo",
-            "Kasongo Ngwanyembo"
-        ]
-    },
-    {
-        "id": 62,
-        "name": "Kapanga",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 63,
-        "name": "Kasangulu",
-        "type": "Territoire",
-        "tribu": [
-            "Lemfus",
-            "Humbus",
-            "Mbinsa",
-            "Teke",
-            "Mfunuka",
-            "Nzungi"
-        ]
-    },
-    {
-        "id": 64,
-        "name": "Kasenga",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 65,
-        "name": "Kasongo",
-        "type": "Territoire",
-        "tribu": [
-            "Wazimba",
-            "Wazura",
-            "Basonge",
-            "Benia Mamba",
-            "Benia Kasenga",
-            "Benia Mweho",
-            "Benia Nonda",
-            "Benia Samba",
-            "Bakwange",
-            "Wagenia-Walungu",
-            "Wazalia"
-        ]
-    },
-    {
-        "id": 66,
-        "name": "Kasongo-Lunda",
-        "type": "Territoire",
-        "tribu": [
-            "Yaka",
-            "Suku",
-            "Holo",
-            "Tchokwe"
-        ]
-    },
-    {
-        "id": 67,
-        "name": "Katako-Kombe",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 68,
-        "name": "Katanda",
-        "type": "Territoire",
-        "tribu": [
-            "Luba"
-        ]
-    },
-    {
-        "id": 69,
-        "name": "Kazumba",
-        "type": "Territoire",
-        "tribu": [
-            "Lulua",
-            "Bindi"
-        ]
-    },
-    {
-        "id": 70,
-        "name": "Kenge",
-        "type": "Territoire",
-        "tribu": [
-            "Yaka",
-            "Mbala"
-        ]
-    },
-    {
-        "id": 71,
-        "name": "Kibombo",
-        "type": "Territoire",
-        "tribu": [
-            "Kusu"
-        ]
-    },
-    {
-        "id": 72,
-        "name": "Kimvula",
-        "type": "Territoire",
-        "tribu": [
-            "Mbeku",
-            "Nkanu",
-            "Lula"
-        ]
-    },
-    {
-        "id": 73,
-        "name": "Kipushi",
-        "type": "Territoire",
-        "tribu": [
-            "Lamba",
-            "Aushi",
-            "Kaonde",
-            "Bemba"
-        ]
-    },
-    {
-        "id": 74,
-        "name": "Kiri",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 75,
-        "name": "Kongolo",
-        "type": "Territoire",
-        "tribu": [
-            "Hemba",
-            "Songe",
-            "Luba",
-            "Kusu",
-            "Yazi"
-        ]
-    },
-    {
-        "id": 76,
-        "name": "Kungu",
-        "type": "Territoire",
-        "tribu": [
-            "Bomboma",
-            "Lingonda",
-            "Bamwe",
-            "Libinza",
-            "Mbanza",
-            "Ngbaka",
-            "Monzombo",
-            "Lobala",
-            "Ngombe",
-            "Bozaba/Bombili",
-            "Ngbandi"
-        ]
-    },
-    {
-        "id": 77,
-        "name": "Kutu",
-        "type": "Territoire",
-        "tribu": [
-            "Sakata",
-            "Waria",
-            "Bayi",
-            "Nkundo",
-            "Ntomba"
-        ]
-    },
-    {
-        "id": 78,
-        "name": "Kwamouth",
-        "type": "Territoire",
-        "tribu": [
-            "Teke-sud",
-            "Bateke-sud",
-            "Baboma-Banku",
-            "Baboma-sud"
-        ]
-    },
-    {
-        "id": 79,
-        "name": "Libenge",
-        "type": "Territoire",
-        "tribu": [
-            "Mbanza",
-            "Ngbaka",
-            "Mono",
-            "Ngbundu",
-            "Ngombe"
-        ]
-    },
-    {
-        "id": 80,
-        "name": "Lisala",
-        "type": "Territoire",
-        "tribu": [
-            "Ngombe",
-            "Doko",
-            "Motembo",
-            "Moweya",
-            "Mondunga"
-        ]
-    },
-    {
-        "id": 81,
-        "name": "Lodja",
-        "type": "Territoire",
-        "tribu": [
-            "Otetela"
-        ]
-    },
-    {
-        "id": 82,
-        "name": "Lomela",
-        "type": "Territoire",
-        "tribu": [
-            "Bakela",
-            "Batetela",
-            "Bahamba",
-            "Bakutsu",
-            "Djonga"
-        ]
-    },
-    {
-        "id": 83,
-        "name": "Lubao",
-        "type": "Territoire",
-        "tribu": [
-            "Songe",
-            "Lusu Tetela"
-        ]
-    },
-    {
-        "id": 84,
-        "name": "Lubefu",
-        "type": "Territoire",
-        "tribu": [
-            "Batetela",
-            "Songe"
-        ]
-    },
-    {
-        "id": 85,
-        "name": "Lubero",
-        "type": "Territoire",
-        "tribu": [
-            "Nande"
-        ]
-    },
-    {
-        "id": 86,
-        "name": "Lubudi",
-        "type": "Territoire",
-        "tribu": [
-            "Bayeke",
-            "Basanga",
-            "Luba",
-            "Ndembo",
-            "Kaonde"
-        ]
-    },
-    {
-        "id": 87,
-        "name": "Lubutu",
-        "type": "Territoire",
-        "tribu": [
-            "Kumu"
-        ]
-    },
-    {
-        "id": 88,
-        "name": "Luebo",
-        "type": "Territoire",
-        "tribu": [
-            "Lulua",
-            "Kuba",
-            "Kete",
-            "Luba",
-            "Otetela",
-            "Luntu"
-        ]
-    },
-    {
-        "id": 89,
-        "name": "Luilu",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 90,
-        "name": "Luiza",
-        "type": "Territoire",
-        "tribu": [
-            "Kete",
-            "Basalampasu",
-            "Mbala",
-            "Lualua"
-        ]
-    },
-    {
-        "id": 91,
-        "name": "Lukolela",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 92,
-        "name": "Lukula",
-        "type": "Territoire",
-        "tribu": [
-            "Bayombe",
-            "Mukongo",
-            "Muwoyo"
-        ]
-    },
-    {
-        "id": 93,
-        "name": "Luozi",
-        "type": "Territoire",
-        "tribu": [
-            "Manyanga"
-        ]
-    },
-    {
-        "id": 94,
-        "name": "Lupatapata",
-        "type": "Territoire",
-        "tribu": [
-            "Luba"
-        ]
-    },
-    {
-        "id": 95,
-        "name": "Lusambo",
-        "type": "Territoire",
-        "tribu": [
-            "Basonge",
-            "Bakuba",
-            "Batetela",
-            "Baluba",
-            "Bakwamputu",
-            "Ankutshu",
-            "Bena konji",
-            "Batua"
-        ]
-    },
-    {
-        "id": 96,
-        "name": "Madimba",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 97,
-        "name": "Mahagi",
-        "type": "Territoire",
-        "tribu": [
-            "Alur",
-            "Ukebu",
-            "Lendu Watsi"
-        ]
-    },
-    {
-        "id": 98,
-        "name": "Makanza",
-        "type": "Territoire",
-        "tribu": [
-            "Mabale",
-            "Balobo",
-            "Libinza",
-            "Bamwe",
-            "Boloki",
-            "Iboko",
-            "Mbenga",
-            "Ndobo",
-            "Motembo",
-            "Mbonzi",
-            "Mpunza",
-            "Bozaba",
-            "Likoka",
-            "Ngombe",
-            "Nkinga"
-        ]
-    },
-    {
-        "id": 99,
-        "name": "Malemba-Nkulu",
-        "type": "Territoire",
-        "tribu": [
-            "Luba",
-            "Zela"
-        ]
-    },
-    {
-        "id": 100,
-        "name": "Mambasa",
-        "type": "Territoire",
-        "tribu": [
-            "Bambutl",
-            "Babila",
-            "Bandaka",
-            "Bombo",
-            "Walese",
-            "Babudu",
-            "Nande"
-        ]
-    },
-    {
-        "id": 101,
-        "name": "Manono",
-        "type": "Territoire",
-        "tribu": [
-            "Baluba"
-        ]
-    },
-    {
-        "id": 102,
-        "name": "Masi-Manimba",
-        "type": "Territoire",
-        "tribu": [
-            "Mbala",
-            "Ngongo",
-            "Suku",
-            "Yansi",
-            "Hungana",
-            "Songo",
-            "Tsamba"
-        ]
-    },
-    {
-        "id": 103,
-        "name": "Masisi",
-        "type": "Territoire",
-        "tribu": [
-            "Bahutu",
-            "Batutsi",
-            "Batembo",
-            "Bahunde",
-            "Bakumu",
-            "Batwa"
-        ]
-    },
-    {
-        "id": 104,
-        "name": "Mbanza-Ngungu",
-        "type": "Territoire",
-        "tribu": [
-            "Bakongo",
-            "Oyo",
-            "Asolongo"
-        ]
-    },
-    {
-        "id": 105,
-        "name": "Miabi",
-        "type": "Territoire",
-        "tribu": [
-            "Bakwa Dishio",
-            "Bena Mulenga",
-            "Bakwa Bubale",
-            "Dishio dia Yamba",
-            "Dishio dia Matu"
-        ]
-    },
-    {
-        "id": 106,
-        "name": "Mitwaba",
-        "type": "Territoire",
-        "tribu": [
-            "Zela",
-            "Lomotwa",
-            "Nweshi"
-        ]
-    },
-    {
-        "id": 107,
-        "name": "Moanda",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 108,
-        "name": "Moba",
-        "type": "Territoire",
-        "tribu": [
-            "Batabwa",
-            "Luba",
-            "Bemba",
-            "Hemba",
-            "Tetela",
-            "Shi",
-            "Kassai",
-            "Bavira",
-            "Toka Kasongo",
-            "Karundi"
-        ]
-    },
-    {
-        "id": 109,
-        "name": "Mobayi-Mbongo",
-        "type": "Territoire",
-        "tribu": [
-            "Ngandi",
-            "Banda"
-        ]
-    },
-    {
-        "id": 110,
-        "name": "Monkoto",
-        "type": "Territoire",
-        "tribu": [
-            "Mongo",
-            "Batwa"
-        ]
-    },
-    {
-        "id": 111,
-        "name": "Mushie",
-        "type": "Territoire",
-        "tribu": [
-            "Boma",
-            "Nunu",
-            "Mpee"
-        ]
-    },
-    {
-        "id": 112,
-        "name": "Mutshatsha",
-        "type": "Territoire",
-        "tribu": [
-            "Ndembo",
-            "Kaonde",
-            "Luba"
-        ]
-    },
-    {
-        "id": 113,
-        "name": "Mweka",
-        "type": "Territoire",
-        "tribu": [
-            "Kete",
-            "Bangende",
-            "Bapianga",
-            "Bangombe",
-            "Bashobwe",
-            "Batwa",
-            "Maluku",
-            "Bakele",
-            "Bambalaie",
-            "Lombelo",
-            "Lona",
-            "Kasuambambi",
-            "Kasua Mbengi",
-            "Bansueba",
-            "Batanda",
-            "Luembe",
-            "Mombo lona",
-            "Popolona sud",
-            "Tshiofa"
-        ]
-    },
-    {
-        "id": 114,
-        "name": "Mwenga",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 115,
-        "name": "Ngandajika",
-        "type": "Territoire",
-        "tribu": [
-            "Bakwa-Mulumba",
-            "Tshiyamba",
-            "Kalambayi",
-            "Baluba-Shankadi",
-            "Ngandajika"
-        ]
-    },
-    {
-        "id": 116,
-        "name": "Niangara",
-        "type": "Territoire",
-        "tribu": [
-            "Mangbetu",
-            "Azande",
-            "Madi",
-            "Bangba",
-            "Mayogo"
-        ]
-    },
-    {
-        "id": 117,
-        "name": "Nyiragongo",
-        "type": "Territoire",
-        "tribu": [
-            "Hutu",
-            "Hunde/Kumu",
-            "Tutsi",
-            "Twa"
-        ]
-    },
-    {
-        "id": 118,
-        "name": "Nyunzu",
-        "type": "Territoire",
-        "tribu": [
-            "Kalanga",
-            "Luba",
-            "Hemba",
-            "Tungwa",
-            "Mbote"
-        ]
-    },
-    {
-        "id": 119,
-        "name": "Oicha",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 120,
-        "name": "Opala",
-        "type": "Territoire",
-        "tribu": [
-            "Mbole"
-        ]
-    },
-    {
-        "id": 121,
-        "name": "Oshwe",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 122,
-        "name": "Pangi",
-        "type": "Territoire",
-        "tribu": [
-            "Rega"
-        ]
-    },
-    {
-        "id": 123,
-        "name": "Poko",
-        "type": "Territoire",
-        "tribu": [
-            "Zande",
-            "Rambo",
-            "Kango",
-            "Lele",
-            "Madi"
-        ]
-    },
-    {
-        "id": 124,
-        "name": "Popokabaka",
-        "type": "Territoire",
-        "tribu": [
-            "Yaka",
-            "Mbata"
-        ]
-    },
-    {
-        "id": 125,
-        "name": "Punia",
-        "type": "Territoire",
-        "tribu": [
-            "Komo",
-            "Songola",
-            "Kwame",
-            "Genya",
-            "Wazila"
-        ]
-    },
-    {
-        "id": 126,
-        "name": "Pweto",
-        "type": "Territoire",
-        "tribu": [
-            "Bashila",
-            "Babwile",
-            "Bazela",
-            "Bakunda"
-        ]
-    },
-    {
-        "id": 127,
-        "name": "Rungu",
-        "type": "Territoire",
-        "tribu": [
-            "Yogo",
-            "Ngbetu"
-        ]
-    },
-    {
-        "id": 128,
-        "name": "Rutshuru",
-        "type": "Territoire",
-        "tribu": [
-            "Hutu",
-            "Nande",
-            "Hunde/Kumu",
-            "Tutsi",
-            "Nyanga",
-            "Twa"
-        ]
-    },
-    {
-        "id": 129,
-        "name": "Sakania",
-        "type": "Territoire",
-        "tribu": [
-            "Balamba",
-            "Baushi",
-            "Balala"
-        ]
-    },
-    {
-        "id": 130,
-        "name": "Sandoa",
-        "type": "Territoire",
-        "tribu": [
-            "Tshokwe",
-            "Lunda"
-        ]
-    },
-    {
-        "id": 131,
-        "name": "Seke-Banza",
-        "type": "Territoire",
-        "tribu": [
-            "Bamboma",
-            "Vungu",
-            "Manyanga",
-            "Bayombe"
-        ]
-    },
-    {
-        "id": 132,
-        "name": "Shabunda",
-        "type": "Territoire",
-        "tribu": [
-            "Rega"
-        ]
-    },
-    {
-        "id": 133,
-        "name": "Songololo",
-        "type": "Territoire",
-        "tribu": [
-            "Bamboma",
-            "Manianga",
-            "Bandibu",
-            "Bantandu"
-        ]
-    },
-    {
-        "id": 134,
-        "name": "Tshela",
-        "type": "Territoire",
-        "tribu": [
-            "Yombe"
-        ]
-    },
-    {
-        "id": 135,
-        "name": "Tshilenge",
-        "type": "Territoire",
-        "tribu": [
-            "Bakwa Kalonji"
-        ]
-    },
-    {
-        "id": 136,
-        "name": "Ubundu",
-        "type": "Territoire",
-        "tribu": [
-            "Lengola",
-            "Kumu",
-            "Mituku",
-            "Wagwama",
-            "Baleka",
-            "Genya"
-        ]
-    },
-    {
-        "id": 137,
-        "name": "Uvira",
-        "type": "Territoire",
-        "tribu": [
-            "Bavira",
-            "Bafuliru",
-            "Barundi"
-        ]
-    },
-    {
-        "id": 138,
-        "name": "Walikale",
-        "type": "Territoire",
-        "tribu": [
-            "Nyanga",
-            "Kusu",
-            "Rega",
-            "Hunde/Kumu",
-            "Tembo",
-            "Bishugi",
-            "Mparanyiet",
-            "Banyisuma"
-        ]
-    },
-    {
-        "id": 139,
-        "name": "Wamba",
-        "type": "Territoire",
-        "tribu": [
-            "Babudu",
-            "Babyeru",
-            "Manbgele"
-        ]
-    },
-    {
-        "id": 140,
-        "name": "Watsa",
-        "type": "Territoire",
-        "tribu": [
-            "Manvu",
-            "Mayanga",
-            "Mabadi",
-            "Walese",
-            "Mangele",
-            "Bangba",
-            "Bari"
-        ]
-    },
-    {
-        "id": 141,
-        "name": "Yahuma",
-        "type": "Territoire",
-        "tribu": [
-            "Ngando",
-            "Mbesa"
-        ]
-    },
-    {
-        "id": 142,
-        "name": "Yakoma",
-        "type": "Territoire",
-        "tribu": null
-    },
-    {
-        "id": 143,
-        "name": "Yumbi",
-        "type": "Territoire",
-        "tribu": [
-            "Tiene/Tende",
-            "Nunu"
-        ]
-    },
-    {
-        "id": 144,
-        "name": "Zongo",
-        "type": "Territoire",
-        "tribu": [
-            "Ngbandi",
-            "Ngombe"
-        ]
-    },
-    {
-        "id": 145,
-        "name": "Zongo II",
-        "type": "Territoire",
-        "tribu": [
-            "Ngbandi",
-            "Ngombe"
-        ]
-    }
-]
+{
+    "Bas-Uele": [
+        {
+            "id": 1,
+            "name": "Aketi",
+            "type": "Territoire",
+            "tribu": [
+                "Zande",
+                "Benza",
+                "Bati",
+                "Kolongwandi"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ango",
+            "type": "Territoire",
+            "tribu": [
+                "Zande",
+                "Barambo"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Bambesa",
+            "type": "Territoire",
+            "tribu": [
+                "Nzakara",
+                "Zande",
+                "Kere",
+                "Kango"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Bondo",
+            "type": "Territoire",
+            "tribu": [
+                "Zande",
+                "Ngandi",
+                "Babenge",
+                "Nzakara"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Buta",
+            "type": "Territoire",
+            "tribu": [
+                "Boa",
+                "Zande",
+                "Babenza",
+                "Basoko",
+                "Bangelema",
+                "Lokole",
+                "Wagenia",
+                "Bakango"
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Poko",
+            "type": "Territoire",
+            "tribu": [
+                "Zande",
+                "Rambo",
+                "Kango",
+                "Lele",
+                "Madi"
+            ]
+        }
+    ],
+    "Ituri": [
+        {
+            "id": 3,
+            "name": "Aru",
+            "type": "Territoire",
+            "tribu": [
+                "Lugbara",
+                "Kakwa",
+                "Kaliko-Omi",
+                "Ndo"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Djugu",
+            "type": "Territoire",
+            "tribu": [
+                "Lendu",
+                "Hema",
+                "Mambisa",
+                "Ndo",
+                "Nyali",
+                "Mbuti"
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Irumu",
+            "type": "Territoire",
+            "tribu": [
+                "Bira",
+                "Hema",
+                "Lendu Bindi",
+                "Nyali",
+                "Lese",
+                "Pygmees"
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Mahagi",
+            "type": "Territoire",
+            "tribu": [
+                "Alur",
+                "Ukebu",
+                "Lendu Watsi"
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Mambasa",
+            "type": "Territoire",
+            "tribu": [
+                "Bambutl",
+                "Babila",
+                "Bandaka",
+                "Bombo",
+                "Walese",
+                "Babudu",
+                "Nande"
+            ]
+        }
+    ],
+    "Tshopo": [
+        {
+            "id": 4,
+            "name": "Bafwasende",
+            "type": "Territoire",
+            "tribu": [
+                "Bali",
+                "Kumu",
+                "Rumbi",
+                "Mbuti"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Banalia",
+            "type": "Territoire",
+            "tribu": [
+                "Manga",
+                "Ngelema",
+                "Boa",
+                "Popoyi",
+                "Baboro"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Basoko",
+            "type": "Territoire",
+            "tribu": [
+                "Bango",
+                "Mongelema",
+                "Soo",
+                "Ngelema"
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Isangi",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 120,
+            "name": "Opala",
+            "type": "Territoire",
+            "tribu": [
+                "Mbole"
+            ]
+        },
+        {
+            "id": 136,
+            "name": "Ubundu",
+            "type": "Territoire",
+            "tribu": [
+                "Lengola",
+                "Kumu",
+                "Mituku",
+                "Wagwama",
+                "Baleka",
+                "Genya"
+            ]
+        },
+        {
+            "id": 141,
+            "name": "Yahuma",
+            "type": "Territoire",
+            "tribu": [
+                "Ngando",
+                "Mbesa"
+            ]
+        }
+    ],
+    "Kwilu": [
+        {
+            "id": 5,
+            "name": "Bagata",
+            "type": "Territoire",
+            "tribu": [
+                "Yanzi",
+                "Mbala",
+                "Teke",
+                "Boma",
+                "Hungani",
+                "Nzadi",
+                "Ngole"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Bulungu",
+            "type": "Territoire",
+            "tribu": [
+                "Mbala",
+                "Yanzi",
+                "Ngongo",
+                "Tshamba",
+                "Bunda",
+                "Hungana",
+                "Mputu"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Gungu",
+            "type": "Territoire",
+            "tribu": [
+                "Pende",
+                "Bunda",
+                "Kwese",
+                "Mbala",
+                "Wongo",
+                "Lunda",
+                "Pindji"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Idiofa",
+            "type": "Territoire",
+            "tribu": [
+                "Bunda",
+                "Dinga",
+                "Lele",
+                "Ngoli",
+                "Pende",
+                "Wongo"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Masi-Manimba",
+            "type": "Territoire",
+            "tribu": [
+                "Mbala",
+                "Ngongo",
+                "Suku",
+                "Yansi",
+                "Hungana",
+                "Songo",
+                "Tsamba"
+            ]
+        }
+    ],
+    "Équateur": [
+        {
+            "id": 8,
+            "name": "Basankusu",
+            "type": "Territoire",
+            "tribu": [
+                "Mongo",
+                "Ngombe",
+                "Ngando"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Bikoro",
+            "type": "Territoire",
+            "tribu": [
+                "Ntomba",
+                "Ekonda",
+                "Ngele a Ntambo",
+                "Pygmées"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Bolomba",
+            "type": "Territoire",
+            "tribu": [
+                "Ngombe",
+                "Mongo",
+                "Ekelu",
+                "Baenga",
+                "Balume"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Bomongo",
+            "type": "Territoire",
+            "tribu": [
+                "Dzamba",
+                "Lobala",
+                "Baloi",
+                "Mabinza"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Ingende",
+            "type": "Territoire",
+            "tribu": [
+                "Batswua",
+                "Balumbe",
+                "Bilangi",
+                "Basamalia",
+                "Kundo"
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Makanza",
+            "type": "Territoire",
+            "tribu": [
+                "Mabale",
+                "Balobo",
+                "Libinza",
+                "Bamwe",
+                "Boloki",
+                "Iboko",
+                "Mbenga",
+                "Ndobo",
+                "Motembo",
+                "Mbonzi",
+                "Mpunza",
+                "Bozaba",
+                "Likoka",
+                "Ngombe",
+                "Nkinga"
+            ]
+        }
+    ],
+    "Tshuapa": [
+        {
+            "id": 10,
+            "name": "Befale",
+            "type": "Territoire",
+            "tribu": [
+                "Nsong'ekelese",
+                "Lonola",
+                "Mongando",
+                "Elinga",
+                "Bolifa",
+                "Loma",
+                "Nsongo-Mboyo"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Boende",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 13,
+            "name": "Bokungu",
+            "type": "Territoire",
+            "tribu": [
+                "Bosaka",
+                "Ngombe"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Djolu",
+            "type": "Territoire",
+            "tribu": [
+                "Mongando",
+                "Nsongo",
+                "Yomongo",
+                "Yankata",
+                "Yansola",
+                "Mimbesa",
+                "Boonde"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Ikela",
+            "type": "Territoire",
+            "tribu": [
+                "Topoke",
+                "Boyela",
+                "Koka",
+                "Bangando",
+                "Watsi"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Monkoto",
+            "type": "Territoire",
+            "tribu": [
+                "Mongo",
+                "Batwa"
+            ]
+        }
+    ],
+    "Mai-Ndombe": [
+        {
+            "id": 14,
+            "name": "Bolobo",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 44,
+            "name": "Inongo",
+            "type": "Territoire",
+            "tribu": [
+                "Bolia",
+                "Basengele",
+                "Ntomba Nzele",
+                "Ekonda",
+                "Nunu",
+                "Iyemba"
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Kiri",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 77,
+            "name": "Kutu",
+            "type": "Territoire",
+            "tribu": [
+                "Sakata",
+                "Waria",
+                "Bayi",
+                "Nkundo",
+                "Ntomba"
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Kwamouth",
+            "type": "Territoire",
+            "tribu": [
+                "Teke-sud",
+                "Bateke-sud",
+                "Baboma-Banku",
+                "Baboma-sud"
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Lukolela",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 111,
+            "name": "Mushie",
+            "type": "Territoire",
+            "tribu": [
+                "Boma",
+                "Nunu",
+                "Mpee"
+            ]
+        },
+        {
+            "id": 143,
+            "name": "Yumbi",
+            "type": "Territoire",
+            "tribu": [
+                "Tiene/Tende",
+                "Nunu"
+            ]
+        }
+    ],
+    "Mongala": [
+        {
+            "id": 18,
+            "name": "Bongandanga",
+            "type": "Territoire",
+            "tribu": [
+                "Mongo",
+                "Ngombe"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Bumba",
+            "type": "Territoire",
+            "tribu": [
+                "Budja"
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Lisala",
+            "type": "Territoire",
+            "tribu": [
+                "Ngombe",
+                "Doko",
+                "Motembo",
+                "Moweya",
+                "Mondunga"
+            ]
+        }
+    ],
+    "Nord-Ubangi": [
+        {
+            "id": 19,
+            "name": "Bosobolo",
+            "type": "Territoire",
+            "tribu": [
+                "Mono",
+                "Gobu",
+                "Togbo",
+                "Langbase",
+                "Gbanziri",
+                "Yakpa",
+                "Kwala",
+                "Fulu",
+                "Mbanza",
+                "Ngbaka",
+                "Ngombe"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Businga",
+            "type": "Territoire",
+            "tribu": [
+                "Ngaka",
+                "Mbanza",
+                "Ngbandi",
+                "Ngombe",
+                "Pakibete"
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Mobayi-Mbongo",
+            "type": "Territoire",
+            "tribu": [
+                "Ngandi",
+                "Banda"
+            ]
+        },
+        {
+            "id": 142,
+            "name": "Yakoma",
+            "type": "Territoire",
+            "tribu": null
+        }
+    ],
+    "Sud-Ubangi": [
+        {
+            "id": 20,
+            "name": "Budjala",
+            "type": "Territoire",
+            "tribu": [
+                "Ngwandi Ngili",
+                "Mbanza",
+                "Ngombe",
+                "Nkunda"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Gemena",
+            "type": "Territoire",
+            "tribu": [
+                "Mbansa",
+                "Ngbaka"
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Kungu",
+            "type": "Territoire",
+            "tribu": [
+                "Bomboma",
+                "Lingonda",
+                "Bamwe",
+                "Libinza",
+                "Mbanza",
+                "Ngbaka",
+                "Monzombo",
+                "Lobala",
+                "Ngombe",
+                "Bozaba/Bombili",
+                "Ngbandi"
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Libenge",
+            "type": "Territoire",
+            "tribu": [
+                "Mbanza",
+                "Ngbaka",
+                "Mono",
+                "Ngbundu",
+                "Ngombe"
+            ]
+        },
+        {
+            "id": 144,
+            "name": "Zongo",
+            "type": "Territoire",
+            "tribu": [
+                "Ngbandi",
+                "Ngombe"
+            ]
+        },
+        {
+            "id": 145,
+            "name": "Zongo II",
+            "type": "Territoire",
+            "tribu": [
+                "Ngbandi",
+                "Ngombe"
+            ]
+        }
+    ],
+    "Haut-Lomami": [
+        {
+            "id": 21,
+            "name": "Bukama",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 52,
+            "name": "Kabongo",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 59,
+            "name": "Kamina",
+            "type": "Territoire",
+            "tribu": [
+                "Luba",
+                "Tshokwe",
+                "Dembo"
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Kaniama",
+            "type": "Territoire",
+            "tribu": [
+                "Mutombo Mukulu",
+                "Kasai",
+                "Kabongo",
+                "Kasongo Ngwanyembo"
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Malemba-Nkulu",
+            "type": "Territoire",
+            "tribu": [
+                "Luba",
+                "Zela"
+            ]
+        }
+    ],
+    "Kasaï": [
+        {
+            "id": 26,
+            "name": "Dekese",
+            "type": "Territoire",
+            "tribu": [
+                "Ndengese",
+                "Inkolombe",
+                "Isolu",
+                "Yaelima"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Ilebo",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 60,
+            "name": "Kamonia",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 88,
+            "name": "Luebo",
+            "type": "Territoire",
+            "tribu": [
+                "Lulua",
+                "Kuba",
+                "Kete",
+                "Luba",
+                "Otetela",
+                "Luntu"
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Mweka",
+            "type": "Territoire",
+            "tribu": [
+                "Kete",
+                "Bangende",
+                "Bapianga",
+                "Bangombe",
+                "Bashobwe",
+                "Batwa",
+                "Maluku",
+                "Bakele",
+                "Bambalaie",
+                "Lombelo",
+                "Lona",
+                "Kasuambambi",
+                "Kasua Mbengi",
+                "Bansueba",
+                "Batanda",
+                "Luembe",
+                "Mombo lona",
+                "Popolona sud",
+                "Tshiofa"
+            ]
+        }
+    ],
+    "Kasaï-Central": [
+        {
+            "id": 27,
+            "name": "Demba",
+            "type": "Territoire",
+            "tribu": [
+                "Lula",
+                "Songe",
+                "Tetela",
+                "Bambu",
+                "Bakua Luntu"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Dibaya",
+            "type": "Territoire",
+            "tribu": [
+                "Kete",
+                "Lulua"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Dimbelenge",
+            "type": "Territoire",
+            "tribu": [
+                "Luntu",
+                "Bindi",
+                "Beyankusu",
+                "Songe"
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Kazumba",
+            "type": "Territoire",
+            "tribu": [
+                "Lulua",
+                "Bindi"
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Luiza",
+            "type": "Territoire",
+            "tribu": [
+                "Kete",
+                "Basalampasu",
+                "Mbala",
+                "Lualua"
+            ]
+        }
+    ],
+    "Lualaba": [
+        {
+            "id": 29,
+            "name": "Dilolo",
+            "type": "Territoire",
+            "tribu": [
+                "Tshokwe",
+                "Lunda",
+                "Ndembo",
+                "Minungu",
+                "Luvale"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Kapanga",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 86,
+            "name": "Lubudi",
+            "type": "Territoire",
+            "tribu": [
+                "Bayeke",
+                "Basanga",
+                "Luba",
+                "Ndembo",
+                "Kaonde"
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Mutshatsha",
+            "type": "Territoire",
+            "tribu": [
+                "Ndembo",
+                "Kaonde",
+                "Luba"
+            ]
+        },
+        {
+            "id": 130,
+            "name": "Sandoa",
+            "type": "Territoire",
+            "tribu": [
+                "Tshokwe",
+                "Lunda"
+            ]
+        }
+    ],
+    "Kasaï-Oriental": [
+        {
+            "id": 50,
+            "name": "Kabeya-Kamwanga",
+            "type": "Territoire",
+            "tribu": [
+                "Luba"
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Katanda",
+            "type": "Territoire",
+            "tribu": [
+                "Luba"
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Lupatapata",
+            "type": "Territoire",
+            "tribu": [
+                "Luba"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Miabi",
+            "type": "Territoire",
+            "tribu": [
+                "Bakwa Dishio",
+                "Bena Mulenga",
+                "Bakwa Bubale",
+                "Dishio dia Yamba",
+                "Dishio dia Matu"
+            ]
+        },
+        {
+            "id": 135,
+            "name": "Tshilenge",
+            "type": "Territoire",
+            "tribu": [
+                "Bakwa Kalonji"
+            ]
+        }
+    ],
+    "Lomami": [
+        {
+            "id": 51,
+            "name": "Kabinda",
+            "type": "Territoire",
+            "tribu": [
+                "Songe",
+                "Belande",
+                "Ben'Eki",
+                "Baluba Lubangule",
+                "Bena Budia"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Kamiji",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 83,
+            "name": "Lubao",
+            "type": "Territoire",
+            "tribu": [
+                "Songe",
+                "Lusu Tetela"
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Luilu",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 115,
+            "name": "Ngandajika",
+            "type": "Territoire",
+            "tribu": [
+                "Bakwa-Mulumba",
+                "Tshiyamba",
+                "Kalambayi",
+                "Baluba-Shankadi",
+                "Ngandajika"
+            ]
+        }
+    ],
+    "Kwango": [
+        {
+            "id": 35,
+            "name": "Feshi",
+            "type": "Territoire",
+            "tribu": [
+                "Sonde",
+                "Suku",
+                "Tshokwe",
+                "Kweso",
+                "Pende",
+                "Luwa"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Kahemba",
+            "type": "Territoire",
+            "tribu": [
+                "Lunda",
+                "Tshokwe",
+                "Shinjis",
+                "Minungu",
+                "Pende",
+                "Yaka"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Kasongo-Lunda",
+            "type": "Territoire",
+            "tribu": [
+                "Yaka",
+                "Suku",
+                "Holo",
+                "Tchokwe"
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Kenge",
+            "type": "Territoire",
+            "tribu": [
+                "Yaka",
+                "Mbala"
+            ]
+        },
+        {
+            "id": 124,
+            "name": "Popokabaka",
+            "type": "Territoire",
+            "tribu": [
+                "Yaka",
+                "Mbata"
+            ]
+        }
+    ],
+    "Haut-Uele": [
+        {
+            "id": 33,
+            "name": "Dungu",
+            "type": "Territoire",
+            "tribu": [
+                "Pazande",
+                "Baka",
+                "Madi"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Faradje",
+            "type": "Territoire",
+            "tribu": [
+                "Logo",
+                "Dongo",
+                "Kakwa",
+                "Mondo"
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Niangara",
+            "type": "Territoire",
+            "tribu": [
+                "Mangbetu",
+                "Azande",
+                "Madi",
+                "Bangba",
+                "Mayogo"
+            ]
+        },
+        {
+            "id": 127,
+            "name": "Rungu",
+            "type": "Territoire",
+            "tribu": [
+                "Yogo",
+                "Ngbetu"
+            ]
+        },
+        {
+            "id": 139,
+            "name": "Wamba",
+            "type": "Territoire",
+            "tribu": [
+                "Babudu",
+                "Babyeru",
+                "Manbgele"
+            ]
+        },
+        {
+            "id": 140,
+            "name": "Watsa",
+            "type": "Territoire",
+            "tribu": [
+                "Manvu",
+                "Mayanga",
+                "Mabadi",
+                "Walese",
+                "Mangele",
+                "Bangba",
+                "Bari"
+            ]
+        }
+    ],
+    "Sud-Kivu": [
+        {
+            "id": 36,
+            "name": "Fizi",
+            "type": "Territoire",
+            "tribu": [
+                "Bembe",
+                "Babuyu",
+                "Babwari",
+                "Bazoba"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Idjwi",
+            "type": "Territoire",
+            "tribu": [
+                "Bahavu"
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Kabare",
+            "type": "Territoire",
+            "tribu": [
+                "Shi",
+                "Batembo"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Kalehe",
+            "type": "Territoire",
+            "tribu": [
+                "Havu",
+                "Tembo",
+                "Hunde",
+                "Hutu",
+                "Tutsi",
+                "Shi",
+                "Nyanga",
+                "Rega"
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Mwenga",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 132,
+            "name": "Shabunda",
+            "type": "Territoire",
+            "tribu": [
+                "Rega"
+            ]
+        },
+        {
+            "id": 137,
+            "name": "Uvira",
+            "type": "Territoire",
+            "tribu": [
+                "Bavira",
+                "Bafuliru",
+                "Barundi"
+            ]
+        }
+    ],
+    "Tanganyika": [
+        {
+            "id": 47,
+            "name": "Kabalo",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 56,
+            "name": "Kalemie",
+            "type": "Territoire",
+            "tribu": [
+                "Tumbwe",
+                "Holoholo",
+                "Buyu",
+                "Luba",
+                "Tabwa",
+                "Bembe",
+                "Fulero",
+                "Shi"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Kongolo",
+            "type": "Territoire",
+            "tribu": [
+                "Hemba",
+                "Songe",
+                "Luba",
+                "Kusu",
+                "Yazi"
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Manono",
+            "type": "Territoire",
+            "tribu": [
+                "Baluba"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Moba",
+            "type": "Territoire",
+            "tribu": [
+                "Batabwa",
+                "Luba",
+                "Bemba",
+                "Hemba",
+                "Tetela",
+                "Shi",
+                "Kassai",
+                "Bavira",
+                "Toka Kasongo",
+                "Karundi"
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Nyunzu",
+            "type": "Territoire",
+            "tribu": [
+                "Kalanga",
+                "Luba",
+                "Hemba",
+                "Tungwa",
+                "Mbote"
+            ]
+        }
+    ],
+    "Maniema": [
+        {
+            "id": 48,
+            "name": "Kabambare",
+            "type": "Territoire",
+            "tribu": [
+                "Bangubangu",
+                "Salamabila",
+                "Bahombo",
+                "Bahemba",
+                "Lulindi",
+                "Babuyu",
+                "Batwa"
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Kailo",
+            "type": "Territoire",
+            "tribu": [
+                "Basongola",
+                "Bangengele",
+                "Balanga",
+                "Wagenya",
+                "Wazalia"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Kasongo",
+            "type": "Territoire",
+            "tribu": [
+                "Wazimba",
+                "Wazura",
+                "Basonge",
+                "Benia Mamba",
+                "Benia Kasenga",
+                "Benia Mweho",
+                "Benia Nonda",
+                "Benia Samba",
+                "Bakwange",
+                "Wagenia-Walungu",
+                "Wazalia"
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Kibombo",
+            "type": "Territoire",
+            "tribu": [
+                "Kusu"
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Lubutu",
+            "type": "Territoire",
+            "tribu": [
+                "Kumu"
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Pangi",
+            "type": "Territoire",
+            "tribu": [
+                "Rega"
+            ]
+        },
+        {
+            "id": 125,
+            "name": "Punia",
+            "type": "Territoire",
+            "tribu": [
+                "Komo",
+                "Songola",
+                "Kwame",
+                "Genya",
+                "Wazila"
+            ]
+        }
+    ],
+    "Haut-Katanga": [
+        {
+            "id": 57,
+            "name": "Kambove",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 64,
+            "name": "Kasenga",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 73,
+            "name": "Kipushi",
+            "type": "Territoire",
+            "tribu": [
+                "Lamba",
+                "Aushi",
+                "Kaonde",
+                "Bemba"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Mitwaba",
+            "type": "Territoire",
+            "tribu": [
+                "Zela",
+                "Lomotwa",
+                "Nweshi"
+            ]
+        },
+        {
+            "id": 126,
+            "name": "Pweto",
+            "type": "Territoire",
+            "tribu": [
+                "Bashila",
+                "Babwile",
+                "Bazela",
+                "Bakunda"
+            ]
+        },
+        {
+            "id": 129,
+            "name": "Sakania",
+            "type": "Territoire",
+            "tribu": [
+                "Balamba",
+                "Baushi",
+                "Balala"
+            ]
+        }
+    ],
+    "Sankuru": [
+        {
+            "id": 67,
+            "name": "Katako-Kombe",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 81,
+            "name": "Lodja",
+            "type": "Territoire",
+            "tribu": [
+                "Otetela"
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Lomela",
+            "type": "Territoire",
+            "tribu": [
+                "Bakela",
+                "Batetela",
+                "Bahamba",
+                "Bakutsu",
+                "Djonga"
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Lubefu",
+            "type": "Territoire",
+            "tribu": [
+                "Batetela",
+                "Songe"
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Lusambo",
+            "type": "Territoire",
+            "tribu": [
+                "Basonge",
+                "Bakuba",
+                "Batetela",
+                "Baluba",
+                "Bakwamputu",
+                "Ankutshu",
+                "Bena konji",
+                "Batua"
+            ]
+        }
+    ],
+    "Nord-Kivu": [
+        {
+            "id": 85,
+            "name": "Lubero",
+            "type": "Territoire",
+            "tribu": [
+                "Nande"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Masisi",
+            "type": "Territoire",
+            "tribu": [
+                "Bahutu",
+                "Batutsi",
+                "Batembo",
+                "Bahunde",
+                "Bakumu",
+                "Batwa"
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Nyiragongo",
+            "type": "Territoire",
+            "tribu": [
+                "Hutu",
+                "Hunde/Kumu",
+                "Tutsi",
+                "Twa"
+            ]
+        },
+        {
+            "id": 119,
+            "name": "Oicha",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 128,
+            "name": "Rutshuru",
+            "type": "Territoire",
+            "tribu": [
+                "Hutu",
+                "Nande",
+                "Hunde/Kumu",
+                "Tutsi",
+                "Nyanga",
+                "Twa"
+            ]
+        },
+        {
+            "id": 138,
+            "name": "Walikale",
+            "type": "Territoire",
+            "tribu": [
+                "Nyanga",
+                "Kusu",
+                "Rega",
+                "Hunde/Kumu",
+                "Tembo",
+                "Bishugi",
+                "Mparanyiet",
+                "Banyisuma"
+            ]
+        }
+    ],
+    "Kongo-Central": [
+        {
+            "id": 63,
+            "name": "Kasangulu",
+            "type": "Territoire",
+            "tribu": [
+                "Lemfus",
+                "Humbus",
+                "Mbinsa",
+                "Teke",
+                "Mfunuka",
+                "Nzungi"
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Kimvula",
+            "type": "Territoire",
+            "tribu": [
+                "Mbeku",
+                "Nkanu",
+                "Lula"
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Lukula",
+            "type": "Territoire",
+            "tribu": [
+                "Bayombe",
+                "Mukongo",
+                "Muwoyo"
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Luozi",
+            "type": "Territoire",
+            "tribu": [
+                "Manyanga"
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Madimba",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 104,
+            "name": "Mbanza-Ngungu",
+            "type": "Territoire",
+            "tribu": [
+                "Bakongo",
+                "Oyo",
+                "Asolongo"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Moanda",
+            "type": "Territoire",
+            "tribu": null
+        },
+        {
+            "id": 131,
+            "name": "Seke-Banza",
+            "type": "Territoire",
+            "tribu": [
+                "Bamboma",
+                "Vungu",
+                "Manyanga",
+                "Bayombe"
+            ]
+        },
+        {
+            "id": 133,
+            "name": "Songololo",
+            "type": "Territoire",
+            "tribu": [
+                "Bamboma",
+                "Manianga",
+                "Bandibu",
+                "Bantandu"
+            ]
+        },
+        {
+            "id": 134,
+            "name": "Tshela",
+            "type": "Territoire",
+            "tribu": [
+                "Yombe"
+            ]
+        }
+    ]
+}

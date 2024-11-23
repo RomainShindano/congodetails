@@ -1,0 +1,272 @@
+[
+    {
+        "province": "Bas-Uele",
+        "territories": [
+            "Aketi",
+            "Ango",
+            "Bambesa",
+            "Bondo",
+            "Buta",
+            "Poko"
+        ]
+    },
+    {
+        "province": "Ituri",
+        "territories": [
+            "Aru",
+            "Djugu",
+            "Irumu",
+            "Mahagi",
+            "Mambasa"
+        ]
+    },
+    {
+        "province": "Tshopo",
+        "territories": [
+            "Bafwasende",
+            "Banalia",
+            "Basoko",
+            "Isangi",
+            "Opala",
+            "Ubundu",
+            "Yahuma"
+        ]
+    },
+    {
+        "province": "Kwilu",
+        "territories": [
+            "Bagata",
+            "Bulungu",
+            "Gungu",
+            "Idiofa",
+            "Masi-Manimba"
+        ]
+    },
+    {
+        "province": "Équateur",
+        "territories": [
+            "Basankusu",
+            "Bikoro",
+            "Bolomba",
+            "Bomongo",
+            "Ingende",
+            "Lukolela",
+            "Makanza"
+        ]
+    },
+    {
+        "province": "Tshuapa",
+        "territories": [
+            "Befale",
+            "Boende",
+            "Bokungu",
+            "Djolu",
+            "Ikela",
+            "Monkoto"
+        ]
+    },
+    {
+        "province": "Nord-Kivu",
+        "territories": [
+            "Beni",
+            "Lubero",
+            "Masisi",
+            "Nyiragongo",
+            "Rutshuru",
+            "Walikale"
+        ]
+    },
+    {
+        "province": "Mai-Ndombe",
+        "territories": [
+            "Bolobo",
+            "Inongo",
+            "Kiri",
+            "Kutu",
+            "Kwamouth",
+            "Mushie",
+            "Oshwe",
+            "Yumbi"
+        ]
+    },
+    {
+        "province": "Mongala",
+        "territories": [
+            "Bongandanga",
+            "Bumba",
+            "Lisala"
+        ]
+    },
+    {
+        "province": "Nord-Ubangi",
+        "territories": [
+            "Bosobolo",
+            "Businga",
+            "Mobayi-Mbongo",
+            "Yakoma"
+        ]
+    },
+    {
+        "province": "Sud-Ubangi",
+        "territories": [
+            "Budjala",
+            "Gemena",
+            "Kungu",
+            "Libenge"
+        ]
+    },
+    {
+        "province": "Haut-Lomami",
+        "territories": [
+            "Bukama",
+            "Kabongo",
+            "Kamina",
+            "Kanyama",
+            "Malemba-Nkulu"
+        ]
+    },
+    {
+        "province": "Kasaï",
+        "territories": [
+            "Dekese",
+            "Ilebo",
+            "Kamonia",
+            "Luebo",
+            "Mweka"
+        ]
+    },
+    {
+        "province": "Kasaï-Central",
+        "territories": [
+            "Demba",
+            "Dibaya",
+            "Dimbelenge",
+            "Kazumba",
+            "Luiza"
+        ]
+    },
+    {
+        "province": "Lualaba",
+        "territories": [
+            "Dilolo",
+            "Kapanga",
+            "Lubudi",
+            "Mutshatsha",
+            "Sandoa"
+        ]
+    },
+    {
+        "province": "Haut-Uele",
+        "territories": [
+            "Dungu",
+            "Faradje",
+            "Niangara",
+            "Rungu",
+            "Wamba",
+            "Watsa"
+        ]
+    },
+    {
+        "province": "Kwango",
+        "territories": [
+            "Feshi",
+            "Kahemba",
+            "Kasongo-Lunda",
+            "Kenge",
+            "Popokabaka"
+        ]
+    },
+    {
+        "province": "Sud-Kivu",
+        "territories": [
+            "Fizi",
+            "Idjwi",
+            "Kabare",
+            "Kalehe",
+            "Mwenga",
+            "Shabunda",
+            "Uvira",
+            "Walungu"
+        ]
+    },
+    {
+        "province": "Lomami",
+        "territories": [
+            "Gandajika",
+            "Kabinda",
+            "Kamiji",
+            "Lubao",
+            "Luilu"
+        ]
+    },
+    {
+        "province": "Maniema",
+        "territories": [
+            "Kabambare",
+            "Kailo",
+            "Kasongo",
+            "Kibombo",
+            "Lubutu",
+            "Pangi",
+            "Punia"
+        ]
+    },
+    {
+        "province": "Haut-Katanga",
+        "territories": [
+            "Kambove",
+            "Kasenga",
+            "Kipushi",
+            "Mitwaba",
+            "Pweto",
+            "Sakania"
+        ]
+    },
+    {
+        "province": "Kasaï-Oriental",
+        "territories": [
+            "Kabeya-Kamwanga",
+            "Katanda",
+            "Lupatapata",
+            "Miabi",
+            "Tshilenge"
+        ]
+    },
+    {
+        "province": "Sankuru",
+        "territories": [
+            "Katako-Kombe",
+            "Kole",
+            "Lodja",
+            "Lomela",
+            "Lubefu",
+            "Lusambo"
+        ]
+    },
+    {
+        "province": "Kongo-Central",
+        "territories": [
+            "Kasangulu",
+            "Kimvula",
+            "Lukula",
+            "Luozi",
+            "Madimba",
+            "Mbanza-Ngungu",
+            "Moanda",
+            "Seke-Banza",
+            "Songololo",
+            "Tshela"
+        ]
+    },
+    {
+        "province": "Tanganyika",
+        "territories": [
+            "Kabalo",
+            "Kalemie",
+            "Kongolo",
+            "Manono",
+            "Moba",
+            "Nyunzu"
+        ]
+    }
+]
