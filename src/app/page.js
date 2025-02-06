@@ -56,7 +56,7 @@ export default function Home() {
       </Grid2>
       <Grid2 marginTop={2}>
         <Typography variant="h6" fontWeight={"bold"}>
-          Town & Cities
+          Provinces
         </Typography>
       </Grid2>
       <Grid2 container justifyContent={"space-between"} marginBottom={4}>

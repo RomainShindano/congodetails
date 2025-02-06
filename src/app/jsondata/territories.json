@@ -2,7 +2,7 @@
     "Bas-Uele": [
         {
             "name": "Aketi",
-            "tribu": [
+            "tribe": [
                 "Zande",
                 "Benza",
                 "Bati",
@@ -11,14 +11,14 @@
         },
         {
             "name": "Ango",
-            "tribu": [
+            "tribe": [
                 "Zande",
                 "Barambo"
             ]
         },
         {
             "name": "Bambesa",
-            "tribu": [
+            "tribe": [
                 "Nzakara",
                 "Zande",
                 "Kere",
@@ -27,7 +27,7 @@
         },
         {
             "name": "Bondo",
-            "tribu": [
+            "tribe": [
                 "Zande",
                 "Ngandi",
                 "Babenge",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Buta",
-            "tribu": [
+            "tribe": [
                 "Boa",
                 "Zande",
                 "Babenza",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Poko",
-            "tribu": [
+            "tribe": [
                 "Zande",
                 "Rambo",
                 "Kango",
@@ -61,7 +61,7 @@
     "Ituri": [
         {
             "name": "Aru",
-            "tribu": [
+            "tribe": [
                 "Lugbara",
                 "Kakwa",
                 "Kaliko-Omi",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Djugu",
-            "tribu": [
+            "tribe": [
                 "Lendu",
                 "Hema",
                 "Mambisa",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Irumu",
-            "tribu": [
+            "tribe": [
                 "Bira",
                 "Hema",
                 "Lendu Bindi",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Mahagi",
-            "tribu": [
+            "tribe": [
                 "Alur",
                 "Ukebu",
                 "Lendu Watsi"
@@ -100,7 +100,7 @@
         },
         {
             "name": "Mambasa",
-            "tribu": [
+            "tribe": [
                 "Bambutl",
                 "Babila",
                 "Bandaka",
@@ -114,7 +114,7 @@
     "Tshopo": [
         {
             "name": "Bafwasende",
-            "tribu": [
+            "tribe": [
                 "Bali",
                 "Kumu",
                 "Rumbi",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Banalia",
-            "tribu": [
+            "tribe": [
                 "Manga",
                 "Ngelema",
                 "Boa",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Basoko",
-            "tribu": [
+            "tribe": [
                 "Bango",
                 "Mongelema",
                 "Soo",
@@ -142,17 +142,17 @@
         },
         {
             "name": "Isangi",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Opala",
-            "tribu": [
+            "tribe": [
                 "Mbole"
             ]
         },
         {
             "name": "Ubundu",
-            "tribu": [
+            "tribe": [
                 "Lengola",
                 "Kumu",
                 "Mituku",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Yahuma",
-            "tribu": [
+            "tribe": [
                 "Ngando",
                 "Mbesa"
             ]
@@ -172,7 +172,7 @@
     "Kwilu": [
         {
             "name": "Bagata",
-            "tribu": [
+            "tribe": [
                 "Yanzi",
                 "Mbala",
                 "Teke",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Bulungu",
-            "tribu": [
+            "tribe": [
                 "Mbala",
                 "Yanzi",
                 "Ngongo",
@@ -196,7 +196,7 @@
         },
         {
             "name": "Gungu",
-            "tribu": [
+            "tribe": [
                 "Pende",
                 "Bunda",
                 "Kwese",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Idiofa",
-            "tribu": [
+            "tribe": [
                 "Bunda",
                 "Dinga",
                 "Lele",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Masi-Manimba",
-            "tribu": [
+            "tribe": [
                 "Mbala",
                 "Ngongo",
                 "Suku",
@@ -233,7 +233,7 @@
     "Équateur": [
         {
             "name": "Basankusu",
-            "tribu": [
+            "tribe": [
                 "Mongo",
                 "Ngombe",
                 "Ngando"
@@ -241,7 +241,7 @@
         },
         {
             "name": "Bikoro",
-            "tribu": [
+            "tribe": [
                 "Ntomba",
                 "Ekonda",
                 "Ngele a Ntambo",
@@ -250,7 +250,7 @@
         },
         {
             "name": "Bolomba",
-            "tribu": [
+            "tribe": [
                 "Ngombe",
                 "Mongo",
                 "Ekelu",
@@ -260,7 +260,7 @@
         },
         {
             "name": "Bomongo",
-            "tribu": [
+            "tribe": [
                 "Dzamba",
                 "Lobala",
                 "Baloi",
@@ -269,7 +269,7 @@
         },
         {
             "name": "Ingende",
-            "tribu": [
+            "tribe": [
                 "Batswua",
                 "Balumbe",
                 "Bilangi",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Makanza",
-            "tribu": [
+            "tribe": [
                 "Mabale",
                 "Balobo",
                 "Libinza",
@@ -301,7 +301,7 @@
     "Tshuapa": [
         {
             "name": "Befale",
-            "tribu": [
+            "tribe": [
                 "Nsong'ekelese",
                 "Lonola",
                 "Mongando",
@@ -313,18 +313,18 @@
         },
         {
             "name": "Boende",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Bokungu",
-            "tribu": [
+            "tribe": [
                 "Bosaka",
                 "Ngombe"
             ]
         },
         {
             "name": "Djolu",
-            "tribu": [
+            "tribe": [
                 "Mongando",
                 "Nsongo",
                 "Yomongo",
@@ -336,7 +336,7 @@
         },
         {
             "name": "Ikela",
-            "tribu": [
+            "tribe": [
                 "Topoke",
                 "Boyela",
                 "Koka",
@@ -346,7 +346,7 @@
         },
         {
             "name": "Monkoto",
-            "tribu": [
+            "tribe": [
                 "Mongo",
                 "Batwa"
             ]
@@ -355,11 +355,11 @@
     "Mai-Ndombe": [
         {
             "name": "Bolobo",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Inongo",
-            "tribu": [
+            "tribe": [
                 "Bolia",
                 "Basengele",
                 "Ntomba Nzele",
@@ -370,11 +370,11 @@
         },
         {
             "name": "Kiri",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kutu",
-            "tribu": [
+            "tribe": [
                 "Sakata",
                 "Waria",
                 "Bayi",
@@ -384,7 +384,7 @@
         },
         {
             "name": "Kwamouth",
-            "tribu": [
+            "tribe": [
                 "Teke-sud",
                 "Bateke-sud",
                 "Baboma-Banku",
@@ -393,11 +393,11 @@
         },
         {
             "name": "Lukolela",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Mushie",
-            "tribu": [
+            "tribe": [
                 "Boma",
                 "Nunu",
                 "Mpee"
@@ -405,7 +405,7 @@
         },
         {
             "name": "Yumbi",
-            "tribu": [
+            "tribe": [
                 "Tiene/Tende",
                 "Nunu"
             ]
@@ -414,20 +414,20 @@
     "Mongala": [
         {
             "name": "Bongandanga",
-            "tribu": [
+            "tribe": [
                 "Mongo",
                 "Ngombe"
             ]
         },
         {
             "name": "Bumba",
-            "tribu": [
+            "tribe": [
                 "Budja"
             ]
         },
         {
             "name": "Lisala",
-            "tribu": [
+            "tribe": [
                 "Ngombe",
                 "Doko",
                 "Motembo",
@@ -439,7 +439,7 @@
     "Nord-Ubangi": [
         {
             "name": "Bosobolo",
-            "tribu": [
+            "tribe": [
                 "Mono",
                 "Gobu",
                 "Togbo",
@@ -455,7 +455,7 @@
         },
         {
             "name": "Businga",
-            "tribu": [
+            "tribe": [
                 "Ngaka",
                 "Mbanza",
                 "Ngbandi",
@@ -465,20 +465,20 @@
         },
         {
             "name": "Mobayi-Mbongo",
-            "tribu": [
+            "tribe": [
                 "Ngandi",
                 "Banda"
             ]
         },
         {
             "name": "Yakoma",
-            "tribu": null
+            "tribe": null
         }
     ],
     "Sud-Ubangi": [
         {
             "name": "Budjala",
-            "tribu": [
+            "tribe": [
                 "Ngwandi Ngili",
                 "Mbanza",
                 "Ngombe",
@@ -487,14 +487,14 @@
         },
         {
             "name": "Gemena",
-            "tribu": [
+            "tribe": [
                 "Mbansa",
                 "Ngbaka"
             ]
         },
         {
             "name": "Kungu",
-            "tribu": [
+            "tribe": [
                 "Bomboma",
                 "Lingonda",
                 "Bamwe",
@@ -510,7 +510,7 @@
         },
         {
             "name": "Libenge",
-            "tribu": [
+            "tribe": [
                 "Mbanza",
                 "Ngbaka",
                 "Mono",
@@ -520,14 +520,14 @@
         },
         {
             "name": "Zongo",
-            "tribu": [
+            "tribe": [
                 "Ngbandi",
                 "Ngombe"
             ]
         },
         {
             "name": "Zongo II",
-            "tribu": [
+            "tribe": [
                 "Ngbandi",
                 "Ngombe"
             ]
@@ -536,15 +536,15 @@
     "Haut-Lomami": [
         {
             "name": "Bukama",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kabongo",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kamina",
-            "tribu": [
+            "tribe": [
                 "Luba",
                 "Tshokwe",
                 "Dembo"
@@ -552,7 +552,7 @@
         },
         {
             "name": "Kaniama",
-            "tribu": [
+            "tribe": [
                 "Mutombo Mukulu",
                 "Kasai",
                 "Kabongo",
@@ -561,7 +561,7 @@
         },
         {
             "name": "Malemba-Nkulu",
-            "tribu": [
+            "tribe": [
                 "Luba",
                 "Zela"
             ]
@@ -570,7 +570,7 @@
     "Kasaï": [
         {
             "name": "Dekese",
-            "tribu": [
+            "tribe": [
                 "Ndengese",
                 "Inkolombe",
                 "Isolu",
@@ -579,15 +579,15 @@
         },
         {
             "name": "Ilebo",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kamonia",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Luebo",
-            "tribu": [
+            "tribe": [
                 "Lulua",
                 "Kuba",
                 "Kete",
@@ -598,7 +598,7 @@
         },
         {
             "name": "Mweka",
-            "tribu": [
+            "tribe": [
                 "Kete",
                 "Bangende",
                 "Bapianga",
@@ -624,7 +624,7 @@
     "Kasaï-Central": [
         {
             "name": "Demba",
-            "tribu": [
+            "tribe": [
                 "Lula",
                 "Songe",
                 "Tetela",
@@ -634,14 +634,14 @@
         },
         {
             "name": "Dibaya",
-            "tribu": [
+            "tribe": [
                 "Kete",
                 "Lulua"
             ]
         },
         {
             "name": "Dimbelenge",
-            "tribu": [
+            "tribe": [
                 "Luntu",
                 "Bindi",
                 "Beyankusu",
@@ -650,14 +650,14 @@
         },
         {
             "name": "Kazumba",
-            "tribu": [
+            "tribe": [
                 "Lulua",
                 "Bindi"
             ]
         },
         {
             "name": "Luiza",
-            "tribu": [
+            "tribe": [
                 "Kete",
                 "Basalampasu",
                 "Mbala",
@@ -668,7 +668,7 @@
     "Lualaba": [
         {
             "name": "Dilolo",
-            "tribu": [
+            "tribe": [
                 "Tshokwe",
                 "Lunda",
                 "Ndembo",
@@ -678,11 +678,11 @@
         },
         {
             "name": "Kapanga",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Lubudi",
-            "tribu": [
+            "tribe": [
                 "Bayeke",
                 "Basanga",
                 "Luba",
@@ -692,7 +692,7 @@
         },
         {
             "name": "Mutshatsha",
-            "tribu": [
+            "tribe": [
                 "Ndembo",
                 "Kaonde",
                 "Luba"
@@ -700,7 +700,7 @@
         },
         {
             "name": "Sandoa",
-            "tribu": [
+            "tribe": [
                 "Tshokwe",
                 "Lunda"
             ]
@@ -709,25 +709,25 @@
     "Kasaï-Oriental": [
         {
             "name": "Kabeya-Kamwanga",
-            "tribu": [
+            "tribe": [
                 "Luba"
             ]
         },
         {
             "name": "Katanda",
-            "tribu": [
+            "tribe": [
                 "Luba"
             ]
         },
         {
             "name": "Lupatapata",
-            "tribu": [
+            "tribe": [
                 "Luba"
             ]
         },
         {
             "name": "Miabi",
-            "tribu": [
+            "tribe": [
                 "Bakwa Dishio",
                 "Bena Mulenga",
                 "Bakwa Bubale",
@@ -737,7 +737,7 @@
         },
         {
             "name": "Tshilenge",
-            "tribu": [
+            "tribe": [
                 "Bakwa Kalonji"
             ]
         }
@@ -745,7 +745,7 @@
     "Lomami": [
         {
             "name": "Kabinda",
-            "tribu": [
+            "tribe": [
                 "Songe",
                 "Belande",
                 "Ben'Eki",
@@ -755,22 +755,22 @@
         },
         {
             "name": "Kamiji",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Lubao",
-            "tribu": [
+            "tribe": [
                 "Songe",
                 "Lusu Tetela"
             ]
         },
         {
             "name": "Luilu",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Ngandajika",
-            "tribu": [
+            "tribe": [
                 "Bakwa-Mulumba",
                 "Tshiyamba",
                 "Kalambayi",
@@ -782,7 +782,7 @@
     "Kwango": [
         {
             "name": "Feshi",
-            "tribu": [
+            "tribe": [
                 "Sonde",
                 "Suku",
                 "Tshokwe",
@@ -793,7 +793,7 @@
         },
         {
             "name": "Kahemba",
-            "tribu": [
+            "tribe": [
                 "Lunda",
                 "Tshokwe",
                 "Shinjis",
@@ -804,7 +804,7 @@
         },
         {
             "name": "Kasongo-Lunda",
-            "tribu": [
+            "tribe": [
                 "Yaka",
                 "Suku",
                 "Holo",
@@ -813,14 +813,14 @@
         },
         {
             "name": "Kenge",
-            "tribu": [
+            "tribe": [
                 "Yaka",
                 "Mbala"
             ]
         },
         {
             "name": "Popokabaka",
-            "tribu": [
+            "tribe": [
                 "Yaka",
                 "Mbata"
             ]
@@ -829,7 +829,7 @@
     "Haut-Uele": [
         {
             "name": "Dungu",
-            "tribu": [
+            "tribe": [
                 "Pazande",
                 "Baka",
                 "Madi"
@@ -837,7 +837,7 @@
         },
         {
             "name": "Faradje",
-            "tribu": [
+            "tribe": [
                 "Logo",
                 "Dongo",
                 "Kakwa",
@@ -846,7 +846,7 @@
         },
         {
             "name": "Niangara",
-            "tribu": [
+            "tribe": [
                 "Mangbetu",
                 "Azande",
                 "Madi",
@@ -856,14 +856,14 @@
         },
         {
             "name": "Rungu",
-            "tribu": [
+            "tribe": [
                 "Yogo",
                 "Ngbetu"
             ]
         },
         {
             "name": "Wamba",
-            "tribu": [
+            "tribe": [
                 "Babudu",
                 "Babyeru",
                 "Manbgele"
@@ -871,7 +871,7 @@
         },
         {
             "name": "Watsa",
-            "tribu": [
+            "tribe": [
                 "Manvu",
                 "Mayanga",
                 "Mabadi",
@@ -885,7 +885,7 @@
     "Sud-Kivu": [
         {
             "name": "Fizi",
-            "tribu": [
+            "tribe": [
                 "Bembe",
                 "Babuyu",
                 "Babwari",
@@ -894,20 +894,20 @@
         },
         {
             "name": "Idjwi",
-            "tribu": [
+            "tribe": [
                 "Bahavu"
             ]
         },
         {
             "name": "Kabare",
-            "tribu": [
+            "tribe": [
                 "Shi",
                 "Batembo"
             ]
         },
         {
             "name": "Kalehe",
-            "tribu": [
+            "tribe": [
                 "Havu",
                 "Tembo",
                 "Hunde",
@@ -920,17 +920,17 @@
         },
         {
             "name": "Mwenga",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Shabunda",
-            "tribu": [
+            "tribe": [
                 "Rega"
             ]
         },
         {
             "name": "Uvira",
-            "tribu": [
+            "tribe": [
                 "Bavira",
                 "Bafuliru",
                 "Barundi"
@@ -940,11 +940,11 @@
     "Tanganyika": [
         {
             "name": "Kabalo",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kalemie",
-            "tribu": [
+            "tribe": [
                 "Tumbwe",
                 "Holoholo",
                 "Buyu",
@@ -957,7 +957,7 @@
         },
         {
             "name": "Kongolo",
-            "tribu": [
+            "tribe": [
                 "Hemba",
                 "Songe",
                 "Luba",
@@ -967,13 +967,13 @@
         },
         {
             "name": "Manono",
-            "tribu": [
+            "tribe": [
                 "Baluba"
             ]
         },
         {
             "name": "Moba",
-            "tribu": [
+            "tribe": [
                 "Batabwa",
                 "Luba",
                 "Bemba",
@@ -988,7 +988,7 @@
         },
         {
             "name": "Nyunzu",
-            "tribu": [
+            "tribe": [
                 "Kalanga",
                 "Luba",
                 "Hemba",
@@ -1000,7 +1000,7 @@
     "Maniema": [
         {
             "name": "Kabambare",
-            "tribu": [
+            "tribe": [
                 "Bangubangu",
                 "Salamabila",
                 "Bahombo",
@@ -1012,7 +1012,7 @@
         },
         {
             "name": "Kailo",
-            "tribu": [
+            "tribe": [
                 "Basongola",
                 "Bangengele",
                 "Balanga",
@@ -1022,7 +1022,7 @@
         },
         {
             "name": "Kasongo",
-            "tribu": [
+            "tribe": [
                 "Wazimba",
                 "Wazura",
                 "Basonge",
@@ -1038,25 +1038,25 @@
         },
         {
             "name": "Kibombo",
-            "tribu": [
+            "tribe": [
                 "Kusu"
             ]
         },
         {
             "name": "Lubutu",
-            "tribu": [
+            "tribe": [
                 "Kumu"
             ]
         },
         {
             "name": "Pangi",
-            "tribu": [
+            "tribe": [
                 "Rega"
             ]
         },
         {
             "name": "Punia",
-            "tribu": [
+            "tribe": [
                 "Komo",
                 "Songola",
                 "Kwame",
@@ -1068,15 +1068,15 @@
     "Haut-Katanga": [
         {
             "name": "Kambove",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kasenga",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Kipushi",
-            "tribu": [
+            "tribe": [
                 "Lamba",
                 "Aushi",
                 "Kaonde",
@@ -1085,7 +1085,7 @@
         },
         {
             "name": "Mitwaba",
-            "tribu": [
+            "tribe": [
                 "Zela",
                 "Lomotwa",
                 "Nweshi"
@@ -1093,7 +1093,7 @@
         },
         {
             "name": "Pweto",
-            "tribu": [
+            "tribe": [
                 "Bashila",
                 "Babwile",
                 "Bazela",
@@ -1102,7 +1102,7 @@
         },
         {
             "name": "Sakania",
-            "tribu": [
+            "tribe": [
                 "Balamba",
                 "Baushi",
                 "Balala"
@@ -1112,17 +1112,17 @@
     "Sankuru": [
         {
             "name": "Katako-Kombe",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Lodja",
-            "tribu": [
+            "tribe": [
                 "Otetela"
             ]
         },
         {
             "name": "Lomela",
-            "tribu": [
+            "tribe": [
                 "Bakela",
                 "Batetela",
                 "Bahamba",
@@ -1132,14 +1132,14 @@
         },
         {
             "name": "Lubefu",
-            "tribu": [
+            "tribe": [
                 "Batetela",
                 "Songe"
             ]
         },
         {
             "name": "Lusambo",
-            "tribu": [
+            "tribe": [
                 "Basonge",
                 "Bakuba",
                 "Batetela",
@@ -1154,13 +1154,13 @@
     "Nord-Kivu": [
         {
             "name": "Lubero",
-            "tribu": [
+            "tribe": [
                 "Nande"
             ]
         },
         {
             "name": "Masisi",
-            "tribu": [
+            "tribe": [
                 "Bahutu",
                 "Batutsi",
                 "Batembo",
@@ -1171,7 +1171,7 @@
         },
         {
             "name": "Nyiragongo",
-            "tribu": [
+            "tribe": [
                 "Hutu",
                 "Hunde/Kumu",
                 "Tutsi",
@@ -1180,11 +1180,11 @@
         },
         {
             "name": "Oicha",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Rutshuru",
-            "tribu": [
+            "tribe": [
                 "Hutu",
                 "Nande",
                 "Hunde/Kumu",
@@ -1195,7 +1195,7 @@
         },
         {
             "name": "Walikale",
-            "tribu": [
+            "tribe": [
                 "Nyanga",
                 "Kusu",
                 "Rega",
@@ -1210,7 +1210,7 @@
     "Kongo-Central": [
         {
             "name": "Kasangulu",
-            "tribu": [
+            "tribe": [
                 "Lemfus",
                 "Humbus",
                 "Mbinsa",
@@ -1221,7 +1221,7 @@
         },
         {
             "name": "Kimvula",
-            "tribu": [
+            "tribe": [
                 "Mbeku",
                 "Nkanu",
                 "Lula"
@@ -1229,7 +1229,7 @@
         },
         {
             "name": "Lukula",
-            "tribu": [
+            "tribe": [
                 "Bayombe",
                 "Mukongo",
                 "Muwoyo"
@@ -1237,17 +1237,17 @@
         },
         {
             "name": "Luozi",
-            "tribu": [
+            "tribe": [
                 "Manyanga"
             ]
         },
         {
             "name": "Madimba",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Mbanza-Ngungu",
-            "tribu": [
+            "tribe": [
                 "Bakongo",
                 "Oyo",
                 "Asolongo"
@@ -1255,11 +1255,11 @@
         },
         {
             "name": "Moanda",
-            "tribu": null
+            "tribe": null
         },
         {
             "name": "Seke-Banza",
-            "tribu": [
+            "tribe": [
                 "Bamboma",
                 "Vungu",
                 "Manyanga",
@@ -1268,7 +1268,7 @@
         },
         {
             "name": "Songololo",
-            "tribu": [
+            "tribe": [
                 "Bamboma",
                 "Manianga",
                 "Bandibu",
@@ -1277,7 +1277,7 @@
         },
         {
             "name": "Tshela",
-            "tribu": [
+            "tribe": [
                 "Yombe"
             ]
         }

@@ -4,6 +4,7 @@
             "id": "001",
             "name": "Kinshasa",
             "capital": "Kinshasa",
+            "overview": "Kinshasa, the vibrant capital of the DRC, pulses with creative energy and modern flair while honoring its rich historical roots. This dynamic metropolis is a cultural melting pot where bustling markets, lively music scenes, and contemporary art coexist with traditional customs. As the nation’s political and economic hub, it inspires innovation and progress, drawing people from across the country and around the world. The city’s ever-evolving skyline and energetic streets stand as a testament to its resilience and forward-thinking spirit, making Kinshasa a beacon of hope and national pride.",
             "maps": "/assets/Pronvices/CDKN.svg",
             "coordinates": {
                 "latitude": -4.4419,
@@ -1828,6 +1829,7 @@
         {
             "id": "002",
             "name": "Kongo-Central",
+            "overview": "Kongo-Central captivates with its scenic coastal landscapes and dynamic river systems that have long connected the region to global trade. Anchored by the historic port of Matadi, this province exudes a welcoming maritime charm combined with vibrant local culture. Its lush lowlands and modern transport links reflect a harmonious blend of tradition and progress. Visitors and locals alike are drawn to its energetic markets, rich history, and the promise of continued development, making Kongo-Central a region of enduring appeal and opportunity.",
             "capital": "Matadi",
             "maps": "/assets/Pronvices/CDKC.svg",
             "coordinates": {
@@ -2030,13 +2032,18 @@
                     "coordinates": {
                         "latitude": -5.5000,
                         "longitude": 13.0000
-                    }
+                    },
+                    "tribes": [
+                        "Yombe",
+                        "Kongo"
+                    ]
                 }
             ]
         },
         {
             "id": "003",
             "name": "Kwango",
+            "overview": "Nestled along the border with Angola, Kwango enchants with its expansive savannahs and inviting rural landscapes. The province is celebrated for its deep-rooted agricultural traditions and a warm, close-knit community spirit that infuses every village with vitality. Here, the simplicity of rural life is embraced with pride, and cultural exchanges across the border enrich its vibrant identity. Kwango stands as a testament to the beauty of pastoral living and the enduring strength of community bonds, radiating a sense of peace and natural grace.",
             "capital": "Kenge",
             "maps": "/assets/Pronvices/CDKG.svg",
             "coordinates": {
@@ -2071,19 +2078,24 @@
                     "coordinates": {
                         "latitude": -5.0000,
                         "longitude": 17.0000
-                    }
+                    },
+                    "tribes": [
+                        "Yaka",
+                        "Mbala"
+                    ]
                 }
             ]
         },
         {
             "id": "004",
             "name": "Sud-Kivu",
+            "overview": "Sud-Kivu is a land of breathtaking natural beauty, where rugged highlands meet the shimmering expanse of Lake Kivu. This province, rich in fertile soils and natural resources, is a mosaic of vibrant communities, each contributing to its dynamic cultural heritage. Despite facing challenges, the resilient spirit of its people shines through, making Sud-Kivu a region of remarkable hope and promise. Its stunning landscapes, from dramatic mountain vistas to serene lakesides, invite exploration and admiration, highlighting nature’s splendor at every turn.",
             "capital": "Bukavu",
             "maps": "/assets/Pronvices/CDSK.svg",
             "territories": [
                 {
                     "name": "Fizi",
-                    "tribu": [
+                    "tribes": [
                         "Bembe",
                         "Babuyu",
                         "Babwari",
@@ -2092,20 +2104,20 @@
                 },
                 {
                     "name": "Idjwi",
-                    "tribu": [
+                    "tribes": [
                         "Bahavu"
                     ]
                 },
                 {
                     "name": "Kabare",
-                    "tribu": [
+                    "tribes": [
                         "Shi",
                         "Batembo"
                     ]
                 },
                 {
                     "name": "Kalehe",
-                    "tribu": [
+                    "tribes": [
                         "Havu",
                         "Tembo",
                         "Hunde",
@@ -2118,17 +2130,17 @@
                 },
                 {
                     "name": "Mwenga",
-                    "tribu": null
+                    "tribes": null
                 },
                 {
                     "name": "Shabunda",
-                    "tribu": [
+                    "tribes": [
                         "Rega"
                     ]
                 },
                 {
                     "name": "Uvira",
-                    "tribu": [
+                    "tribes": [
                         "Bavira",
                         "Bafuliru",
                         "Barundi"
@@ -2293,6 +2305,7 @@
         {
             "id": "005",
             "name": "Haut-Katanga",
+            "overview": "Haut-Katanga is a thriving powerhouse known for its substantial mineral wealth and industrious spirit. Anchored by the bustling city of Lubumbashi, the province seamlessly blends modern industrial growth with a deep connection to local traditions. The energy of its mining sectors is matched by the warmth of its communities, who work together to build a future of innovation and prosperity. Haut-Katanga’s landscape is one of transformation, where vibrant urban centers coexist with expansive natural beauty, symbolizing progress and strength.",
             "capital": "Lubumbashi",
             "maps": "/assets/Pronvices/CDHK.svg",
             "coordinates": {
@@ -2613,13 +2626,19 @@
                     "coordinates": {
                         "latitude": -12.0000,
                         "longitude": 28.0000
-                    }
+                    },
+                    "tribes": [
+                        "Bemba",
+                        "Lamba",
+                        "Lunda"
+                    ]
                 }
             ]
         },
         {
             "id": "006",
             "name": "Haut-Lomami",
+            "overview": "Haut-Lomami radiates a welcoming rural charm, enriched by emerging economic opportunities in both agriculture and mining. The province’s rolling landscapes and verdant fields create an idyllic backdrop for communities that are as resourceful as they are friendly. With a focus on sustainable development and infrastructure improvements, Haut-Lomami is steadily evolving while keeping its traditional values at heart. This balance of heritage and progress makes the province a promising and nurturing environment for its residents.",
             "capital": "Kamina",
             "maps": "/assets/Pronvices/CDHL.svg",
             "coordinates": {
@@ -2657,13 +2676,18 @@
                     "coordinates": {
                         "latitude": -9.0000,
                         "longitude": 25.0000
-                    }
+                    },
+                    "tribes": [
+                        "Luba",
+                        "Hemba"
+                    ]
                 }
             ]
         },
         {
             "id": "007",
             "name": "Haut-Uele",
+            "overview": "Haut-Uele offers an enchanting escape into vast, untamed tropical forests and winding river courses. Its remote, pristine landscapes invite exploration and a deep appreciation for nature’s bounty. The province is home to diverse cultural traditions that add a rich layer of heritage to its natural splendor. As development gradually unlocks its potential, Haut-Uele remains a symbol of the DRC’s unspoiled beauty and the promise of new opportunities emerging from its untouched wilderness.",
             "capital": "Isiro",
             "maps": "/assets/Pronvices/CDHU.svg",
             "coordinates": {
@@ -2701,13 +2725,19 @@
                     "coordinates": {
                         "latitude": 3.0000,
                         "longitude": 28.0000
-                    }
+                    },
+                    "tribes": [
+                        "Pazande",
+                        "Baka",
+                        "Madi"
+                    ]
                 }
             ]
         },
         {
             "id": "008",
             "name": "Ituri",
+            "overview": "Ituri is a lush, vibrant province where dense rainforests meet a tapestry of cultural richness and natural abundance. Known for its valuable mineral resources, particularly gold, Ituri also stands out for its enduring indigenous traditions and artistic expressions. The harmonious interplay of nature and culture here creates an atmosphere of mystery and beauty that captivates all who visit. Despite a history of challenges, the spirit of resilience in Ituri shines brightly, marking it as a region of profound heritage and natural wonder.",
             "capital": "Bunia",
             "maps": "/assets/Pronvices/CDIT.svg",
             "coordinates": {
@@ -2745,13 +2775,18 @@
                     "coordinates": {
                         "latitude": 2.0000,
                         "longitude": 30.0000
-                    }
+                    },
+                    "tribes": [
+                        "Hema",
+                        "Lendu"
+                    ]
                 }
             ]
         },
         {
             "id": "010",
             "name": "Kasai-Central",
+            "overview": "Kasai-Central gracefully combines the rustic beauty of forests and savannahs with a vibrant cultural legacy that spans generations. Agriculture and artisanal mining play a central role in sustaining its communities, which are deeply rooted in tradition and communal cooperation. The province’s scenic landscapes and warm, hospitable people create an inviting atmosphere where progress is nurtured alongside heritage. Kasai-Central is a place where natural beauty meets enduring cultural pride, offering a glimpse into the heart of the DRC’s rural soul.",
             "capital": "Kananga",
             "maps": "/assets/Pronvices/CDKC.svg",
             "coordinates": {
@@ -2781,10 +2816,39 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Demba",
+                    "tribes": [
+                        "Lula",
+                        "Songe",
+                        "Tetela",
+                        "Bambu",
+                        "Bakua Luntu"
+                    ]
+                },
+                {
+                    "name": "Dibaya",
+                    "tribes": [
+                        "Kete",
+                        "Lulua"
+                    ]
+                },
+                {
+                    "name": "Dimbelenge",
+                    "tribes": [
+                        "Luntu",
+                        "Bindi",
+                        "Beyankusu",
+                        "Songe"
+                    ]
+                }
             ]
         },
         {
             "id": "011",
+            "overview": "Kasai-Oriental sparkles with a storied past of diamond mining and an enduring commitment to cultural expression. Its fertile lands and lively communities celebrate both resourcefulness and artistic heritage, forging a unique identity that is both historical and forward-looking. The province’s festivals, crafts, and local traditions shine with an infectious creativity, making it a center of both economic vitality and cultural richness. Kasai-Oriental embodies the spirit of innovation tempered by deep respect for its ancestral roots, radiating hope and enduring charm.",
             "name": "Kasai-Oriental",
             "capital": "Mbuji-Mayi",
             "maps": "/assets/Pronvices/CDKE.svg",
@@ -2815,11 +2879,27 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Lusambo",
+                    "tribes": [
+                        "Basonge",
+                        "Bakuba",
+                        "Batetela",
+                        "Baluba",
+                        "Bakwamputu",
+                        "Ankutshu",
+                        "Bena konji",
+                        "Batua"
+                    ]
+                }
             ]
         },
         {
             "id": "012",
             "name": "Kwilu",
+            "overview": "Kwilu is a region where fertile fields and meandering rivers create a picturesque landscape that nurtures a way of life steeped in tradition and simplicity. The province is renowned for its agricultural abundance, and its communities take pride in their close connection to the land. With a warm, welcoming atmosphere and a deep respect for heritage, Kwilu stands as a testament to sustainable living and the beauty of rural unity. Its scenic vistas and cultural depth invite visitors to experience a genuine, heartwarming slice of DRC life.",
             "capital": "Kikwit",
             "maps": "/assets/Pronvices/CDKL.svg",
             "coordinates": {
@@ -2849,11 +2929,73 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Bagata",
+                    "tribes": [
+                        "Yanzi",
+                        "Mbala",
+                        "Teke",
+                        "Boma",
+                        "Hungani",
+                        "Nzadi",
+                        "Ngole"
+                    ]
+                },
+                {
+                    "name": "Bulungu",
+                    "tribes": [
+                        "Mbala",
+                        "Yanzi",
+                        "Ngongo",
+                        "Tshamba",
+                        "Bunda",
+                        "Hungana",
+                        "Mputu"
+                    ]
+                },
+                {
+                    "name": "Gungu",
+                    "tribes": [
+                        "Pende",
+                        "Bunda",
+                        "Kwese",
+                        "Mbala",
+                        "Wongo",
+                        "Lunda",
+                        "Pindji"
+                    ]
+                },
+                {
+                    "name": "Idiofa",
+                    "tribes": [
+                        "Bunda",
+                        "Dinga",
+                        "Lele",
+                        "Ngoli",
+                        "Pende",
+                        "Wongo"
+                    ]
+                },
+                {
+                    "name": "Masi-Manimba",
+                    "tribes": [
+                        "Mbala",
+                        "Ngongo",
+                        "Suku",
+                        "Yansi",
+                        "Hungana",
+                        "Songo",
+                        "Tsamba"
+                    ]
+                }
             ]
         },
         {
             "id": "013",
             "name": "Lomami",
+            "overview": "Lomami dazzles with its expansive forests, rolling fields, and an emerging focus on sustainable agricultural practices. The province is a canvas of natural beauty, where traditional lifestyles are enhanced by modern initiatives aimed at fostering growth and innovation. Local communities embrace their heritage while looking toward the future, creating a balanced environment of progress and preservation. Lomami’s serene landscapes and dynamic spirit make it a promising region full of natural charm and creative energy.",
             "capital": "Kabinda",
             "maps": "/assets/Pronvices/CDLO.svg",
             "coordinates": {
@@ -2883,11 +3025,49 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Kabinda",
+                    "tribes": [
+                        "Songe",
+                        "Belande",
+                        "Ben'Eki",
+                        "Baluba Lubangule",
+                        "Bena Budia"
+                    ]
+                },
+                {
+                    "name": "Kamiji",
+                    "tribes": null
+                },
+                {
+                    "name": "Lubao",
+                    "tribes": [
+                        "Songe",
+                        "Lusu Tetela"
+                    ]
+                },
+                {
+                    "name": "Luilu",
+                    "tribes": null
+                },
+                {
+                    "name": "Ngandajika",
+                    "tribes": [
+                        "Bakwa-Mulumba",
+                        "Tshiyamba",
+                        "Kalambayi",
+                        "Baluba-Shankadi",
+                        "Ngandajika"
+                    ]
+                }
             ]
         },
         {
             "id": "014",
             "name": "Mai-Ndombe",
+            "overview": "At the heart of the Congo Basin, Mai-Ndombe enchants with its lush tropical forests, sparkling wetlands, and rich biodiversity. Indigenous traditions are interwoven with modern conservation efforts, creating a unique blend of cultural heritage and environmental stewardship. The province’s commitment to preserving its natural resources is evident in every vibrant community and flourishing ecosystem. Mai-Ndombe stands as a living testament to the beauty of nature and the wisdom of sustainable living, inviting all to marvel at its verdant splendor.",
             "capital": "Inongo",
             "maps": "/assets/Pronvices/CDMN.svg",
             "coordinates": {
@@ -2917,11 +3097,40 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Inongo",
+                    "tribes": [
+                        "Libinza",
+                        "Mbanza",
+                        "Ngbaka",
+                        "Monzombo",
+                        "Lobala",
+                        "Ngombe",
+                        "Bozaba/Bombili",
+                        "Ngbandi"
+                    ]
+                },
+                {
+                    "name": "Kiri",
+                    "tribes": [
+                        "Libinza",
+                        "Mbanza",
+                        "Ngbaka",
+                        "Monzombo",
+                        "Lobala",
+                        "Ngombe",
+                        "Bozaba/Bombili",
+                        "Ngbandi"
+                    ]
+                }
             ]
         },
         {
             "id": "015",
             "name": "Maniema",
+            "overview": "Maniema is a dynamic province where the rugged beauty of dense forests meets the promise of mineral riches. Its artisanal mining and vibrant agricultural practices contribute to a community that values both progress and tradition. The region’s natural resources are celebrated with care and innovation, fueling local development while preserving its cultural identity. Maniema’s landscapes and spirited people tell a story of resilience and resourcefulness, making it a cornerstone of hope and opportunity in the eastern DRC.",
             "capital": "Kindu",
             "maps": "/assets/Pronvices/CDMA.svg",
             "coordinates": {
@@ -2951,11 +3160,64 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Kabambare",
+                    "tribes": [
+                        "Bangubangu",
+                        "Salamabila",
+                        "Bahombo",
+                        "Bahemba",
+                        "Lulindi",
+                        "Babuyu",
+                        "Batwa"
+                    ]
+                },
+                {
+                    "name": "Kailo",
+                    "tribes": [
+                        "Basongola",
+                        "Bangengele",
+                        "Balanga",
+                        "Wagenya",
+                        "Wazalia"
+                    ]
+                },
+                {
+                    "name": "Kasongo",
+                    "tribes": [
+                        "Wazimba",
+                        "Wazura",
+                        "Basonge",
+                        "Benia Mamba",
+                        "Benia Kasenga",
+                        "Benia Mweho",
+                        "Benia Nonda",
+                        "Benia Samba",
+                        "Bakwange",
+                        "Wagenia-Walungu",
+                        "Wazalia"
+                    ]
+                },
+                {
+                    "name": "Kibombo",
+                    "tribes": [
+                        "Kusu"
+                    ]
+                },
+                {
+                    "name": "Lubutu",
+                    "tribes": [
+                        "Kumu"
+                    ]
+                }
             ]
         },
         {
             "id": "016",
             "name": "Mongala",
+            "overview": "Mongala charms with its life-affirming river networks and lush green expanses that paint a picture of rural tranquility. The province thrives on a tradition of agriculture and fishing, sustained by the nurturing flow of the Mongala River. Its communities, rich in culture and heritage, create a tapestry of warm hospitality and timeless traditions. Mongala is a region where nature’s bounty and the simplicity of life come together to form a serene and enduring legacy of unity and beauty.",
             "capital": "Lisala",
             "maps": "/assets/Pronvices/CDMO.svg",
             "coordinates": {
@@ -2985,11 +3247,37 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Bongandanga",
+                    "tribes": [
+                        "Mongo",
+                        "Ngombe"
+                    ]
+                },
+                {
+                    "name": "Bumba",
+                    "tribes": [
+                        "Budja"
+                    ]
+                },
+                {
+                    "name": "Lisala",
+                    "tribes": [
+                        "Ngombe",
+                        "Doko",
+                        "Motembo",
+                        "Moweya",
+                        "Mondunga"
+                    ]
+                }
             ]
         },
         {
             "id": "017",
             "name": "Nord-Kivu",
+            "overview": "Nord-Kivu captivates with its dramatic landscapes and abundant natural resources that paint a picture of both resilience and renewal. Nestled against the backdrop of rugged highlands and the shimmering waters of Lake Kivu, this province balances its rich mineral heritage with an emerging spirit of sustainable tourism and community innovation. The cultural vibrancy of Nord-Kivu is evident in its artistic traditions and the hopeful energy of its people, making it a region where beauty and potential are woven together in inspiring ways.",
             "capital": "Goma",
             "maps": "/assets/Pronvices/CDNK.svg",
             "coordinates": {
@@ -3019,10 +3307,67 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Lubero",
+                    "tribes": [
+                        "Nande"
+                    ]
+                },
+                {
+                    "name": "Masisi",
+                    "tribes": [
+                        "Bahutu",
+                        "Batutsi",
+                        "Batembo",
+                        "Bahunde",
+                        "Bakumu",
+                        "Batwa"
+                    ]
+                },
+                {
+                    "name": "Nyiragongo",
+                    "tribes": [
+                        "Hutu",
+                        "Hunde/Kumu",
+                        "Tutsi",
+                        "Twa"
+                    ]
+                },
+                {
+                    "name": "Oicha",
+                    "tribes": null
+                },
+                {
+                    "name": "Rutshuru",
+                    "tribes": [
+                        "Hutu",
+                        "Nande",
+                        "Hunde/Kumu",
+                        "Tutsi",
+                        "Nyanga",
+                        "Twa"
+                    ]
+                },
+                {
+                    "name": "Walikale",
+                    "tribes": [
+                        "Nyanga",
+                        "Kusu",
+                        "Rega",
+                        "Hunde/Kumu",
+                        "Tembo",
+                        "Bishugi",
+                        "Mparanyiet",
+                        "Banyisuma"
+                    ]
+                }
             ]
         },
         {
             "id": "018",
+            "overview": "Nord-Ubangi is a serene expanse of lush tropical forests and the majestic Ubangi River, which serves as the lifeblood of its rural communities. The province’s agricultural heritage and time-honored fishing practices are celebrated by people who take pride in their close connection to the land and water. With an emphasis on unity and sustainable growth, Nord-Ubangi offers a glimpse into a harmonious way of life that cherishes nature and community bonds. Its peaceful landscapes and enduring cultural richness make it a quiet haven of hope and natural elegance.",
             "name": "Nord-Ubangi",
             "capital": "Gbadolite",
             "maps": "/assets/Pronvices/CDNU.svg",
@@ -3053,11 +3398,48 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Bosobolo",
+                    "tribes": [
+                        "Mono",
+                        "Gobu",
+                        "Togbo",
+                        "Langbase",
+                        "Gbanziri",
+                        "Yakpa",
+                        "Kwala",
+                        "Fulu"
+                    ]
+                },
+                {
+                    "name": "Businga",
+                    "tribes": [
+                        "Ngaka",
+                        "Mbanza",
+                        "Ngbandi",
+                        "Ngombe",
+                        "Pakibete"
+                    ]
+                },
+                {
+                    "name": "Mobayi-Mbongo",
+                    "tribes": [
+                        "Ngandi",
+                        "Banda"
+                    ]
+                },
+                {
+                    "name": "Yakoma",
+                    "tribes": null
+                }
             ]
         },
         {
             "id": "019",
             "name": "Sankuru",
+            "overview": "Sankuru exudes a gentle, pastoral charm, where vast woodlands and open savannahs provide a tranquil backdrop for everyday life. The province’s rural communities thrive on sustainable agriculture and deeply rooted traditions that celebrate unity and authenticity. Amidst its serene landscapes, local customs and cultural festivities breathe life into the region, creating a sense of belonging and continuity. Sankuru is a place where the simplicity of nature meets the warmth of community, crafting an environment of enduring peace and subtle vibrancy.",
             "capital": "Lusambo",
             "maps": "/assets/Pronvices/CDSA.svg",
             "coordinates": {
@@ -3087,11 +3469,54 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Katako-Kombe",
+                    "tribes": null
+                },
+                {
+                    "name": "Lodja",
+                    "tribes": [
+                        "Otetela"
+                    ]
+                },
+                {
+                    "name": "Lomela",
+                    "tribes": [
+                        "Bakela",
+                        "Batetela",
+                        "Bahamba",
+                        "Bakutsu",
+                        "Djonga"
+                    ]
+                },
+                {
+                    "name": "Lubefu",
+                    "tribes": [
+                        "Batetela",
+                        "Songe"
+                    ]
+                },
+                {
+                    "name": "Lusambo",
+                    "tribes": [
+                        "Basonge",
+                        "Bakuba",
+                        "Batetela",
+                        "Baluba",
+                        "Bakwamputu",
+                        "Ankutshu",
+                        "Bena konji",
+                        "Batua"
+                    ]
+                }
             ]
         },
         {
             "id": "020",
             "name": "Sud-Ubangi",
+            "overview": "Sud-Ubangi, graced by the flowing waters of the Ubangi River and the shelter of dense forests, radiates an inviting sense of harmony and resilience. The province’s communities are deeply connected to their land, drawing on centuries-old traditions of agriculture and fishing to sustain a nurturing way of life. With a strong emphasis on unity and gradual progress, Sud-Ubangi embraces modern opportunities while cherishing its cultural heritage. Its scenic vistas and heartfelt local spirit create an atmosphere of optimism and quiet strength that promises a bright future.",
             "capital": "Gemena",
             "maps": "/assets/Pronvices/CDSU.svg",
             "coordinates": {
@@ -3121,11 +3546,70 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Budjala",
+                    "tribes": [
+                        "Ngwandi Ngili",
+                        "Mbanza",
+                        "Ngombe",
+                        "Nkunda"
+                    ]
+                },
+                {
+                    "name": "Gemena",
+                    "tribes": [
+                        "Mbansa",
+                        "Ngbaka"
+                    ]
+                },
+                {
+                    "name": "Kungu",
+                    "tribes": [
+                        "Bomboma",
+                        "Lingonda",
+                        "Bamwe",
+                        "Libinza",
+                        "Mbanza",
+                        "Ngbaka",
+                        "Monzombo",
+                        "Lobala",
+                        "Ngombe",
+                        "Bozaba/Bombili",
+                        "Ngbandi"
+                    ]
+                },
+                {
+                    "name": "Libenge",
+                    "tribes": [
+                        "Mbanza",
+                        "Ngbaka",
+                        "Mono",
+                        "Ngbundu",
+                        "Ngombe"
+                    ]
+                },
+                {
+                    "name": "Zongo",
+                    "tribes": [
+                        "Ngbandi",
+                        "Ngombe"
+                    ]
+                },
+                {
+                    "name": "Zongo II",
+                    "tribes": [
+                        "Ngbandi",
+                        "Ngombe"
+                    ]
+                }
             ]
         },
         {
             "id": "021",
             "name": "Tanganyika",
+            "overview": "Tanganyika dazzles with its picturesque lakeside charm and vibrant cross-border culture along the sparkling shores of Lake Tanganyika. The province’s dynamic communities balance the allure of traditional fishing and agriculture with modern trade and tourism, fostering a unique environment of cultural exchange. Surrounded by stunning natural vistas, Tanganyika offers an inviting retreat where the serenity of water and the energy of local innovation coexist seamlessly. It is a region where nature’s beauty and community spirit combine to create an inspiring tapestry of life.",
             "capital": "Kalemie",
             "maps": "/assets/Pronvices/CDTA.svg",
             "coordinates": {
@@ -3155,11 +3639,72 @@
                     "communes": [],
                     "neighborhoods": []
                 }
+            ],
+            "territories": [
+                {
+                    "name": "Kabalo",
+                    "tribes": null
+                },
+                {
+                    "name": "Kalemie",
+                    "tribes": [
+                        "Tumbwe",
+                        "Holoholo",
+                        "Buyu",
+                        "Luba",
+                        "Tabwa",
+                        "Bembe",
+                        "Fulero",
+                        "Shi"
+                    ]
+                },
+                {
+                    "name": "Kongolo",
+                    "tribes": [
+                        "Hemba",
+                        "Songe",
+                        "Luba",
+                        "Kusu",
+                        "Yazi"
+                    ]
+                },
+                {
+                    "name": "Manono",
+                    "tribes": [
+                        "Baluba"
+                    ]
+                },
+                {
+                    "name": "Moba",
+                    "tribes": [
+                        "Batabwa",
+                        "Luba",
+                        "Bemba",
+                        "Hemba",
+                        "Tetela",
+                        "Shi",
+                        "Kassai",
+                        "Bavira",
+                        "Toka Kasongo",
+                        "Karundi"
+                    ]
+                },
+                {
+                    "name": "Nyunzu",
+                    "tribes": [
+                        "Kalanga",
+                        "Luba",
+                        "Hemba",
+                        "Tungwa",
+                        "Mbote"
+                    ]
+                }
             ]
         },
         {
             "id": "022",
             "name": "Tshopo",
+            "overview": "Tshopo is a verdant treasure in the heart of the DRC, where lush forests and meandering riverways create a rich landscape teeming with life and culture. The province is home to communities that honor ancestral traditions while embracing the promise of sustainable development. Tshopo’s enchanting natural beauty and deep cultural roots invite exploration and admiration, making it a beacon of environmental and social harmony. With every winding river and flourishing grove, Tshopo tells a story of resilience, creativity, and the timeless bond between people and nature.",
             "capital": "Kisangani",
             "maps": "/assets/Pronvices/CDTO.svg",
             "coordinates": {
@@ -3167,6 +3712,64 @@
                 "longitude": 25.1900
             },
             "postal_code": "51",
+            "territories": [
+                {
+                    "name": "Bafwasende",
+                    "tribe": [
+                        "Bali",
+                        "Kumu",
+                        "Rumbi",
+                        "Mbuti"
+                    ]
+                },
+                {
+                    "name": "Banalia",
+                    "tribe": [
+                        "Manga",
+                        "Ngelema",
+                        "Boa",
+                        "Popoyi",
+                        "Baboro"
+                    ]
+                },
+                {
+                    "name": "Basoko",
+                    "tribe": [
+                        "Bango",
+                        "Mongelema",
+                        "Soo",
+                        "Ngelema"
+                    ]
+                },
+                {
+                    "name": "Isangi",
+                    "tribe": null
+                },
+                {
+                    "name": "Opala",
+                    "tribe": [
+                        "Mbole"
+                    ]
+                },
+                {
+                    "name": "Ubundu",
+                    "tribe": [
+                        "Lengola",
+                        "Kumu",
+                        "Mituku",
+                        "Wagwama",
+                        "Baleka",
+                        "Genya"
+                    ]
+                },
+                {
+                    "name": "Yahuma",
+                    "tribe": [
+                        "Ngando",
+                        "Mbesa"
+                    ]
+                }
+            ],
             "towns": [
                 {
                     "name": "Kisangani",
@@ -3194,6 +3797,7 @@
         {
             "id": "023",
             "name": "Tshuapa",
+            "overview": "Tshuapa is a serene haven where the gentle flow of waterways and the vibrant greenery of tropical landscapes set a calming stage for daily life. Its indigenous communities keep age-old traditions alive, creating a rich cultural tapestry that is both inspiring and enduring. Emphasizing sustainable living and a deep connection to the natural world, Tshuapa fosters an environment where heritage and innovation coexist beautifully. This province invites visitors to experience a peaceful retreat defined by nature’s elegance and a welcoming, communal spirit.",
             "capital": "Boende",
             "maps": "/assets/Pronvices/CDTU.svg",
             "coordinates": {
@@ -3201,6 +3805,60 @@
                 "longitude": 20.8667
             },
             "postal_code": "45",
+            "territories": [
+                {
+                    "name": "Befale",
+                    "tribe": [
+                        "Nsong'ekelese",
+                        "Lonola",
+                        "Mongando",
+                        "Elinga",
+                        "Bolifa",
+                        "Loma",
+                        "Nsongo-Mboyo"
+                    ]
+                },
+                {
+                    "name": "Boende",
+                    "tribe": null
+                },
+                {
+                    "name": "Bokungu",
+                    "tribe": [
+                        "Bosaka",
+                        "Ngombe"
+                    ]
+                },
+                {
+                    "name": "Djolu",
+                    "tribe": [
+                        "Mongando",
+                        "Nsongo",
+                        "Yomongo",
+                        "Yankata",
+                        "Yansola",
+                        "Mimbesa",
+                        "Boonde"
+                    ]
+                },
+                {
+                    "name": "Ikela",
+                    "tribe": [
+                        "Topoke",
+                        "Boyela",
+                        "Koka",
+                        "Bangando",
+                        "Watsi"
+                    ]
+                },
+                {
+                    "name": "Monkoto",
+                    "tribe": [
+                        "Mongo",
+                        "Batwa"
+                    ]
+                }
+            ],
             "towns": [
                 {
                     "name": "Boende",
@@ -3228,6 +3886,7 @@
         {
             "id": "024",
             "name": "Equateur",
+            "overview": "Équateur is a vast and enchanting region dominated by ancient rainforests and winding river systems that celebrate nature in its purest form. The province is a sanctuary of biodiversity, where every corner reveals a new facet of the natural world and vibrant cultural traditions. Local communities cherish their deep connection to the land, practicing sustainable methods and preserving a legacy of environmental stewardship. Équateur shines as a testament to the DRC’s natural wonders and the promise of a greener, more harmonious future.",
             "capital": "Mbandaka",
             "maps": "/assets/Pronvices/CDEQ.svg",
             "coordinates": {
@@ -3235,6 +3894,74 @@
                 "longitude": 18.2603
             },
             "postal_code": "41",
+            "territories": [
+                {
+                    "name": "Basankusu",
+                    "tribe": [
+                        "Mongo",
+                        "Ngombe",
+                        "Ngando"
+                    ]
+                },
+                {
+                    "name": "Bikoro",
+                    "tribe": [
+                        "Ntomba",
+                        "Ekonda",
+                        "Ngele a Ntambo",
+                        "Pygmées"
+                    ]
+                },
+                {
+                    "name": "Bolomba",
+                    "tribe": [
+                        "Ngombe",
+                        "Mongo",
+                        "Ekelu",
+                        "Baenga",
+                        "Balume"
+                    ]
+                },
+                {
+                    "name": "Bomongo",
+                    "tribe": [
+                        "Dzamba",
+                        "Lobala",
+                        "Baloi",
+                        "Mabinza"
+                    ]
+                },
+                {
+                    "name": "Ingende",
+                    "tribe": [
+                        "Batswua",
+                        "Balumbe",
+                        "Bilangi",
+                        "Basamalia",
+                        "Kundo"
+                    ]
+                },
+                {
+                    "name": "Makanza",
+                    "tribe": [
+                        "Mabale",
+                        "Balobo",
+                        "Libinza",
+                        "Bamwe",
+                        "Boloki",
+                        "Iboko",
+                        "Mbenga",
+                        "Ndobo",
+                        "Motembo",
+                        "Mbonzi",
+                        "Mpunza",
+                        "Bozaba",
+                        "Likoka",
+                        "Ngombe",
+                        "Nkinga"
+                    ]
+                }
+            ],
             "towns": [
                 {
                     "name": "Mbandaka",
@@ -3262,6 +3989,7 @@
         {
             "id": "025",
             "name": "Lualaba",
+            "overview": "Lualaba stands out as a region of industrious spirit and abundant natural resources, celebrated for its rich deposits of copper and cobalt. The province skillfully balances modern mining operations with the warmth of close-knit local communities who cherish their cultural heritage. Lualaba’s dynamic blend of industrial progress and scenic beauty creates a landscape of both innovation and tradition. As the engine of economic growth in the south, it continues to forge a future defined by resilience, creativity, and sustainable development.",
             "capital": "Kolwezi",
             "maps": "/assets/Pronvices/CDLU.svg",
             "coordinates": {
@@ -3269,6 +3997,47 @@
                 "longitude": 25.4721
             },
             "postal_code": "72",
+            "territories": [
+                {
+                    "name": "Dilolo",
+                    "tribe": [
+                        "Tshokwe",
+                        "Lunda",
+                        "Ndembo",
+                        "Minungu",
+                        "Luvale"
+                    ]
+                },
+                {
+                    "name": "Kapanga",
+                    "tribe": null
+                },
+                {
+                    "name": "Lubudi",
+                    "tribe": [
+                        "Bayeke",
+                        "Basanga",
+                        "Luba",
+                        "Ndembo",
+                        "Kaonde"
+                    ]
+                },
+                {
+                    "name": "Mutshatsha",
+                    "tribe": [
+                        "Ndembo",
+                        "Kaonde",
+                        "Luba"
+                    ]
+                },
+                {
+                    "name": "Sandoa",
+                    "tribe": [
+                        "Tshokwe",
+                        "Lunda"
+                    ]
+                }
+            ],
             "towns": [
                 {
                     "name": "Kolwezi",
@@ -3296,6 +4065,7 @@
         {
             "id": "026",
             "name": "Bas-Uele",
+            "overview": "Bas-Uele offers a sense of adventure and discovery with its expansive, untouched forests and meandering river routes that whisper tales of the wild. The province is characterized by a pioneering spirit and a deep connection to nature, where local traditions and community bonds are celebrated with quiet pride. As efforts to enhance connectivity and development gather pace, Bas-Uele remains a pristine and promising frontier, rich in natural splendor and cultural heritage. It is a region that invites exploration and inspires hope, a true gem in the DRC’s diverse landscape.",
             "capital": "Buta",
             "maps": "/assets/Pronvices/CDBU.svg",
             "coordinates": {
@@ -3303,6 +4073,65 @@
                 "longitude": 24.7300
             },
             "postal_code": "52",
+            "territories": [
+                {
+                    "name": "Aketi",
+                    "tribe": [
+                        "Zande",
+                        "Benza",
+                        "Bati",
+                        "Kolongwandi"
+                    ]
+                },
+                {
+                    "name": "Ango",
+                    "tribe": [
+                        "Zande",
+                        "Barambo"
+                    ]
+                },
+                {
+                    "name": "Bambesa",
+                    "tribe": [
+                        "Nzakara",
+                        "Zande",
+                        "Kere",
+                        "Kango"
+                    ]
+                },
+                {
+                    "name": "Bondo",
+                    "tribe": [
+                        "Zande",
+                        "Ngandi",
+                        "Babenge",
+                        "Nzakara"
+                    ]
+                },
+                {
+                    "name": "Buta",
+                    "tribe": [
+                        "Boa",
+                        "Zande",
+                        "Babenza",
+                        "Basoko",
+                        "Bangelema",
+                        "Lokole",
+                        "Wagenia",
+                        "Bakango"
+                    ]
+                },
+                {
+                    "name": "Poko",
+                    "tribe": [
+                        "Zande",
+                        "Rambo",
+                        "Kango",
+                        "Lele",
+                        "Madi"
+                    ]
+                }
+            ],
             "towns": [
                 {
                     "name": "Buta",

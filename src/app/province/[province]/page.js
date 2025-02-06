@@ -34,7 +34,7 @@ export default function ProvinceDetail() {
 
     return (
         <>
-            <div>
+            <div style={{ marginBottom: "3vh" }}>
                 <Grid2 container justifyContent={"space-between"} paddingTop={5} paddingBottom={1}>
                     <Grid2>
                         <Typography variant="body2" fontWeight={"bold"}>{provinceData.name}</Typography>
@@ -60,15 +60,15 @@ export default function ProvinceDetail() {
                 </Grid2>
 
                 <Grid2>
-                    <Typography variant="body2">Lorem ipsum dolor sit amet...</Typography>
+                    <Typography variant="body2">{provinceData.overview}</Typography>
                 </Grid2>
                 <Grid2 marginTop={2}>
-                    <Typography variant="h6" fontWeight={"bold"}>Town & Cities</Typography>
+                    <Typography variant="h6" fontWeight={"bold"}>Cities</Typography>
                 </Grid2>
-                <Grid2 container justifyContent={"space-between"} marginBottom={4}>
+                <Grid2 container spacing={2} marginBottom={4}>
                     <Grid2>
                         <List sx={{ marginLeft: 0, paddingLeft: 0 }}>
-                            {provinceData.towns.slice(0, 5).map((town, index) => (
+                            {provinceData.towns.slice(0, 3).map((town, index) => (
                                 <ListItem key={index} sx={{ paddingLeft: 0 }}>
                                     <Grid2>
                                         <Typography variant="body2" fontWeight={"bold"}>{town.name}</Typography>
@@ -80,7 +80,7 @@ export default function ProvinceDetail() {
                     </Grid2>
                     <Grid2>
                         <List sx={{ marginLeft: 0 }}>
-                            {provinceData.towns.slice(5, 10).map((town, index) => (
+                            {provinceData.towns.slice(3, 6).map((town, index) => (
                                 <ListItem key={index}>
                                     <Grid2>
                                         <Typography variant="body2" fontWeight={"bold"}>{town.name}</Typography>
@@ -89,6 +89,25 @@ export default function ProvinceDetail() {
                                 </ListItem>
                             ))}
                         </List>
+                    </Grid2>
+                </Grid2>
+                <Grid2>
+                    <Grid2>
+                        <Typography variant="h6" fontWeight={"bold"} marginBottom={2}>Territories and Tribes</Typography>
+                    </Grid2>
+                    <Grid2 container spacing={4} sx={{ marginLeft: 0 }}>
+                        {provinceData.territories?.map((territories, index) => (
+                            <Grid2 item="true" key={index.toString()}>
+                                <Typography variant="body2" fontWeight={"bold"}>{territories.name}</Typography>
+                                <List sx={{ marginLeft: 0 }}>
+                                    {territories.tribes?.map((tribe, index) => (
+                                        <ListItem key={index.toString()} sx={{ paddingLeft: 0 }}>
+                                            <Typography variant="subtitle2" color="#555555">{tribe}</Typography>
+                                        </ListItem>
+                                    )) || <Typography variant="subtitle2" color="#555555">N/A</Typography>}
+                                </List>
+                            </Grid2>
+                        )) || <Typography variant="body2" color="#555555">No territories available</Typography>}
                     </Grid2>
                 </Grid2>
             </div>
