@@ -23,7 +23,7 @@ export default function Home() {
           </Typography>
         </Grid2>
         <Grid2>
-          <Typography variant="body2">Location</Typography>
+          {/* <Typography variant="body2">Location</Typography> */}
         </Grid2>
       </Grid2>
       <Card elevation={0}>
@@ -37,7 +37,7 @@ export default function Home() {
           Democratic Republic of the Congo
         </Typography>
         <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">
-          00243
+          AREA CODE:00243
         </Typography>
       </Grid2>
 
@@ -65,7 +65,7 @@ export default function Home() {
                     {province.name}
                   </Typography>
                   <Typography variant="subtitle2" color="#555555">
-                    {province.postal_code}
+                    BP: {province.postal_code}
                   </Typography>
                 </Grid2>
               </ListItem>
@@ -81,7 +81,7 @@ export default function Home() {
                     {province.name}
                   </Typography>
                   <Typography variant="subtitle2" color="#555555">
-                    {province.postal_code}
+                    BP: {province.postal_code}
                   </Typography>
                 </Grid2>
               </ListItem>
@@ -97,7 +97,7 @@ export default function Home() {
                     {province.name}
                   </Typography>
                   <Typography variant="subtitle2" color="#555555">
-                    {province.postal_code}
+                    BP: {province.postal_code}
                   </Typography>
                 </Grid2>
               </ListItem>
@@ -113,7 +113,7 @@ export default function Home() {
                     {province.name}
                   </Typography>
                   <Typography variant="subtitle2" color="#555555">
-                    {province.postal_code}
+                    BP: {province.postal_code}
                   </Typography>
                 </Grid2>
               </ListItem>

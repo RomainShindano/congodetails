@@ -38,7 +38,7 @@ export default function ProvinceDetail() {
                 <Grid2 container justifyContent={"space-between"} paddingTop={5} paddingBottom={1}>
                     <Grid2>
                         <Typography variant="body2" fontWeight={"bold"}>{provinceData.name}</Typography>
-                        <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">{provinceData.postal_code}</Typography>
+                        <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">BP: {provinceData.postal_code}</Typography>
                     </Grid2>
                     <Grid2>
                         {/* <Typography variant="body2">Location</Typography> */}
@@ -56,7 +56,7 @@ export default function ProvinceDetail() {
 
                 <Grid2 marginTop={2} marginBottom={1}>
                     <Typography variant="body2" fontWeight={"bold"}>{provinceData.name}</Typography>
-                    <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">{provinceData.postal_code}</Typography>
+                    <Typography variant="subtitle2" fontWeight={"bold"} color="#555555"> BP: {provinceData.postal_code}</Typography>
                 </Grid2>
 
                 <Grid2>
@@ -72,7 +72,7 @@ export default function ProvinceDetail() {
                                 <ListItem key={index} sx={{ paddingLeft: 0 }}>
                                     <Grid2>
                                         <Typography variant="body2" fontWeight={"bold"}>{town.name}</Typography>
-                                        <Typography variant="subtitle2" color="#555555">{town.postal_code}</Typography>
+                                        <Typography variant="subtitle2" color="#555555">BP: {town.postal_code}</Typography>
                                     </Grid2>
                                 </ListItem>
                             ))}
@@ -84,7 +84,7 @@ export default function ProvinceDetail() {
                                 <ListItem key={index}>
                                     <Grid2>
                                         <Typography variant="body2" fontWeight={"bold"}>{town.name}</Typography>
-                                        <Typography variant="subtitle2" color="#555555">{town.postal_code}</Typography>
+                                        <Typography variant="subtitle2" color="#555555">BP: {town.postal_code}</Typography>
                                     </Grid2>
                                 </ListItem>
                             ))}
