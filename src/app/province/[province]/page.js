@@ -41,7 +41,7 @@ export default function ProvinceDetail() {
                         <Typography variant="subtitle2" fontWeight={"bold"} color="#555555">{provinceData.postal_code}</Typography>
                     </Grid2>
                     <Grid2>
-                        <Typography variant="body2">Location</Typography>
+                        {/* <Typography variant="body2">Location</Typography> */}
                     </Grid2>
                 </Grid2>
                 <Card elevation={0}>

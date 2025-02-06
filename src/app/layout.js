@@ -40,10 +40,8 @@ export default function RootLayout({ children }) {
                 sx={{
                   display: { xs: 'none', md: 'block' },
                   backgroundColor: "white",
-                  maxHeight: "100vh",
-                  overflowY: "auto",
+                  overflowY: "0",
                   paddingTop: 3,
-                  paddingBottom: 3,
                 }}>
                 <List>
                   {provinces.map((province, index) => (
@@ -57,7 +55,6 @@ export default function RootLayout({ children }) {
               </Grid2>
               <Grid2 size={{ md: 9, xs: 12 }}
                 sx={{
-                  maxHeight: "100vh",
                   paddingTop: 2,
                   overflowY: "scroll",
                   "&::-webkit-scrollbar": {
