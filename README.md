@@ -18,7 +18,7 @@ The project is built with **Next.js** and uses **Static Site Generation (SSG)** 
 - [Next.js](https://nextjs.org/) – React Framework for web apps
 - [MUI v5](https://mui.com/) – Material UI for UI components and styling
 - JSON – Lightweight data format used as the content source
-- [Vercel](https://vercel.com/) – Hosting and deployment
+- [Netlify](https://www.netlify.com/) – Hosting and deployment
 
 ## How to Run Locally
 
