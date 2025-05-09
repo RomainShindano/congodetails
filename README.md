@@ -1,5 +1,8 @@
 # WikiCongo
 
+#### Video Demo: <PASTE_YOUR_VIDEO_LINK_HERE>
+#### GitHub Repository: https://github.com/romainshindano/wikicongo
+
 ## Description
 **WikiCongo** is a content-driven web application that highlights the culture, history, geography, and important figures of the Democratic Republic of Congo. The platform is designed to educate and inform users through a modern and responsive interface.
 
